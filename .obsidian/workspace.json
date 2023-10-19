@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "431dcb1dfb247b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "4823d651fcbdcfda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea19c79484d1939b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Personagens/Emily Caldwell.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "e6b4959f8719897c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Emily Caldwell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5312055a5f98d7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "649082de5508f2bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c7b9e490366d80b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b13887fb6b8f23ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6531008e45674e64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e8491eecb544cdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6a2322448595f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "d31685be1dbefb10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e42a952b3d9d0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personagens/Emily Caldwell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6170c774db787567",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personagens/Emily Caldwell.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72554b0f2c16d907",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3a1d9c8320c954f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personagens/Emily Caldwell.md"
+              }
+            }
+          },
+          {
+            "id": "05f2b7c93cb278a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6b4959f8719897c",
+  "lastOpenFiles": [
+    "Meta/Prompt.md",
+    "2023-10-19.md",
+    "Meta/Transformação.md",
+    "Meta/Plot twists, personagens na investigação, eventos inesperados.md",
+    "Meta/Desafios Adicionais.md",
+    "Meta/Meta.md",
+    "Cidade/Vale da Serenidade.md",
+    "Cidade/Refúgio das Ervas.md",
+    "Cidade/Igreja de São Sereno.md",
+    "Cidade/Biblioteca Municipal.md",
+    "Cidade/A Floresta Eterna.md",
+    "Personagens/Emily Caldwell.md",
+    "Personagens/A Faminta.md",
+    "Personagens/Elias Hawthorn.md",
+    "Personagens/Helmut Albert Stalone.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Johnathan Reynolds.md",
+    "Personagens/Joseph Miranda Carvalho.md",
+    "Personagens/Marina Corvina.md",
+    "Personagens/Personagens.md",
+    "Personagens/Rufus 'O Sortudo' Wallace.md",
+    "Personagens/Silvanus Thorne.md",
+    "Personagens/Silas Corbet.md",
+    "Personagens/São Sereno.md",
+    "Personagens/Samuel Callan.md",
+    "Personagens/Daniel O'Connor.md",
+    "Canvas.canvas",
+    "Untitled.canvas",
+    "Meta/Arcos",
+    "Narrativa",
+    "Meta",
+    "Assets",
+    "Assets/output.jpg",
+    "Untitled 1.canvas",
+    "Untitled 1",
+    "Personagens",
+    "Cidade"
+  ]
+}

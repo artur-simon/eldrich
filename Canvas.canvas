@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e1579419609df11c","type":"file","file":"Narrativa/Sombras na Serenidade - O pacto com o Desconhecido.md","x":-1240,"y":-1808,"width":800,"height":840},
+		{"id":"298fef67342024da","type":"file","file":"Narrativa/Introdução.md","x":-1240,"y":-880,"width":800,"height":720},
+		{"id":"babee9d64ef2917a","type":"file","file":"Cidade/Vale da Serenidade.md","x":-360,"y":-1808,"width":660,"height":800},
+		{"id":"0bcc4cb716ce9789","type":"file","file":"Cidade/A Floresta Eterna.md","x":-360,"y":-860,"width":400,"height":700},
+		{"id":"d220f1458a146435","type":"file","file":"Cidade/Igreja de São Sereno.md","x":100,"y":-860,"width":400,"height":700},
+		{"id":"10d60fe574a62198","type":"file","file":"Meta/Desafios Adicionais.md","x":-1240,"y":-97,"width":800,"height":863},
+		{"id":"435c3b2f37f7e5d7","type":"file","file":"Personagens/Personagens.md","x":1160,"y":-1808,"width":1020,"height":880},
+		{"id":"061e634cc11161a7","type":"file","file":"Personagens/Henry Holloway.md","x":1160,"y":-868,"width":400,"height":126},
+		{"id":"a72cc0353f3e92dd","type":"file","file":"Personagens/Silvanus Thorne.md","x":1160,"y":-667,"width":400,"height":200},
+		{"id":"98a4d2560bb334fd","type":"file","file":"Personagens/Rufus 'O Sortudo' Wallace.md","x":1600,"y":-868,"width":400,"height":226},
+		{"id":"4cbd6d092d6b2390","type":"file","file":"Personagens/Draculoros.md","x":1600,"y":-600,"width":400,"height":67},
+		{"id":"bf8ca212871f4c12","type":"file","file":"Personagens/A Faminta.md","x":2040,"y":-868,"width":400,"height":50}
+	],
+	"edges":[]
+}

@@ -1,0 +1,1 @@
+fundou a igreja de são sereno no [[Vale da Serenidade]]

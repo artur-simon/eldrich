@@ -1,0 +1,1 @@
+Viu amigos morrerem na guerra
