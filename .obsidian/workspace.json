@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personagens/Emily Caldwell.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -46,11 +45,10 @@
             "id": "e6b4959f8719897c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Personagens/Emily Caldwell.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               }
             }
           },
@@ -133,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Emily Caldwell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Emily Caldwell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personagens/Emily Caldwell.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,6 +198,7 @@
   },
   "active": "e6b4959f8719897c",
   "lastOpenFiles": [
+    "Personagens/Emily Caldwell.md",
     "Meta/Prompt.md",
     "2023-10-19.md",
     "Meta/Transformação.md",
@@ -215,7 +210,6 @@
     "Cidade/Igreja de São Sereno.md",
     "Cidade/Biblioteca Municipal.md",
     "Cidade/A Floresta Eterna.md",
-    "Personagens/Emily Caldwell.md",
     "Personagens/A Faminta.md",
     "Personagens/Elias Hawthorn.md",
     "Personagens/Helmut Albert Stalone.md",
