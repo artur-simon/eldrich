@@ -11,6 +11,7 @@ Cassio controla [[Helmut Albert Stalone]] e Henrique [[Joseph Miranda Carvalho]]
 Segui com o que eu havia planejado com o [[Arco 1 - A chegada ao Vale da Serenidade]]
 e fomos até metade, eles foram até o final da cerimônia no cemitério
 
+Helmut foi de trem, de sua cidade no centro dos EUA até Massachussets, pediu um jornal e passei as noticias principais que estavam acontecendo na época, perdi no chatgpt mas em resumo posso pontuar a Guerra e a Lei Seca.
 
 Personagem do Cassio tem uma voz muito boa.
 
