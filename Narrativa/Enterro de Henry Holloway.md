@@ -1,8 +1,8 @@
 # Cenário
 
-Os personagens dos jogadores receberam uma carta ou mensagem misteriosa que os convocou a Vale da Serenidade. A mensagem informa que um [[Henry Holloway|velho amigo ou parente]] faleceu repentinamente e que seu último desejo foi ser enterrado na cidade natal._
+Os personagens dos jogadores receberam uma carta ou mensagem misteriosa que os convocou a Vale da Serenidade. A mensagem informa que um [[Henry Holloway|velho amigo ou parente]] faleceu repentinamente e que seu último desejo foi ser enterrado na cidade natal.
 
-O falecido é alguém com quem os jogadores têm algum grau de ligação, seja como um antigo mentor, amigo de infância ou parente distante. A mensagem expressa o desejo final do falecido de que eles compareçam ao funeral._
+O falecido é alguém com quem os jogadores têm algum grau de ligação, seja como um antigo mentor, amigo de infância ou parente distante. A mensagem expressa o desejo final do falecido de que eles compareçam ao funeral.
 
 À medida que os personagens se aproximam da cidade, eles notam que algo parece errado. A cidade está envolta em um silêncio opressor, e as ruas estão quase desertas. As lojas estão fechadas, e as poucas pessoas que passam parecem ansiosas e relutantes em interagir.
 
