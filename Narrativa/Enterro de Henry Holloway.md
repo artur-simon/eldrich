@@ -46,7 +46,7 @@ O padre Callahan faz o sinal da cruz e asperge água benta sobre o caixão, como
 
 "Deixemos que Henry encontre a paz que talvez ele tenha procurado durante toda a sua vida, e que possamos encontrar respostas para as perguntas que sua partida deixou em nossos corações."
 
-Ele recita uma oração e, à medida que suas palavras ecoam pelo cemitério, uma sensação de desconforto persistente envolve a cerimônia. Todos ali se perguntam sobre o mistério que envolve Henry Holloway e o que está por vir na jornada que começaram ao receber seu testamento.
+Ele recita uma oração e, à medida que suas palavras ecoam pelo cemitério, uma sensação de desconforto persistente envolve a cerimônia. Todos ali se perguntam sobre o mistério que envolve Henry Holloway e os jogadores ficam com a incerteza do que está por vir na jornada que começaram ao receber seu testamento.
 
 ---
 ## [[Josephine Carter|Prefeita]]
