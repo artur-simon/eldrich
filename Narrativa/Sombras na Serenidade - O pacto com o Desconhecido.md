@@ -1,16 +1,14 @@
 
-Sinopse: Os personagens são chamados para investigar uma série de misteriosos desaparecimentos de crianças em uma pequena cidade rural cercada por densas florestas. À medida que exploram a floresta, eles descobrem um portal para uma dimensão aterrorizante, onde uma entidade cósmica faminta por almas infantis ameaça desencadear o caos em ambos os mundos.
+# Sinopse
+Os personagens são chamados para investigar uma série de misteriosos desaparecimentos de crianças em uma pequena cidade rural cercada por densas florestas. À medida que exploram a floresta, eles descobrem um portal para uma dimensão aterrorizante, onde uma entidade cósmica faminta por almas infantis ameaça desencadear o caos em ambos os mundos.
 
-Descrição da Sessão: A cidade de Vale da Serenidade é conhecida por sua tranquilidade, mas essa paz é quebrada quando crianças começam a desaparecer sem deixar vestígios. Os personagens, talvez chamados como detetives particulares ou investigadores paranormais, são convocados pelas famílias aflitas para resolver o mistério.
+# Descrição da Sessão
+A cidade de Vale da Serenidade é conhecida por sua tranquilidade, mas essa paz é quebrada quando crianças começam a desaparecer sem deixar vestígios. Os personagens recebem uma carta relativa a um parente distante, informando de seu falecimento misterioso, e a proposta de investigação e heranças despertam seus interesses em visitar a cidade.
 
+# Arcos
 1. **Investigação Inicial:** Os personagens começam investigando os desaparecimentos, entrevistando testemunhas e examinando pistas. Descobrem que todas as crianças estavam brincando nas bordas da densa Floresta Eterna quando desapareceram.
-    
 2. **A Floresta Eterna:** A medida que adentram a floresta, a atmosfera se torna mais opressiva. Ruídos estranhos ecoam pelas árvores e sombras inquietantes se movem na periferia de sua visão. Os personagens descobrem um portal velado para outra dimensão escondido em um antigo templo abandonado.
-    
 3. **A Dimensão Sombria:** Ao atravessar o portal, os personagens encontram-se em uma versão distorcida da floresta, onde o céu é perpetuamente escuro e estrelado. Árvores retorcidas e sinistras formam um labirinto assustador. Aqui, eles encontram as crianças desaparecidas, mas elas estão em um estado catatônico e assombrado, incapazes de comunicar-se diretamente.
-    
 4. **A Entidade Cósmica:** Conforme os personagens exploram a dimensão, eles descobrem que uma entidade cósmica conhecida como "A Faminta" reside nesse plano e se alimenta das almas infantis. A entidade é indescritível e horrível, uma presença que é sentida mais do que vista. Os personagens precisam encontrar uma maneira de enfrentá-la e salvar as crianças antes que seja tarde demais.
-    
 5. **O Ritual de Selamento:** Os personagens podem procurar por artefatos místicos ou buscar a ajuda de um eremita local que conhece a história da dimensão. Eles devem realizar um ritual complexo para selar o portal e banir a Faminta de volta ao seu próprio plano. Isso envolve correr contra o tempo enquanto enfrentam criaturas monstruosas que servem à entidade.
-    
 6. **Consequências e Encerramento:** Após o sucesso ou fracasso do ritual, os personagens retornam ao mundo real com as crianças resgatadas ou não. Eles testemunham as consequências das ações da entidade, que podem variar desde a recuperação das crianças até cicatrizes permanentes em suas almas e mentes. A sessão termina com a cidade de Vale da Serenidade enfrentando o trauma de sua experiência com o desconhecido.

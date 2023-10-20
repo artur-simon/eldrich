@@ -1,35 +1,22 @@
 # Possíveis características
 
 1. **Características Limitadas:** Certifique-se de que o personagem que você está jogando tenha limitações notáveis. Eles podem ter habilidades úteis, mas também devem ter fraquezas ou limitações que os impedem de serem uma solução instantânea para os problemas dos jogadores. Por exemplo, eles podem ser fisicamente fracos, emocionalmente instáveis ou inexperientes em situações de perigo.
-    
 2. **Motivação Própria:** Dê ao seu personagem uma motivação pessoal para estar envolvido na história que não envolva resolver os mistérios diretamente. Isso pode ser um desejo de descobrir a verdade, vingar um ente querido ou simplesmente a curiosidade de testemunhar eventos sobrenaturais em primeira mão.
-    
 3. **Vínculos aos Jogadores:** Crie laços entre o seu personagem e os personagens dos jogadores. Isso pode ser feito através de amizade, parentesco ou alguma outra conexão pessoal. Esses laços incentivam a colaboração e a interação, mas não devem ser usados para resolver os mistérios de maneira fácil.
-    
 4. **Personalidade Distinta:** Desenvolva uma personalidade distintiva para o seu personagem que o torne interessante e envolvente para os jogadores, mas não o torne um "super-herói" que possa salvar o dia a qualquer momento.
-    
 5. **Limitação de Conhecimento:** Seu personagem pode não estar ciente de todos os detalhes dos mistérios da história. Eles podem ter suas próprias perguntas e dúvidas, o que os mantém em pé de igualdade com os jogadores em termos de descobrir a verdade.
-    
 6. **Participação Equitativa:** Assegure-se de que o seu personagem não monopolize a narrativa ou a resolução de enigmas. Deixe espaço para que os jogadores liderem a investigação e tomem decisões importantes.
-    
 7. **Aceitar a Vulnerabilidade:** Esteja disposto a permitir que seu personagem enfrente desafios, riscos e até mesmo fracassos ao lado dos jogadores. Isso ajuda a manter o equilíbrio e a incerteza na narrativa.
-    
 8. **Consultor ou Facilitador:** Se o seu personagem tem habilidades úteis, use-as principalmente como consultor ou facilitador. Eles podem fornecer informações ou sugestões aos jogadores, mas não devem resolver os mistérios sozinhos.
-    
 9. **Evite a Autossuficiência:** Certifique-se de que o seu personagem não se torne uma figura autossuficiente que possa superar todos os desafios por conta própria. Eles devem depender dos jogadores tanto quanto os jogadores dependem deles.
 
 # O Tolo
 
 1. **Inocência e Curiosidade:** O personagem pode ser extremamente ingênuo e curioso, sempre ansioso para explorar o desconhecido, mesmo que isso signifique correr riscos. Sua falta de experiência o leva a cometer erros e a subestimar os perigos, contribuindo para o arquétipo do "Tolo".
-    
 2. **Um Toque de Loucura:** O personagem pode ter um traço de excentricidade ou mesmo uma leve insanidade, que o faz ver o mundo de maneira única e muitas vezes não convencional. Isso pode torná-lo um enigma para os outros personagens, e sua falta de conformidade com as normas pode contribuir para o arquétipo do "Tolo".
-    
 3. **Comunicação Incomum:** O personagem pode se expressar de maneira estranha e enigmática, fazendo uso de metáforas, analogias ou até mesmo linguagem incompreensível. Isso pode adicionar um elemento de mistério e confusão ao personagem, fazendo com que os jogadores tentem entender suas palavras.
-    
 4. **Talento para Desenterrar Segredos:** Embora o personagem não seja uma fonte direta de segurança, ele pode ter um talento especial para encontrar pistas e segredos ocultos, muitas vezes por acaso. Essa habilidade pode ser uma parte importante da narrativa, mas o personagem ainda precisará da orientação dos jogadores para entender plenamente o que descobriu.
-    
 5. **Lealdade Inabalável:** O personagem pode ser leal aos jogadores e disposto a segui-los até mesmo nas situações mais perigosas, demonstrando uma espécie de fé cega em sua liderança, o que contribui para a ideia do "Tolo" que confia sem questionar.
-    
 6. **Surpreendentes Atos de Coragem:** De vez em quando, o personagem pode realizar atos de coragem notáveis, aparentemente sem medo das consequências. Esses atos podem chocar os outros personagens, ao mesmo tempo em que contribuem para o arquétipo do "Tolo" que age impulsivamente.
 # A Pulseira Muda
 
