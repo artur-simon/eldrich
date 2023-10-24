@@ -25,18 +25,6 @@ O sequestrador, após concluir o ritual, permanece em silêncio absoluto, evitan
 
 **As Visões Traumáticas**: A criança sobrevivente começa a ter visões traumáticas e pesadelos recorrentes do ritual e das entidades cósmicas associadas a ele. Os investigadores podem usar essas visões como pistas para compreender melhor o que está acontecendo.
 
-## **O Desafio Sobrenatural**
-À medida que os investigadores se aproximam da verdade, eles enfrentam obstáculos sobrenaturais criados pelas entidades cósmicas invocadas pelo sequestrador. Isso inclui aparições aterrorizantes e eventos paranormais que testam sua sanidade.
-
-## **A Corrida contra o Tempo**
-Com a lua cheia se aproximando novamente, os investigadores percebem que o sequestrador pode estar planejando um segundo ritual, colocando mais crianças em risco. Eles enfrentam uma corrida contra o tempo para impedir que isso aconteça.
-
-## **O Fechamento para as Famílias**
-As famílias das crianças desaparecidas finalmente têm algum fechamento, mas a experiência deixou cicatrizes profundas. Os investigadores podem escolher revelar ou não a verdade sobre o culto e as entidades cósmicas aos moradores locais e ao mundo.
-
-## **A Sombra do Culto**
-Mesmo com a resolução, a sombra do culto e das entidades cósmicas permanece. Os investigadores podem optar por continuar a investigar as atividades do culto em futuras aventuras.
-
 
 # Mais ideias para o evento do sequestro
 
