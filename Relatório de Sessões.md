@@ -35,7 +35,7 @@ Albert e Joseph se dirigem à casa de chás. Helmut bebe um chá especial para d
 
 Os dois dormem e tem pesadelos:
 
-Helmut sonhou com sua loja em decaimento, viu seus artefatos no bolso tomarem vida e tentarem o pegar, viu a figura de um ‘Antigo Antiquario’ que o fez refletir sobre suas questões morais. Correu para o quarto e por (SORTE) encontrou uma chave, jogou o casaco em cima das criaturas para contorná las, mas não conseguiu fugir e acordou sem ar (-1 sanidade)
+Helmut sonhou com sua loja em decaimento, viu seus artefatos no bolso tomarem vida e tentarem o pegar, viu a figura de um ‘Antigo Antiquario’ que o fez refletir sobre suas questões morais. Correu para o quarto e por (SORTE) encontrou uma chave, jogou o casaco em cima das criaturas para contorná-las, mas não conseguiu fugir e acordou sem ar (-1 sanidade)
 
 Joseph sonhou estar dentro do Vale mas a cidade completamente distorcida tinha agora uma usina no lugar da igreja. Entrando lá ele passou por corredores que o levaram a um galpão onde encontrou fantasmas esfumaçados de trabalhadores que avançaram sobre ele em desespero. Joseph viu uma figura brilhante que indicou a saída para a usina e tentou passar por entre os fantasmas. Deu um tiro para o alto para tentar afastá-los, mas não teve sucesso. Acordou suado (-1 sanidade)
 
