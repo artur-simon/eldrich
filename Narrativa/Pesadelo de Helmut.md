@@ -1,8 +1,6 @@
 No pesadelo, Helmut se vê em sua própria loja de antiguidades em Lawrence, mas tudo está envolto em sombras sombrias. As prateleiras que costumavam abrigar itens ocultos agora estão vazias, e os objetos que ele guardava em seu cinto de dinheiro começam a se transformar em criaturas monstruosas. O alho se contorce em serpentes, a cruz se torna distorcida e hostil, e a garrafa de água benta se transforma em um líquido negro.
 
-Enquanto Helmut tenta fugir das criaturas que eram suas próprias trinkets, ele ouve a voz de seu grande sobrinho ecoando pela loja. O sobrinho expressa sua decepção por Helmut valorizar os objetos ocultos mais do que o vínculo familiar. Ele acusa Helmut de estar cego para o que realmente importa na vida.
-
-Helmut é então confrontado por uma figura obscura que se autodenomina o "Antigo Vendedor de Segredos". Essa figura critica Helmut por sua obsessão por dinheiro e objetos ocultos, insistindo que a verdadeira riqueza está nos relacionamentos e nas experiências de vida.
+Helmut é então confrontado por uma figura obscura que se autodenomina o "Antigo Vendedor de Segredos". Essa figura critica Helmut por sua obsessão por dinheiro e objetos ocultos.
 
 No clímax do pesadelo, Helmut deve decidir entre abandonar suas obsessões materiais, soltando seus artefatos, ou continuar sua busca incessante por poder e dinheiro à custa de seus relacionamentos pessoais.
 
@@ -31,6 +29,4 @@ Helmut, preso em seu próprio pesadelo, vê-se fugindo pela loja de antiguidades
 
 Enquanto Helmut luta para encontrar uma saída, os artefatos assumem formas monstruosas e começam a persegui-lo, rastejando pelas prateleiras e dobrando-se em formas distorcidas. Os alhos se tornam serpentes venenosas, as cruzes se erguem como espectros vingativos e a água benta se transforma em uma substância escura e viscosa que tenta enredá-lo.
 
-O Antigo Vendedor de Segredos aparece periodicamente no caminho de Helmut, bloqueando sua rota de fuga e lançando sombras arrepiantes em seu caminho. Helmut sente o hálito gelado do Antigo Vendedor em seu pescoço e escuta sua voz sussurrante ecoando em sua mente, aumentando seu desespero.
-
-Enquanto a perseguição prossegue, Helmut se vê cada vez mais encurralado, e o espaço ao seu redor parece se contrair, como se a própria loja o estivesse engolindo. A tensão atinge o auge quando Helmut está prestes a ser capturado pelas trinkets distorcidas, e ele se depara com uma escolha final: enfrentar seu pesadelo ou confrontar a verdade obscura que ele representa.
+Enquanto a perseguição prossegue, Helmut se vê cada vez mais encurralado, e o espaço ao seu redor parece se contrair, como se a própria loja o estivesse engolindo. A tensão atinge o auge quando Helmut está prestes a ser capturado.
