@@ -8,4 +8,4 @@
   
 - **Um Segredo Profundo:** Os segredos do culto eram bem guardados, e a cidade prosperou em relativa paz e tranquilidade, alheia às atividades sombrias em seu seio. No entanto, ao longo dos séculos, os desaparecimentos e eventos sobrenaturais ocasionais suscitaram suspeitas e medo entre os habitantes, que começaram a associar esses fenômenos com a Floresta Eterna e a entidade "A Faminta".
 
-- **O Aumento da Atividade do Culto:** Com o passar dos anos, o culto secreto dedicado a Hagrath cresceu em número e influência. Eles continuaram a realizar rituais sombrios e oferecer almas em sacrifício, ganhando o favor de sua divindade cósmica.
+- **O Aumento da Atividade do Culto:** Com o passar dos anos, o culto secreto dedicado [[A Faminta]] cresceu em número e influência. Eles continuaram a realizar rituais sombrios e oferecer almas em sacrifício, ganhando o favor de sua divindade cósmica.

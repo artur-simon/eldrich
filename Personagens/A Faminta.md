@@ -7,7 +7,7 @@ O verdadeiro nome de "A Faminta" é um segredo profundo e antigo, conhecido apen
 Seu principal desejo é alimentar-se de almas humanas. Ela atrai cultistas que oferecem almas em troca de poder e conhecimento. Quando as almas são consumidas, seus conhecimentos e memórias são absorvidos pela entidade, aumentando ainda mais seu poder.
 ## **Através dos Portais:** 
 "A Faminta" é capaz de abrir portais entre dimensões, permitindo que ela se manifeste em diferentes lugares e épocas. A Floresta Eterna de Vale da Serenidade é um dos locais onde esses portais são mais frágeis, tornando-se uma área propícia para sua influência.
-## **Cultistas:** 
+## **[[O Culto|Cultistas]]:** 
 A Faminta age principalmente por meio de cultistas devotos que a adoram como uma divindade. Esses cultistas, como [[Silvanus Thorne]], realizam rituais para abrir os portais e fornecer almas como tributo. Em troca, eles podem receber dons sobrenaturais, mas frequentemente pagam um preço terrível em termos de sanidade.
 ## **Influência:** 
 A mera proximidade de "A Faminta" ou de seus portais pode corromper a realidade e perturbar a sanidade daqueles que se aventuram muito perto dela. Sussurros, visões perturbadoras e distorções na realidade são sinais de sua presença.
