@@ -15,9 +15,9 @@ Aqui estão os principais personagens:
 - **Médico da Cidade:** Ele é cético quanto a elementos sobrenaturais, mas sua perícia médica pode ser vital para entender o estado físico e mental das crianças e o que aconteceu com elas.
 - **Historiador Local:** Um estudioso que pesquisa a história de Vale da Serenidade e da Floresta Eterna. Ele possui manuscritos antigos e documentos que podem conter pistas sobre o passado da cidade e sobre a entidade cósmica.
 - **Padeiro da Cidade:** O padeiro é afirma ter visto algo estranho na Floresta Eterna. Ele pode fornecer testemunhos perturbadores sobre o que acontece quando o sol se põe nas imediações da floresta.
-- **Comerciante Misterioso [[Silvanus Thorne]]:** Um comerciante que lida com objetos e artefatos incomuns. Ele pode ter um interesse oculto nos desaparecimentos e pode oferecer itens ou informações valiosas em troca de ajuda.
 - **Guarda da Floresta:** [[Elias Hawthorn]] Um guarda florestal encarregado de patrulhar as bordas da Floresta Eterna. Ele pode ser um guia valioso para a floresta e conhecer seus segredos, mas também pode ter experimentado encontros perturbadores.
 - **Erudito de Livros Raros:** Um colecionador de livros raros e antigos que possui volumes que contêm informações cruciais sobre a entidade cósmica e a história da cidade.
 - **Fantasma de um Antigo Habitante:** Um espectro que assombra a floresta e pode ter informações sobre o passado de Vale da Serenidade e os eventos que levaram aos desaparecimentos.
 - **Cultistas Locais:** Uma seita secreta que venera a entidade cósmica. Eles podem ser um obstáculo para os investigadores, tentando impedir a resolução do mistério ou até mesmo ajudando a entidade.
 	- [[Draculoros]]
+	- **Comerciante Misterioso [[Silvanus Thorne]]:** Um comerciante que lida com objetos e artefatos incomuns. Ele pode ter um interesse oculto nos desaparecimentos e pode oferecer itens ou informações valiosas em troca de ajuda.
