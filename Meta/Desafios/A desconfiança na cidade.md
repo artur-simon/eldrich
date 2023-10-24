@@ -1,0 +1,1 @@
+À medida que os personagens exploram a cidade e investigam os desaparecimentos, podem perceber que a maioria dos habitantes está profundamente desconfiada de estranhos. Eles podem encontrar resistência e hostilidade quando tentam obter informações, forçando-os a agir com cautela e diplomacia.

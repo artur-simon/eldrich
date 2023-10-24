@@ -12,8 +12,6 @@ A principal praça da cidade é dominada por uma antiga [[Igreja de São Sereno|
 # Habitantes
 
 - 1000 habitantes(-1)
-
-[[Personagens]]
 # **Locais**
 
 ## Principais locais
@@ -52,3 +50,18 @@ A economia de Vale da Serenidade é baseada em atividades tradicionais que refle
 7. **Criação de Gado:** Alguns habitantes da cidade se dedicam à criação de gado, como ovelhas e vacas, que fornecem carne, leite e lã para o consumo local e também para comércio com cidades vizinhas.
     
 Essas atividades econômicas sustentam a vida da cidade e contribuem para a sensação de isolamento e autossuficiência de Vale da Serenidade.
+
+
+# HISTORIA REAL
+
+Era uma época perdida nos cantos esquecidos da história, onde os velhos sussurros do mundo ecoavam através das sombras da existência. Os séculos eram meros grãos de areia em um relógio quebrado, e a humanidade dançava à margem da eternidade. Em uma terra selvagem e inexplorada, o destino conspirou para trazer à tona um segredo ancestral, um segredo que nunca deveria ter sido revelado.
+
+Vale da Serenidade, então um nome desconhecido, nasceu nos abraços de uma floresta antiga e densa, conhecida como a Floresta Eterna. As árvores, altas e retorcidas, pareciam sussurrar segredos ancestrais enquanto as folhas sussurravam canções misteriosas que permeavam o ar. Era um local onde os véus entre dimensões eram finos, um portal para o desconhecido, uma fronteira onde a realidade e a imaginação se entrelaçavam.
+
+Sob a sombra impenetrável das árvores milenares, um culto secreto, formado por sábios e visionários, lançou as bases do que viria a ser Vale da Serenidade. Eles descobriram antigos textos que aludiam a uma entidade cósmica chamada "A Faminta". Uma entidade cujo nome verdadeiro não poderia ser pronunciado por língua humana, mas que despertava um apetite insaciável, um desejo insano de devorar almas.
+
+Esses cultistas, motivados pelo desejo de poder e conhecimento proibido, começaram a adorar "A Faminta" em segredo. Rituais profanos foram realizados, oferendas de almas humanas foram feitas em troca de visões e dons sobrenaturais. Os portais entre dimensões se abriram, trazendo fragmentos da presença de "A Faminta" para o mundo mortal.
+
+Os efeitos foram devastadores. A realidade se contorceu e distorceu, eventos inexplicáveis abalaram a região, e a floresta pareceu ganhar vida própria. A cidade, agora chamada Vale da Serenidade, cresceu nas margens dessa floresta amaldiçoada. A base do culto estava estabelecida, e eles se infiltraram na cidade, escondendo suas práticas nas sombras da noite.
+
+E assim, enquanto o sol se punha sobre as colinas que cercavam a cidade e a Floresta Eterna sussurrava seus segredos à luz da lua, o pacto sombrio entre os cultistas e "A Faminta" lançou uma sombra eterna sobre Vale da Serenidade. A cidade floresceu, alheia às atividades ocultas que a alimentavam, à medida que segredos ancestrais se escondiam sob a fachada da normalidade.

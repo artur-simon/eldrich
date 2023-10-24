@@ -8,7 +8,7 @@ O falecido é alguém com quem os jogadores têm algum grau de ligação, seja c
 
 Quando os personagens finalmente chegam ao cemitério, encontram um grupo pequeno e sombrio de enlutados que se reúne em torno de uma sepultura recentemente cavada. O clima é pesado, e parece haver um segredo profundo pairando sobre o enterro.
 
-À medida que o caixão desce na sepultura, os jogadores notam que há um símbolo misterioso inscrito na lápide, algo que parece estar relacionado com os segredos sombrios da cidade. O coveiro, um homem taciturno, lança um olhar enigmático para eles enquanto termina o enterro.
+À medida que o caixão desce na sepultura, os jogadores notam que há um símbolo misterioso inscrito na lápide, algo que parece estar relacionado com os segredos sombrios da cidade. O coveiro ([[Silas Corbet]]), um homem taciturno, lança um olhar enigmático para eles enquanto termina o enterro.
 
 É nesse momento que os jogadores percebem que sua presença em Vale da Serenidade não é apenas para prestar homenagem ao falecido, mas também para desvendar os mistérios sombrios que envolvem a cidade e seus habitantes.
 
@@ -17,7 +17,7 @@ Quando os personagens finalmente chegam ao cemitério, encontram um grupo pequen
 
 As sombras se alongam sobre o tranquilo cemitério de Vale da Serenidade à medida que a tarde avança. Um pequeno grupo de pessoas se reúne em torno de uma sepultura recém-escavada, marcando o local onde Henry Holloway será enterrado. O céu está nublado, como se a própria natureza compartilhasse o luto da cidade.
 
-A prefeita Josephine Carter, com um semblante solene, mantém-se perto do caixão simples. O xerife Daniel O'Connor, de olhar perspicaz, está ao lado dela. O padre Samuel Callahan, com suas vestes sacerdotais, começa a cerimônia religiosa com palavras de conforto e esperança.
+A prefeita Josephine Carter, com um semblante solene, mantém-se perto do caixão simples. O xerife Daniel O'Connor, de olhar perspicaz, está ao lado dela. O padre Samuel Callan, com suas vestes sacerdotais, começa a cerimônia religiosa com palavras de conforto e esperança.
 
 Não há parentes próximos ou amigos íntimos presentes, apenas um punhado de rostos familiares da cidade, alguns dos quais mal conheciam Henry. Os moradores locais estão lá por respeito, embora a ausência de parentes ou amigos próximos tenha levantado questões não ditas.
 
@@ -72,7 +72,7 @@ A prefeita Josephine Carter faz um gesto de respeito e se afasta, deixando os pe
 ---
 ## [[Daniel O'Connor|Xerife]]
 
-"Bem-vindos a Vale da Serenidade. Espero que não tenham vindo para um evento triste como esse. A morte de Henry Holloway nos deixou perplexos e preocupados. Não era um homem de muitos amigos na cidade, mas sua partida é sentida por todos."
+"Bem-vindos a Vale da Serenidade. É uma pena conhecê-los em um evento triste como esse. A morte de Henry Holloway nos deixou perplexos e preocupados. Não era um homem de muitos amigos na cidade, mas sua partida é sentida por todos."
 
 Ele pausa por um momento antes de prosseguir:
 

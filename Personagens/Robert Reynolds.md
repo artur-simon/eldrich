@@ -1,3 +1,9 @@
+Robert Reynolds é o pai da criança desaparecida, [[Isabella Reynolds]]
+
+Afirmar ter visões e sonhos proféticos. Sendo uma fonte de informações enigmáticas e misteriosas, que podem guiar ou confundir os investigadores.
+
+É encontrado morto durante as investigações com os jogadores.
+
 A descoberta do pai de uma das crianças desaparecidas morto, aparentemente por suicídio, pode ser um evento dramático e intrigante na narrativa. Aqui estão alguns detalhes para aprofundar essa situação:
 
 1. **Cena do Suicídio:** O corpo do pai é encontrado em sua casa. Ele é descoberto enforcado em um cômodo escuro, com uma cadeira derrubada aos seus pés. Há uma atmosfera sombria e angustiante no local, com as cortinas fechadas e objetos pessoais espalhados.
@@ -18,12 +24,12 @@ A descoberta do pai de uma das crianças desaparecidas morto, aparentemente por 
 
 
 # Detalhes
-A morte de Johnathan Reynolds foi inicialmente considerada um suicídio. Ele foi encontrado enforcado na floresta próxima à cidade, não muito longe de onde os desaparecimentos das crianças ocorreram. No entanto, alguns detalhes chamam a atenção:
+A morte de Robert Reynolds foi inicialmente considerada um suicídio. Ele foi encontrado enforcado na floresta próxima à cidade, não muito longe de onde os desaparecimentos das crianças ocorreram. No entanto, alguns detalhes chamam a atenção:
 
-1. **Carta Misteriosa:** Junto ao corpo de Johnathan, os investigadores encontraram uma carta manuscrita, que parecia estar inacabada. A carta fazia referência ao "olhar que nunca cessa" e mencionava algo sobre "a única maneira de escapar".
+1. **Carta Misteriosa:** Junto ao corpo de Robert, os investigadores encontraram uma carta manuscrita, que parecia estar inacabada. A carta fazia referência ao "olhar que nunca cessa" e mencionava algo sobre "a única maneira de escapar".
     
-2. **Sem Sinais de Depressão:** Johnathan era conhecido como um homem de família feliz, e seus amigos e familiares estão chocados com a ideia de que ele teria tirado a própria vida. Ele não tinha histórico de depressão ou problemas mentais conhecidos.
+2. **Sem Sinais de Depressão:** Robert era conhecido como um homem de família feliz, e seus amigos e familiares estão chocados com a ideia de que ele teria tirado a própria vida. Ele não tinha histórico de depressão ou problemas mentais conhecidos.
     
 3. **Estranhas Evidências no Local:** Além da carta, havia marcas estranhas ao redor do local onde ele foi encontrado. Pareciam desenhos circulares esculpidos na casca das árvores, todos convergindo para o ponto onde seu corpo estava.
     
-4. **Desaparecimentos Conexos:** As autoridades começam a ligar os pontos entre a morte de Johnathan Reynolds e os desaparecimentos das crianças. Aproximadamente no mesmo período em que ele morreu, outra criança desapareceu misteriosamente.
+4. **Desaparecimentos Conexos:** As autoridades começam a ligar os pontos entre a morte de Robert Reynolds e os desaparecimentos das crianças. Aproximadamente no mesmo período em que ele morreu, outra criança desapareceu misteriosamente.

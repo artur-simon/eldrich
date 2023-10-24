@@ -8,29 +8,31 @@ Seu principal desejo é alimentar-se de almas humanas. Ela atrai cultistas que o
 ## **Através dos Portais:** 
 "A Faminta" é capaz de abrir portais entre dimensões, permitindo que ela se manifeste em diferentes lugares e épocas. A Floresta Eterna de Vale da Serenidade é um dos locais onde esses portais são mais frágeis, tornando-se uma área propícia para sua influência.
 ## **Cultistas:** 
-A Faminta age principalmente por meio de cultistas devotos que a adoram como uma divindade. Esses cultistas, como Silvanus Thorne, realizam rituais para abrir os portais e fornecer almas como tributo. Em troca, eles podem receber dons sobrenaturais, mas frequentemente pagam um preço terrível em termos de sanidade.
+A Faminta age principalmente por meio de cultistas devotos que a adoram como uma divindade. Esses cultistas, como [[Silvanus Thorne]], realizam rituais para abrir os portais e fornecer almas como tributo. Em troca, eles podem receber dons sobrenaturais, mas frequentemente pagam um preço terrível em termos de sanidade.
 ## **Influência:** 
 A mera proximidade de "A Faminta" ou de seus portais pode corromper a realidade e perturbar a sanidade daqueles que se aventuram muito perto dela. Sussurros, visões perturbadoras e distorções na realidade são sinais de sua presença.
 ## **Motivação:** 
 Os verdadeiros objetivos de "A Faminta" permanecem obscuros. Alguns acreditam que ela busca aumentar sua própria consciência e conhecimento cósmico, enquanto outros acreditam que ela simplesmente age por instinto, consumindo almas para saciar sua fome insaciável.
 
-# **Parte 1: As Origens d"A Faminta":**
+# **As Origens d"A Faminta":**
 
-- **A Antiguidade Obscura:** A história de "A Faminta" remonta a tempos imemoriais, muito antes da fundação de Vale da Serenidade. Ela é uma das entidades cósmicas mais antigas e obscuras, cujas origens estão envoltas em mistério. Seu nome verdadeiro não pode ser pronunciado por língua humana, e é conhecida apenas por suas apetites insaciáveis.
-  
-- **Um Culto Perdido:** Há séculos atrás, um culto secreto descobriu os escritos antigos que faziam referência a "A Faminta". Eles foram atraídos pelos prometidos poderes cósmicos e conhecimentos ocultos que a entidade poderia conceder. O culto, cujos membros eram compostos por estudiosos, feiticeiros e visionários, começou a adorar "A Faminta" em segredo.
-  
-- **Rituais Profanos:** Os cultistas realizaram rituais profanos e oferendas de almas humanas em troca de visões e poderes sobrenaturais. Eles abriram portais para as dimensões desconhecidas onde "A Faminta" residia, trazendo fragmentos de sua presença para o mundo mortal. Isso trouxe distorções na realidade e eventos estranhos que assolaram a região.
-  
-- **A Fundação de Vale da Serenidade:** Eventualmente, os cultistas perceberam que a Floresta Eterna, com suas densas árvores antigas, era um local onde os véus entre as dimensões eram mais frágeis, facilitando o contato com "A Faminta". Eles fundaram Vale da Serenidade nas proximidades da floresta, estabelecendo a cidade como uma base para suas atividades ocultas.
-  
-- **Pactos e Corrupção:** À medida que os cultistas aumentaram sua adoração a "A Faminta", eles começaram a fazer pactos sinistros com a entidade. Em troca de poderes sobrenaturais e conhecimento proibido, eles ofereceram almas humanas como tributos. As almas sacrificadas alimentaram a fome insaciável de "A Faminta" e fortaleceram sua influência sobre a cidade.
-  
-- **Um Segredo Profundo:** Os segredos do culto eram bem guardados, e a cidade prosperou em relativa paz e tranquilidade, alheia às atividades sombrias em seu seio. No entanto, ao longo dos séculos, os desaparecimentos e eventos sobrenaturais ocasionais suscitaram suspeitas e medo entre os habitantes, que começaram a associar esses fenômenos com a Floresta Eterna e a entidade "A Faminta".
-    
-# **Parte 2: O Despertar e a Corrupção:**
+## **A Antiguidade Obscura:** 
+A história de "A Faminta" remonta a tempos imemoriais, muito antes da fundação de Vale da Serenidade. Ela é uma das entidades cósmicas mais antigas e obscuras, cujas origens estão envoltas em mistério. Seu nome verdadeiro não pode ser pronunciado por língua humana, e é conhecida apenas por seu apetites insaciáveis.
 
-- **O Aumento da Atividade do Culto:** Com o passar dos anos, o culto secreto dedicado a Hagrath cresceu em número e influência. Eles continuaram a realizar rituais sombrios e oferecer almas em sacrifício, acreditando que estavam ganhando o favor de sua divindade cósmica.
+### **Fragmentos de Verdades Esquecidas:**
+
+Nos cantos sombrios e esquecidos da região que viria a ser conhecida como Vale da Serenidade, a presença da Faminta já se fazia sentir muito antes da luz da civilização moderna iluminar essas colinas enevoadas. Ela era venerada por povos antigos, cujas línguas e culturas se perderam nas brumas do tempo. Para aqueles que arriscavam sondar os segredos proibidos das escrituras arcaicas e dos artefatos enterrados em túmulos antigos, o nome da entidade era uma palavra que nunca deveria ser pronunciada.
+
+Eram tempos em que o culto à Faminta era uma prática amplamente difundida, onde os altares eram manchados de sangue e os gritos dos sacrifícios ecoavam nas profundezas da floresta. Aos olhos dos antigos, a entidade insaciável não era apenas uma deusa, mas uma força cósmica insondável, tão antiga quanto o próprio universo. Sua fome não conhecia limites, e em troca de almas humanas, ela prometia poderes além da compreensão humana.
+
+As escrituras enigmáticas gravadas em tabuletas de argila ou esculpidas nas paredes de cavernas escuras, todas enterradas nas profundezas da Floresta Eterna, revelavam a adoração ancestral a essa entidade. Nas pinturas e símbolos que adornavam esses achados, os investigadores modernos encontravam imagens perturbadoras: figuras humanas ajoelhadas diante de uma sombra monstruosa, olhos vazios e ocos, enquanto ofereciam suas próprias almas.
+
+Não era apenas uma questão de superstição. A Faminta tinha provado seu poder, abrindo portais entre dimensões que ligavam aqueles antigos adoradores a horrores inimagináveis. As marcas desses encontros insanos perduravam na história da região, influenciando indiretamente a trajetória dos povos antigos.
+
+E assim, à medida que os investigadores desvendavam esses fragmentos de verdades esquecidas, eles compreendiam que o culto à Faminta não era um fenômeno novo. Era uma sombra que pairava sobre a história, um segredo profundo que o tempo tentara apagar, mas que agora ressurgia para atormentar Vale da Serenidade mais uma vez.
+
+# **O Despertar e a Corrupção:**
+
 
 - **A Corrupção na Cidade:** Conforme a influência de Hagrath crescia, a cidade de Vale da Serenidade começou a sentir os efeitos da corrupção cósmica. Distúrbios na realidade, pesadelos coletivos e o desaparecimento inexplicável de crianças começaram a assolar a comunidade, mas os verdadeiros responsáveis permaneceram ocultos.
 
@@ -38,13 +40,13 @@ Os verdadeiros objetivos de "A Faminta" permanecem obscuros. Alguns acreditam qu
 
 - **O Conflito Entre Fé e Obscuridade:** A cidade ficou dividida entre aqueles que adoravam Hagrath em busca de poder e aqueles que buscavam proteção espiritual na Igreja de São Sereno. Conflitos e tensões surgiram, aprofundando ainda mais o mistério e o medo que pairavam sobre Vale da Serenidade.
 
-- **O Desaparecimento de [[Emily Caldwell]]:** Um dos momentos mais sombrios da história recente da cidade foi o desaparecimento de Emily Caldwell, uma adolescente que estava envolvida com os cultistas. Seu desaparecimento levou a investigações mais intensas por parte das autoridades locais, mas a verdade sobre seu destino permaneceu obscura.
-    
-- **Rituais Perigosos:** O culto continuou a realizar rituais perigosos na Floresta Eterna, abrindo portais para dimensões desconhecidas e arriscando a estabilidade da realidade. Cada ato ritualístico aumentava a influência de Hagrath e aprofundava a crise na cidade.
-
 - **A Persistência do Mistério:** O segredo do culto e a verdadeira natureza de Hagrath eram guardados com ferocidade pelos cultistas, tornando difícil para os investigadores e para aqueles que desejavam detê-los descobrir a extensão de seus atos malignos.
 
-# **Parte 3: A Luta Contra a Devoradora de Almas:**
+- **O Desaparecimento de [[Isabella Reynolds]]:** Um dos momentos mais sombrios da história recente da cidade foi o desaparecimento de Emily Caldwell, uma adolescente que estava envolvida com os cultistas. Seu desaparecimento levou a investigações mais intensas por parte das autoridades locais, mas a verdade sobre seu destino permaneceu obscura.
+
+- **Rituais Perigosos:** O culto continuou a realizar rituais perigosos na Floresta Eterna, abrindo portais para dimensões desconhecidas e arriscando a estabilidade da realidade. Cada ato ritualístico aumentava a influência de Hagrath e aprofundava a crise na cidade.
+
+# **A Luta Contra a Devoradora de Almas:**
 
 - **A Descoberta do Diário Perdido:** Durante as investigações, os investigadores podem tropeçar em um diário antigo escondido nos arquivos da biblioteca municipal. O diário pertencia a um dos fundadores da cidade que estava ciente das atividades do culto e da influência de Hagrath. Ele escreveu sobre rituais, observações estranhas na Floresta Eterna e seu próprio medo crescente da entidade.
     

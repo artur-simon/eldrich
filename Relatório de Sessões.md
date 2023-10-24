@@ -1,28 +1,44 @@
 # Sessão 0 
-Fizemos o processo clássico de sessão 0:
+
 - Elaboramos melhor os personagens Joseph e Helmut, cada um contou seu background
 - Falamos sobre os gatilhos que poderíamos ter no jogo e foi deliberada permissão total para sermos criativos.
 - Datas (segundas)
 - Descrevi o cenário que se passará a narrativa, [[Vale da Serenidade]]
+- Cassio controla [[Helmut Albert Stalone]] e Henrique [[Joseph Johnston]]
 
-Cassio controla [[Helmut Albert Stalone]] e Henrique [[Joseph Miranda Carvalho]]
+Realizei a introdução dos personagens dando uma carta a cada um, de acordo com a relação que eles tinham com o correspondente, [[Henry Holloway]]. Helmut era primo de Henry e ambos eram interessados no oculto, Henry prometeu heranças significativas que podem fazer com que Helmut consiga se garantir finalmente na vida. Joseph recebeu uma carta do advogado, por ser um repórter investigativo.
 
-Realizei a introdução dos personagens dando uma carta a cada um, de acordo com a relação que eles tinham com o correspondente, [[Henry Holloway]]. Helmut era primo de Henry e ambos eram interessados no oculto, Henry prometeu heranças significativas que podem fazer com que Helmut consiga se garantir finalmente na vida.
+Segui com o que eu havia planejado com o [[Arco 1 - A chegada ao Vale da Serenidade]] (fomos até metade, até o final da cerimônia no cemitério)
 
-Segui com o que eu havia planejado com o [[Arco 1 - A chegada ao Vale da Serenidade]]
-(fomos até metade, até o final da cerimônia no cemitério)
+Helmut foi de trem, de sua cidade no centro dos EUA até Massachussets, pediu um jornal e leu as notícias principais que estavam acontecendo na época, Guerra e a Lei Seca. Em seguida pegou um ônibus, em uma cidade mais próxima para o Vale da Serenidade, enchendo o saco de todos no caminho até lá, como bom velho antiquário que é, conseguiu informações rasas sobre opiniões e pareceres sobre a localidade. Chegando lá, se direcionou à casa de chás e conversou com [[Marina Corvina]], que o recebeu bem e o direcionou ao cemitério da cidade para o enterro de Henry.
 
-Helmut foi de trem, de sua cidade no centro dos EUA até Massachussets, pediu um jornal e passei as noticias principais que estavam acontecendo na época, perdi no chatgpt mas em resumo temos a Guerra e a Lei Seca.
-Em seguida pegou um ônibus, em uma cidade mais próxima para o Vale da Serenidade, enchendo o saco de todos no caminho até lá, como bom velho antiquário que é, conseguiu informações rasas sobre opiniões e pareceres sobre a localidade. Chegando lá, se direcionou à casa de chás e conversou com [[Marina Corvina]], que o recebeu bem e o direcionou ao cemitério da cidade para o enterro de Henry.
-
-Joseph recebeu a carta de sua mãe mencionando o acontecido e se dirigiu para a localidade de carro. Conversou com um morador que não gostou de ser chamado, mas o direcionou ao cemitério.
+Joseph se dirigiu para a localidade de carro. Conversou com um morador que não gostou de ser chamado, mas o direcionou ao cemitério.
 
 Ambos se encontraram na ponte a caminho do cemitério.
+Conversaram e reconheceram que são parentes.
 
-Chegaram à cerimônia e viram todos os presentes como detalhado em [[Enterro de Henry Holloway]]
+Chegando à cerimônia, eles vêm o padre [[Samuel Callan]], a prefeita [[Josephine Carter]], o xerife [[Daniel O'Connor]], e outros moradores da cidade. O padre os vê chegando, os cumprimenta e inicia seus dizeres. Os personagens percebem a imagem do símbolo no caixão, o que poderá ter um significado posteriormente.
 
-Apresentei a imagem do símbolo no caixão e isso terá um significado posteriormente.
+Conversamos ligeiramente com a prefeita e com o xerife. Joseph tentou agradar a prefeita para tentar deixar uma boa primeira impressão. Não teve rolagem para identificar o resultado. Joseph tem 70 de Aparência então pode-se presumir que geralmente recebe boas primeiras impressões com pessoas que se importam com aparência e carisma.
 
-Não cheguei a apresentar [[Rufus 'O Sortudo' Wallace]]
+Eles têm uma boa interação e decidem tirar uma foto (FALHA).
 # Sessão 1
-Começamos novamente no cemitério ao fim da cerimônia, alguns backtracks pra ajustar alguns encontros. Apresentei Rufus
+
+Iniciando novamente, no cemitério ao fim da cerimônia, foram feitos alguns backtracks para ajustar algumas conversas com a prefeita.
+
+Albert e Joseph conhecem Rufus. Estava mais isolado dos outros moradores, alto e magro, vestindo roupas meio surradas. Rufus foi bem misterioso e revelou que existem mistérios na cidade sem passar detalhes.
+
+Joseph conversa com o coveiro Silas lhe oferecendo um cigarro, ele pergunta sobre sua vida, sobre a cidade, sobre quem são as famílias principais. Silas responde.
+Ele comenta sobre o lamentável ocorrido com Henry, menciona novamente que as circunstâncias de sua morte são misteriosas, mas que não sabe muito mais a respeito e que se quisessem poderiam falar com o xerife ou [[Elias Hawthorn]], que encontrou o corpo. Os alertou para não visitar a floresta à noite. Indicou que a casa de chás serve como pousada e seria o local apropriado para visitantes que necessitam de lugar para dormir. E quando se despede acaba revelando algo sobre desaparecimentos na cidade, 
+
+Albert e Joseph se dirigem à casa de chás. Helmut bebe um chá especial para dormir e Joseph evita o chá por ter preferência por bebidas mais prontas para o consumo. Eles dividem um quarto para passar a noite.
+
+Os dois dormem e tem pesadelos:
+
+Helmut sonhou com sua loja em decaimento, viu seus artefatos no bolso tomarem vida e tentarem o pegar, viu a figura de um ‘Antigo Antiquario’ que o fez refletir sobre suas questões morais. Correu para o quarto e por (SORTE) encontrou uma chave, jogou o casaco em cima das criaturas para contorná las, mas não conseguiu fugir e acordou sem ar (-1 sanidade)
+
+Joseph sonhou estar dentro do Vale mas a cidade completamente distorcida tinha agora uma usina no lugar da igreja. Entrando lá ele passou por corredores que o levaram a um galpão onde encontrou fantasmas esfumaçados de trabalhadores que avançaram sobre ele em desespero. Joseph viu uma figura brilhante que indicou a saída para a usina e tentou passar por entre os fantasmas. Deu um tiro para o alto para tentar afastá-los, mas não teve sucesso. Acordou suado (-1 sanidade)
+
+Pela manhã, o Helmut levanta primeiro e toma café da manhã. Joseph acorda logo depois e pede mais um refrigerante. 
+
+O xerife aparece e conversa com os personagens. Questiona quanto tempo pretendemos ficar na cidade e com quais motivos. Joseph tem uma intuição de que talvez o xerife tenha participado na Primeira Guerra Mundial e busca fazer essa conexão. Joseph acrescenta historias sobre investigações criminais em que trabalhou auxiliando a polícia em desvendar crimes. (Sucesso em rolagem de psicologia) O xerife parcialmente abre o jogo e comenta sobre dificuldades nas investigações dos desaparecimentos na cidade, e sugere cautela sobre a animosidade dos morador.

@@ -1,13 +1,5 @@
 63 anos
 
-**Relação: Irmãos de Sangue e o Primo Desaparecido**
-
-_Personagem 1 (Jogador):_ Arthur Holloway, um historiador obcecado pelo ocultismo e pela história da família.
-
-_Personagem 2 (Jogador):_ Eleanor Holloway, uma investigadora particular experiente em desvendar mistérios e segredos.
-
-_Falecido:_ Henry Holloway, primo dos personagens, um antigo pesquisador e explorador que desapareceu misteriosamente em Vale da Serenidade.
-
 **História da Relação:**
 
 Henry Holloway, um explorador e pesquisador famoso na família. Henry sempre foi uma figura misteriosa, conhecida por suas aventuras em busca de artefatos antigos e segredos ocultos.
@@ -15,8 +7,6 @@ Henry Holloway, um explorador e pesquisador famoso na família. Henry sempre foi
 O primo Henry desapareceu abruptamente há vários anos durante uma expedição em Vale da Serenidade, enquanto investigava os cultos antigos que adoravam A Faminta. O desaparecimento de Henry deixou uma cicatriz profunda na família Holloway, e a investigação oficial não encontrou pistas sobre o seu paradeiro. A família acreditava que ele havia se perdido na obscura Floresta Eterna ou caído vítima dos segredos sombrios da cidade.
 
 Os personagens receberam uma convocação misteriosa para o enterro de Henry em Vale da Serenidade. Eles mal podiam acreditar que, após tantos anos de incerteza, finalmente teriam a chance de prestar suas homenagens e talvez descobrir o que aconteceu com o primo. A sombra do desaparecimento de Henry paira sobre eles, e eles sentem que o mistério de Vale da Serenidade pode finalmente fornecer respostas há muito procuradas.
-
-A ligação emocional com o primo desaparecido cria uma motivação pessoal profunda para Arthur e Eleanor explorarem os segredos da cidade e descobrirem a verdade por trás do mistério. Eles compartilham uma determinação unida em honrar a memória de Henry e desvendar os enigmas que envolvem seu destino.
 
 # Falecimento
 

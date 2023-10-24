@@ -7,3 +7,9 @@ Aqui estão algumas ideias adicionais e detalhes perturbadores para transformaç
 5. **Atração Magnética**: Quando os personagens se aproximam demais, eles podem sentir uma atração magnética inexplicável em direção a ela. Eles acham difícil se afastar, como se estivessem sendo puxados para sua presença distorcida. Isso cria uma sensação de que estão perdendo o controle de sua própria vontade.
 6. **Aura de Desespero**: Emana uma aura de desespero que afeta os personagens emocionalmente. Eles experimentam sentimentos intensos de medo, desespero e insignificância sempre que estão perto dela. Essas emoções os tornam mais vulneráveis ao horror cósmico que os rodeia.
 7. **Transformação Completa**: Conforme a transformação avança, ela deixa de ser reconhecível como um ser humano. Ela se torna uma massa amorfa de tentáculos e formas distorcidas, uma manifestação grotesca de influências cósmicas. Seu estado final é uma abominação inominável que desafia toda a lógica e a compreensão.
+
+
+
+1. **A Busca por Uma Solução**: Conforme a cidade se deteriora, os personagens jogadores sentem a pressão de encontrar uma maneira de impedir a transformação completa de Vale da Serenidade. Eles podem procurar artefatos antigos, recorrer a magias proibidas ou buscar a ajuda de entidades igualmente terríveis que habitam a dimensão alternativa.
+2. **Revelação Cósmica**: À medida que a narrativa se desenrola, os personagens descobrem que a entidade que corrompe a cidade é "A Faminta". A verdade sobre a natureza dela e sua influência sobre Vale da Serenidade é insondável e perturbadora, levando os personagens a questionar a realidade.
+3. **Final Aterrorizante**: O clímax da campanha pode envolver uma confrontação com a entidade e uma escolha difícil: aceitar a corrupção e abraçar o desconhecido ou tentar selar a entidade e sacrificar a cidade e seus habitantes para evitar que o horror se espalhe.

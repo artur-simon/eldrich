@@ -1,0 +1,11 @@
+- **Um Culto Perdido:** Há séculos atrás, um culto secreto descobriu os escritos antigos que faziam referência a "[[A Faminta]]". Eles foram atraídos pelos prometidos poderes cósmicos e conhecimentos ocultos que a entidade poderia conceder. O culto, cujos membros eram compostos por estudiosos, feiticeiros e visionários, começou a adorar "A Faminta" em segredo.
+  
+- **Rituais Profanos:** Os cultistas realizaram rituais profanos e oferendas de almas humanas em troca de visões e poderes sobrenaturais. Eles abriram portais para as dimensões desconhecidas onde "A Faminta" residia, trazendo fragmentos de sua presença para o mundo mortal. Isso trouxe distorções na realidade e eventos estranhos que assolaram a região.
+  
+- **A Fundação de [[Vale da Serenidade]]:** Eventualmente, os cultistas perceberam que [[A Floresta Eterna]], com suas densas árvores antigas, era um local onde os véus entre as dimensões eram mais frágeis, facilitando o contato com "A Faminta". Eles fundaram Vale da Serenidade nas proximidades da floresta, estabelecendo a cidade como uma base para suas atividades ocultas.
+  
+- **Pactos e Corrupção:** À medida que os cultistas aumentaram sua adoração a "A Faminta", eles começaram a fazer pactos sinistros com a entidade. Em troca de poderes sobrenaturais e conhecimento proibido, eles ofereceram almas humanas como tributos. As almas sacrificadas alimentaram a fome insaciável de "A Faminta" e fortaleceram sua influência sobre a cidade.
+  
+- **Um Segredo Profundo:** Os segredos do culto eram bem guardados, e a cidade prosperou em relativa paz e tranquilidade, alheia às atividades sombrias em seu seio. No entanto, ao longo dos séculos, os desaparecimentos e eventos sobrenaturais ocasionais suscitaram suspeitas e medo entre os habitantes, que começaram a associar esses fenômenos com a Floresta Eterna e a entidade "A Faminta".
+
+- **O Aumento da Atividade do Culto:** Com o passar dos anos, o culto secreto dedicado a Hagrath cresceu em número e influência. Eles continuaram a realizar rituais sombrios e oferecer almas em sacrifício, ganhando o favor de sua divindade cósmica.
