@@ -1,4 +1,3 @@
-
 # Sinopse
 Os personagens são chamados para investigar uma série de misteriosos desaparecimentos de crianças em uma pequena cidade rural cercada por densas florestas. À medida que exploram a floresta, eles descobrem um portal para uma dimensão aterrorizante, onde uma entidade cósmica faminta por almas infantis ameaça desencadear o caos em ambos os mundos.
 

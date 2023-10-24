@@ -51,7 +51,7 @@ A economia de Vale da Serenidade é baseada em atividades tradicionais que refle
     
 Essas atividades econômicas sustentam a vida da cidade e contribuem para a sensação de isolamento e autossuficiência de Vale da Serenidade.
 
-
+# [[O Culto]]
 # HISTORIA REAL
 
 Era uma época perdida nos cantos esquecidos da história, onde os velhos sussurros do mundo ecoavam através das sombras da existência. Os séculos eram meros grãos de areia em um relógio quebrado, e a humanidade dançava à margem da eternidade. Em uma terra selvagem e inexplorada, o destino conspirou para trazer à tona um segredo ancestral, um segredo que nunca deveria ter sido revelado.

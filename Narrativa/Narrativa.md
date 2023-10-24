@@ -1,4 +1,3 @@
-[[Sombras na Serenidade - O pacto com o Desconhecido]]
 [[Introdução]]
 [[Enterro de Henry Holloway]]
 [[Pesadelo de Joseph]]
