@@ -16,13 +16,9 @@ O corpo de Henry Holloway foi encontrado sob circunstâncias misteriosas e pertu
 
 **Estado do Corpo:** O corpo estava em um estado avançado de decomposição, sugerindo que ele estivera desaparecido por um longo período de tempo. A pele estava pálida e inchada, com sinais evidentes de putrefação. A roupa que Henry usava estava rasgada e encharcada, e havia sinais de lama e folhas grudadas em seu corpo.
 
-**Pertences Pessoais:** Próximo ao corpo, foram encontrados os pertences pessoais de Henry, incluindo um diário com anotações indecifráveis, um mapa da região com marcações estranhas e uma pulseira de prata estranhamente ornamentada em seu pulso. A pulseira exibia inscrições e símbolos que os jogadores reconhecem como relacionados aos cultistas que adoram A Faminta.
-
 **Posição das Mãos:** As mãos de Henry estavam estendidas à frente dele, com os dedos enterrados na terra úmida, como se tivesse estado em uma tentativa desesperada de se arrastar para fora da água ou da floresta. Seus olhos, que foram preservados devido à decomposição avançada, parecem fixos em um ponto distante, como se ele tivesse visto algo terrível antes de sua morte.
 
 **Ausência de Ferimentos Óbvios:** Surpreendentemente, o corpo não apresentava ferimentos óbvios, como cortes ou contusões que indicassem uma causa direta de morte. No entanto, o estado de decomposição tornava difícil determinar qualquer lesão interna.
-
-Essas circunstâncias perturbadoras deixam os jogadores com uma série de perguntas sem resposta. O que aconteceu com Henry durante seu desaparecimento? Por que seu corpo foi encontrado em um local tão remoto e em condições tão estranhas? As pistas deixadas para trás, incluindo o diário misterioso, sugerem que a morte de Henry pode estar ligada aos segredos sombrios de Vale da Serenidade.
 
 
 ### Carta para Albert

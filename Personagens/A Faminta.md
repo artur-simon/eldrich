@@ -42,7 +42,7 @@ E assim, à medida que os investigadores desvendavam esses fragmentos de verdade
 
 - **A Persistência do Mistério:** O segredo do culto e a verdadeira natureza de Hagrath eram guardados com ferocidade pelos cultistas, tornando difícil para os investigadores e para aqueles que desejavam detê-los descobrir a extensão de seus atos malignos.
 
-- **O Desaparecimento de [[Isabella Reynolds]]:** Um dos momentos mais sombrios da história recente da cidade foi o desaparecimento de Emily Caldwell, uma adolescente que estava envolvida com os cultistas. Seu desaparecimento levou a investigações mais intensas por parte das autoridades locais, mas a verdade sobre seu destino permaneceu obscura.
+- **O Desaparecimento de [[Isabella Reynolds]]:** Um dos momentos mais sombrios da história recente da cidade foi o desaparecimento de Isabella Reynolds, uma adolescente que estava envolvida com os cultistas. Seu desaparecimento levou a investigações mais intensas por parte das autoridades locais, mas a verdade sobre seu destino permaneceu obscura.
 
 - **Rituais Perigosos:** O culto continuou a realizar rituais perigosos na Floresta Eterna, abrindo portais para dimensões desconhecidas e arriscando a estabilidade da realidade. Cada ato ritualístico aumentava a influência de Hagrath e aprofundava a crise na cidade.
 

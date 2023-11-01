@@ -32,10 +32,12 @@ A principal praça da cidade é dominada por uma antiga [[Igreja de São Sereno|
    
 # **História**
 
-- **Fundação Antiga:** A cidade foi fundada no século XVIII por colonos que procuravam uma vida tranquila longe dos centros urbanos. A paz e a serenidade do vale eram lendárias, daí o nome.
+- **Fundação Antiga:** A cidade foi fundada no século XVII por colonos que procuravam uma vida tranquila longe dos centros urbanos. A paz e a serenidade do vale eram lendárias, daí o nome.
 - **A Guerra Civil e a Prosperidade Pós-Guerra:** Durante a Guerra Civil, a cidade permaneceu relativamente intocada, mas depois do conflito, prosperou como um centro agrícola. Suas fazendas forneciam alimentos para as cidades vizinhas.
 - **Mistérios Obscuros:** Ao longo dos anos, a cidade testemunhou eventos inexplicáveis e desaparecimentos esporádicos. A Floresta Eterna sempre foi vista como um local misterioso, e lendas locais falam de criaturas sobrenaturais espreitando nas sombras da floresta.
 - **A Fundação da [[Igreja de São Sereno]]:** A igreja foi construída no final do século XIX e se tornou um ponto focal da comunidade. O fundador da igreja alegava ter visões sagradas para guiar o povo em seu desenvolvimento.
+
+[[Matérias sobre Vale da Serenidade]]
 
 # Economia
   
@@ -53,7 +55,7 @@ Essas atividades econômicas sustentam a vida da cidade e contribuem para a sens
 
 # [[O Culto]]
 
-# A HISTORIA REAL
+# A HISTORIA REAL (SPOILERS)
 
 Era uma época perdida nos cantos esquecidos da história, onde os velhos sussurros do mundo ecoavam através das sombras da existência. Os séculos eram meros grãos de areia em um relógio quebrado, e a humanidade dançava à margem da eternidade. Em uma terra selvagem e inexplorada, o destino conspirou para trazer à tona um segredo ancestral, um segredo que nunca deveria ter sido revelado.
 
