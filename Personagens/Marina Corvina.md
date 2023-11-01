@@ -1,3 +1,5 @@
+Dona da casa de chás/pousada [[Refúgio das Ervas]]
+
 # Descrição
 
 Descrição física: Marina é uma mulher de 91 anos, com cabelos grisalhos que ela mantém cuidadosamente penteados em um coque elegante. Seus olhos castanhos escuros brilham com uma receptividade acalentadora e um toque de mistério. Ela tem uma postura ereta e sempre veste roupas da moda da década de 1920, geralmente com tons de verde e marrom que ecoam as cores da natureza que cercam Vale da Serenidade.
