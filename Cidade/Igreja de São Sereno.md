@@ -15,4 +15,4 @@
 **Mistério Religioso:**
 
 - Os personagens dos jogadores podem descobrir que a Igreja de São Sereno guarda segredos relacionados à história da cidade e à maldição. Isso pode envolver a descoberta de textos religiosos antigos ou artefatos sagrados que fornecem pistas sobre a natureza do mal que assola a cidade.
-- Também pode ser revelado que São Sereno tinha uma conexão especial com a Floresta Eterna e que seu papel na história da cidade é mais complexo do que parece.
+- Também pode ser revelado que [[São Sereno]] tinha uma conexão especial com a Floresta Eterna e que seu papel na história da cidade é mais complexo do que parece.
