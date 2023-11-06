@@ -23,6 +23,7 @@
 # **Decifrar os Enigmas**
 
 - Os diários e registros deixados por [[Henry Holloway]] e outros membros do culto podem estar cheios de enigmas e códigos que os personagens devem decifrar para obter informações cruciais. Resolver esses quebra-cabeças pode ser um desafio intelectual e acrescentar uma camada de complexidade à investigação.
+- Os personagens podem finalmente decifrar o diário de Henry Holloway e descobrir que ele continha informações sobre um ritual sombrio que o culto pretende realizar. Agora eles têm a tarefa de interromper o ritual antes que seja tarde demais.
 
 # **Escolhas Morais Difíceis**
 
@@ -36,11 +37,6 @@
 
 - Um dos personagens pode ser alvo de uma tentativa de possessão por uma entidade sobrenatural ligada ao culto. Eles precisam resistir a influências malignas enquanto o grupo busca uma maneira de libertá-lo da influência da entidade.
 	- possivelmente [[Rufus 'O Sortudo' Wallace]] ?
-
-# **O Diário Decifrado**
-
-- Os personagens podem finalmente decifrar o diário de Henry Holloway e descobrir que ele continha informações sobre um ritual sombrio que o culto pretende realizar. Agora eles têm a tarefa de interromper o ritual antes que seja tarde demais.
-
 # **O Encontro com a Faminta**
 
 - Os personagens podem ter um encontro aterrorizante com a Faminta ou com uma manifestação da entidade. Isso pode ser um teste de coragem e sanidade, pois eles precisam enfrentar a presença sobrenatural e, talvez, negociar com ela para obter informações.
@@ -62,4 +58,5 @@
 - A investigação pode levar os personagens a descobrir a verdadeira natureza da maldição que assola a cidade e seus habitantes. Agora eles precisam encontrar uma maneira de quebrar a maldição e salvar a cidade, mas isso pode envolver sacrifícios difíceis.
 
 # **O pai arrependido**
+[[Robert Reynolds]]
 - O pai de uma das crianças é encontrado morto, aparentemente suicídio
