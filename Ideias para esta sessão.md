@@ -27,7 +27,7 @@ Helmut se aproxima da bibliotecária e faz perguntas sobre a história da cidade
 ---
 
 # **Conversar com o Advogado de Henry:** 
-Os personagens têm uma pista valiosa - a carta que Joseph recebeu do advogado de Henry. Eles planejam marcar uma reunião co m o advogado para discutir o conteúdo da carta e obter mais informações sobre o testamento misterioso e os detalhes da herança de Helmut. O advogado pode fornecer pistas importantes sobre o que Henry estava investigando antes de sua morte.
+Os personagens têm uma pista valiosa - a carta que Joseph recebeu do advogado de Henry. Eles planejam marcar uma reunião com o advogado para discutir o conteúdo da carta e obter mais informações sobre o testamento misterioso e os detalhes da herança de Helmut. O advogado pode fornecer pistas importantes sobre o que Henry estava investigando antes de sua morte.
     
 # **Conversar com o Xerife:** 
 O xerife parece estar ciente dos desaparecimentos na cidade e expressou preocupação com a animosidade dos moradores. Os personagens planejam conversar com ele em mais detalhes. Eles podem perguntar sobre o progresso da investigação dos desaparecimentos, pedir permissão para acessar evidências ou arquivos relacionados e buscar informações sobre possíveis suspeitos ou ligações com o símbolo do caixão.
