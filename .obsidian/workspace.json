@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "431dcb1dfb247b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "1673109db1d8abc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0599bd1d0f632fd4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "649082de5508f2bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c7b9e490366d80b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b13887fb6b8f23ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6531008e45674e64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Evelyn \"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e8491eecb544cdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "e6a2322448595f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "d31685be1dbefb10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0e42a952b3d9d0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6170c774db787567",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72554b0f2c16d907",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3a1d9c8320c954f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "05f2b7c93cb278a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05f2b7c93cb278a6",
+  "lastOpenFiles": [
+    "Ideias para esta sessão.md",
+    "Home.md",
+    "Personagens/Silvanus Thorne.md",
+    "Personagens/Cornelius Blackwood.md",
+    "Personagens/Silas Corbet.md",
+    "Personagens/São Sereno.md",
+    "Personagens/Samuel Callan.md",
+    "Personagens/Rufus 'O Sortudo' Wallace.md",
+    "Personagens/Robert Reynolds.md",
+    "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
+    "Personagens/Personagens.md",
+    "Personagens/Marina Corvina.md",
+    "Personagens/Josephine Carter.md",
+    "Personagens/Joseph Johnston.md",
+    "Personagens/Isabella Reynolds.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Helmut Albert Stalone.md",
+    "Personagens/Evelyn Whitman.md",
+    "Personagens/Elias Hawthorn.md",
+    "Personagens/Draculoros.md",
+    "Personagens/Daniel O'Connor.md",
+    "Personagens/Benjamin Thornton.md",
+    "Personagens/A Faminta.md",
+    "Narrativa/Pesadelo de Joseph.md",
+    "Cidade/Igreja de São Sereno.md",
+    "Narrativa/O Evento do Sequestro.md",
+    "Canvas.canvas",
+    "Cidade/Mídia",
+    "Personagens",
+    "Narrativa",
+    "Meta/Desafios",
+    "Meta/Arcos",
+    "Meta",
+    "Cidade",
+    "Assets/Simbolo na lápide.jpeg",
+    "Assets/output.jpg",
+    "Assets",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 1"
+  ]
+}

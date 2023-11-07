@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Personagens/  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Meta/ ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Narrativa/",
+      "color": {
+        "a": 1,
+        "rgb": 5264855
+      }
+    },
+    {
+      "query": "path:Cidade/",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.23098958333333,
+  "collapse-forces": false,
+  "centerStrength": 0.346354166666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 323,
+  "scale": 0.19450022690616484,
+  "close": false
+}
