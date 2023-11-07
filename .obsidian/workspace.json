@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1673109db1d8abc7",
+        "id": "ece1dfbdeed594f6",
         "type": "tabs",
         "children": [
           {
-            "id": "0599bd1d0f632fd4",
+            "id": "1a39d3fed342e117",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05f2b7c93cb278a6",
+  "active": "1a39d3fed342e117",
   "lastOpenFiles": [
     "Ideias para esta sessão.md",
     "Home.md",
