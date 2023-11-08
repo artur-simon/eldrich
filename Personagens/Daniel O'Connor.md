@@ -11,7 +11,7 @@ Sobreviver àquela experiência era algo que Daniel não podia compreender. No e
 # **A Pista do Último Paradeiro**
 Sabe o último local em que uma das crianças foi vista antes do desaparecimento e faz uma reconstituição detalhada dos eventos daquele dia.
 
-# Seu passado traumático
+# **Seu passado traumático**
 
 1. **Desconfiança e Paranoia**: O xerife, devido às suas experiências de guerra, desenvolveu uma desconfiança natural em relação ao desconhecido. Ele pode ser cauteloso e até mesmo paranoico em relação aos estrangeiros e a qualquer evento que pareça misterioso. Isso pode fazer com que ele seja relutante em compartilhar informações delicadas com os jogadores, a menos que confie plenamente neles.
     

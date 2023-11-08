@@ -1,5 +1,4 @@
-**# Sessão 0 
-
+# Sessão 0
 
 - Elaboramos melhor os personagens Joseph e Helmut, cada um contou seu background
 - Falamos sobre os gatilhos que poderíamos ter no jogo e foi deliberada permissão total para sermos criativos.
@@ -63,7 +62,7 @@ Enquanto Joseph ia para o correio, Helmut investigou a casa de Henry, e ao tenta
 
 Joseph estava retornando de encontro com Helmut quando ouviu um disparo, tentou entrar na casa mas viu a porta trancada. Joseph então dirigiu para a delegacia e pediu ajuda para um dos oficiais da lei. Chegaram na casa e Helmut abriu a porta dizendo que não se sente bem mas o tiro foi apenas um acidente ao manusear uma arma que encontrou na casa. Joseph entrou na casa e checou os cômodos e não percebeu nada de estranho, exceto pelo ar pesado e cheiro de mofo, indicando que a casa já não era habitada há um bom tempo, talvez mesmo antes de Henry falecer. Para renovar o ar dentro de casa, Joseph e Helmut decidem abrir as janelas e remover as tábuas.
 
-Na biblioteca, encontramos [[Evelyn Whitman]], a bibliotecária, uma carta de reconhecimento à bravura e conduta corajosa em uma situação perigosa, ao Xerife da cidade, o [[Daniel O'Connor]].
-Também foi encontrado registro apontando desaparecimento de uma menina Emily em 1913.  Ênfase dada às festividades sazonais, que também foram mencionadas por Marina Corvina como grande parte da cultura local.
+Na biblioteca, encontramos [[Evelyn Whitman]], a bibliotecária, uma carta de reconhecimento à bravura e conduta corajosa em uma situação perigosa ao Xerife da cidade, o [[Daniel O'Connor]].
+Também foi encontrado registro apontando desaparecimento de uma menina [[Emily]] em 1913.  Ênfase dada às festividades sazonais, que também foram mencionadas por Marina Corvina como grande parte da cultura local.
 
 Construção das estradas em 18??. Literatura bizarra/ocultista com o símbolo da lua com árvores.**

@@ -1,3 +1,6 @@
+Neto de [[Ezekiel Wallace]]
+
+Mapeando a região e documentando locais importantes, Rufus é um cartógrafo dedicado a preservar a geografia e a história da cidade.
 # Possíveis características
 
 1. **Características Limitadas:** Certifique-se de que o personagem que você está jogando tenha limitações notáveis. Eles podem ter habilidades úteis, mas também devem ter fraquezas ou limitações que os impedem de serem uma solução instantânea para os problemas dos jogadores. Por exemplo, eles podem ser fisicamente fracos, emocionalmente instáveis ou inexperientes em situações de perigo.
