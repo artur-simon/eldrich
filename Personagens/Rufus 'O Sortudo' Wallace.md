@@ -1,6 +1,12 @@
 Neto de [[Ezekiel Wallace]]
 
 Mapeando a região e documentando locais importantes, Rufus é um cartógrafo dedicado a preservar a geografia e a história da cidade.
+
+Rufus Wallace cresceu nos arredores de Vale da Serenidade. Seu avô era um aventureiro destemido que liderou expedições arqueológicas em busca de artefatos antigos e segredos ocultos.
+
+Desde jovem, Rufus ouviu as histórias emocionantes de seu avô sobre descobertas arqueológicas, civilizações esquecidas e o desconhecido. Essas narrativas moldaram sua visão de mundo, alimentando uma curiosidade insaciável pelo inexplicável.
+
+Quando Rufus atingiu a adolescência, seu avô decidiu levá-lo em uma expedição para explorar os arredores de Vale da Serenidade. Juntos, enfrentaram perigos, desvendaram enigmas e descobriram os vestígios de uma antiga sociedade que adorava uma entidade cósmica chamada [[A Faminta]].
 # Possíveis características
 
 1. **Características Limitadas:** Certifique-se de que o personagem que você está jogando tenha limitações notáveis. Eles podem ter habilidades úteis, mas também devem ter fraquezas ou limitações que os impedem de serem uma solução instantânea para os problemas dos jogadores. Por exemplo, eles podem ser fisicamente fracos, emocionalmente instáveis ou inexperientes em situações de perigo.
@@ -48,7 +54,7 @@ Isso cria uma barreira eficaz para evitar que Rufus revele informações cruciai
 
 A história de como o avô de Rufus "O Sortudo" Wallace conseguiu a pulseira mística é um elemento importante para a narrativa e pode ser elaborada da seguinte maneira:
 
-**A Expedição no Passado:** O avô de Rufus, um aventureiro destemido e explorador, liderou uma expedição arqueológica décadas atrás em busca de artefatos antigos e segredos esquecidos na região de Vale da Serenidade. A expedição tinha a intenção de investigar a presença de antigas civilizações que adoravam A Faminta.
+**A Expedição no Passado:** O avô de Rufus, [[Ezekiel Wallace]], um aventureiro destemido e explorador, liderou uma expedição arqueológica décadas atrás em busca de artefatos antigos e segredos esquecidos na região de Vale da Serenidade. A expedição tinha a intenção de investigar a presença de antigas civilizações que adoravam A Faminta.
 
 **O Encontro com o Culto:** Durante a expedição, o avô de Rufus e sua equipe encontraram evidências da existência de um culto secreto que adorava A Faminta. Eles descobriram o local onde o culto costumava realizar rituais e cerimônias em homenagem à entidade cósmica.
 
@@ -57,3 +63,16 @@ A história de como o avô de Rufus "O Sortudo" Wallace conseguiu a pulseira mí
 **A Perseguição Misteriosa:** Após a descoberta da pulseira, a expedição do avô de Rufus começou a ser perseguida por forças misteriosas e sobrenaturais. Eles enfrentaram eventos inexplicáveis e testemunharam visões perturbadoras que os levaram a acreditar que haviam despertado algo antigo e perigoso.
 
 **O Retorno e o Desaparecimento:** Assombrados pelo que haviam desencadeado, o avô de Rufus e seus companheiros retornaram à cidade de Vale da Serenidade, mas nunca foram capazes de compartilhar plenamente os detalhes de sua descoberta. Pouco depois, o avô de Rufus desapareceu misteriosamente, deixando para trás apenas a pulseira de prata como legado.
+
+
+---
+
+No auge dessa expedição, em meio às ruínas e símbolos antigos, Rufus encontrou a pulseira mística, uma peça impressionante de ourivesaria que seu avô acreditava estar ligada aos segredos mais profundos da cidade. Uma herança de séculos, a pulseira passa de geração em geração, protegendo os descendentes do culto de A Faminta.
+
+Contudo, a descoberta da pulseira desencadeou eventos misteriosos. Forças sobrenaturais começaram a perseguir a expedição, e visões perturbadoras atormentaram a mente de Rufus. Seu avô, "O Sortudo," desapareceu misteriosamente, deixando para trás apenas a pulseira como lembrança.
+
+Determinado a compreender a verdade por trás dos mistérios de Vale da Serenidade e encontrar seu avô desaparecido, Rufus assumiu a responsabilidade da pulseira e seguiu os passos de seu avô. No entanto, ao tentar compartilhar as descobertas mais cruciais, a pulseira o atormentava com dor excruciante, impedindo-o de revelar totalmente os segredos que descobrira.
+
+A jornada de Rufus começou como uma busca pela verdade, mas rapidamente se transformou em uma luta pessoal contra as forças sobrenaturais que assombram Vale da Serenidade, a cada pista, cada símbolo na pulseira, e cada enigma não resolvido.
+
+A pulseira, apesar de sua dor constante, tornou-se uma fonte de força para Rufus, uma conexão com seu avô e um guia em sua busca incessante pela verdade. Seu papel na narrativa de Vale da Serenidade era mais do que um simples investigador; ele era o guardião relutante dos segredos, protegendo a cidade e seus habitantes da verdade cósmica que espreitava nas sombras.

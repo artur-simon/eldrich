@@ -31,6 +31,6 @@ Os personagens têm uma pista valiosa - a carta que Joseph recebeu do advogado d
     
 # **Conversar com o Xerife:** 
 O xerife parece estar ciente dos desaparecimentos na cidade e expressou preocupação com a animosidade dos moradores. Os personagens planejam conversar com ele em mais detalhes. Eles podem perguntar sobre o progresso da investigação dos desaparecimentos, pedir permissão para acessar evidências ou arquivos relacionados e buscar informações sobre possíveis suspeitos ou ligações com o símbolo do caixão.
-    
+
 # **Entrevistar Elias Hawthorn:** 
 Elias Hawthorn foi quem encontrou o corpo de Henry, e isso pode ser uma fonte valiosa de informações. Os personagens podem tentar descobrir o que Elias viu no local da morte, quais eram as circunstâncias e se ele notou algo incomum ou suspeito. Isso pode levar a pistas adicionais sobre o que estava acontecendo com Henry.

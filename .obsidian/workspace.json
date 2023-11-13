@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Ideias para esta sessão.md",
+                        "file": "Personagens/A Faminta.md",
                         "mode": "source",
                         "source": false
                       }
@@ -42,9 +42,9 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Personagens/Ezekiel Wallace.md",
+                        "file": "Personagens/A Faminta.md",
                         "options": {
-                          "collapse-filter": true,
+                          "collapse-filter": false,
                           "search": "",
                           "localJumps": 1,
                           "localBacklinks": true,
@@ -80,7 +80,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.7132754626224496,
+                          "scale": 0.508761885579264,
                           "close": true
                         }
                       }
@@ -102,26 +102,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ideias para esta sessão.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "097276eee8460834",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Personagens/Ezekiel Wallace.md",
+                    "file": "Personagens/A Faminta.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -153,7 +140,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "henry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Ezekiel Wallace.md",
+                "file": "Personagens/A Faminta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Ezekiel Wallace.md",
+                "file": "Personagens/A Faminta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Ezekiel Wallace.md"
+                "file": "Personagens/A Faminta.md"
               }
             }
           },
@@ -242,8 +229,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -260,35 +246,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "097276eee8460834",
+  "active": "b13887fb6b8f23ce",
   "lastOpenFiles": [
-    "Ideias para esta sessão.md",
-    "Personagens/Ezekiel Wallace.md",
-    "Personagens/Personagens.md",
-    "Personagens/Isabella Reynolds.md",
+    "Personagens/Benjamin Thornton.md",
+    "Personagens/A Faminta.md",
+    "Personagens/Cornelius Blackwood.md",
+    "Personagens/Daniel O'Connor.md",
+    "Personagens/Elias Hawthorn.md",
+    "Personagens/Silvanus Thorne.md",
     "Personagens/Rufus 'O Sortudo' Wallace.md",
-    "Meta/Relatório de Sessões.md",
-    "Meta/Arcos/Arco 1 - A chegada ao Vale da Serenidade.md",
-    "Personagens/Henry Holloway.md",
+    "Personagens/Marina Corvina.md",
+    "Testamento.md",
+    "Ideias para esta sessão.md",
+    "Home.md",
+    "Canvas.canvas",
     "Untitled.md",
+    "Untitled.canvas",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Isabella Reynolds.md",
+    "Personagens/Ezekiel Wallace.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Personagens/Evelyn Whitman.md",
+    "Personagens/Draculoros.md",
+    "Meta/Relatório de Sessões.md",
+    "Cidade/Refúgio das Ervas.md",
+    "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
+    "Cidade/Mídia/Vale da Serenidade - O Encanto da Floresta Eterna.md",
+    "Personagens/Personagens.md",
+    "Meta/Arcos/Arco 1 - A chegada ao Vale da Serenidade.md",
     "Meta/Prompt.md",
     "Narrativa/O Evento do Sequestro.md",
-    "Canvas.canvas",
-    "Narrativa/O Culto.md",
-    "Narrativa/Narrativa.md",
-    "Narrativa/Introdução.md",
-    "Personagens/Evelyn Whitman.md",
-    "Cidade/A Floresta Eterna.md",
-    "Home.md",
-    "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
-    "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
-    "Meta/Meta.md",
-    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
-    "Meta/Transformação.md",
-    "Personagens/Daniel O'Connor.md",
-    "Personagens/Draculoros.md",
-    "Personagens/Benjamin Thornton.md",
-    "Personagens/Elias Hawthorn.md",
     "Recording 20231107002617.webm",
     "Recording 20231107002628.webm",
     "Cidade/Mídia",
@@ -301,7 +288,6 @@
     "Assets/Simbolo na lápide.jpeg",
     "Assets/output.jpg",
     "Assets",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

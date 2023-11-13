@@ -50,6 +50,8 @@ Sessão 2
 
 Questionado pelo Joseph, o Xerife diz que há a possibilidade de conversarmos de forma mais privada a respeito da morte do Henry.
 
+conversamos
+
 Fomos ao advogado Benjamin. Ele nos deu o texto do testamento, e nos entregou um livro, que supostamente o Sr. Henry deixou para nós. Um livro que já tem marcas de uso, que com um teste de Occult de Helmuth, extrai-se que está falando sobre pontos relevantes sobre o histórico da cidade (do começo até a metade), elaborando com incertezas e inseguranças sobre a organização da cidade, que havia algo muito errado desde que Henry chegou ali. 
 
 Talvez Henry tenha se envolvido nesta cidade justamente pelas coisas estranhas e interessantes que estavam acontecendo aqui?. Muitas advertências da cidade, falando sobre perigos e iniciativas do Henry que ele tentou fazer e não deu certo, pois encontrou muitas dificuldades e perigos.

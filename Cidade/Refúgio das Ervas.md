@@ -1,1 +1,1 @@
-Casa de chás
+Casa de chás/pousada
