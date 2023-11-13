@@ -1,4 +1,4 @@
-No pesadelo, Helmut se vê em sua própria loja de antiguidades em Lawrence, mas tudo está envolto em sombras sombrias. As prateleiras que costumavam abrigar itens ocultos agora estão vazias, e os objetos que ele guardava em seu cinto de dinheiro começam a se transformar em criaturas monstruosas. O alho se contorce em serpentes, a cruz se torna distorcida e hostil, e a garrafa de água benta se transforma em um líquido negro.
+No pesadelo, [[Helmut Albert Stalone]] se vê em sua própria loja de antiguidades em Lawrence, mas tudo está envolto em sombras sombrias. As prateleiras que costumavam abrigar itens ocultos agora estão vazias, e os objetos que ele guardava em seu cinto de dinheiro começam a se transformar em criaturas monstruosas. O alho se contorce em serpentes, a cruz se torna distorcida e hostil, e a garrafa de água benta se transforma em um líquido negro.
 
 Helmut é então confrontado por uma figura obscura que se autodenomina o "Antigo Vendedor de Segredos". Essa figura critica Helmut por sua obsessão por dinheiro e objetos ocultos.
 

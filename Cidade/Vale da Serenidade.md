@@ -12,7 +12,7 @@ A principal praça da cidade é dominada por uma antiga [[Igreja de São Sereno|
 # Habitantes
 
 - 1000 habitantes(-1)
-# **Locais**
+# Locais
 
 ## Principais locais
 
@@ -30,7 +30,7 @@ A principal praça da cidade é dominada por uma antiga [[Igreja de São Sereno|
 5. Correios
 6. Casa de Henry Holloway
    
-# **História**
+# História
 
 - **Fundação Antiga:** A cidade foi fundada no século XVII por colonos que procuravam uma vida tranquila longe dos centros urbanos. A paz e a serenidade do vale eram lendárias, daí o nome.
 - **A Guerra Civil e a Prosperidade Pós-Guerra:** Durante a Guerra Civil, a cidade permaneceu relativamente intocada, mas depois do conflito, prosperou como um centro agrícola. Suas fazendas forneciam alimentos para as cidades vizinhas.
@@ -54,8 +54,9 @@ A economia de Vale da Serenidade é baseada em atividades tradicionais que refle
 Essas atividades econômicas sustentam a vida da cidade e contribuem para a sensação de isolamento e autossuficiência de Vale da Serenidade.
 
 # [[O Culto]]
+O culto secreto opera internamente controlando a cidade desde sua fundação. Elaborar:
 
-# A HISTORIA REAL (SPOILERS)
+## A HISTORIA REAL (SPOILERS)
 
 Era uma época perdida nos cantos esquecidos da história, onde os velhos sussurros do mundo ecoavam através das sombras da existência. Os séculos eram meros grãos de areia em um relógio quebrado, e a humanidade dançava à margem da eternidade. Em uma terra selvagem e inexplorada, o destino conspirou para trazer à tona um segredo ancestral, um segredo que nunca deveria ter sido revelado.
 

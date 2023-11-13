@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 2.07786458333333,
-  "lineSizeMultiplier": 2.46067708333333,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6316046762907658,
+  "colorGroups": [
+    {
+      "query": "path:Personagens/",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Cidade  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Narrativa  ",
+      "color": {
+        "a": 1,
+        "rgb": 15438080
+      }
+    },
+    {
+      "query": "path:Meta  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 2.19775996305094,
+  "lineSizeMultiplier": 2.52510556875165,
+  "collapse-forces": false,
+  "centerStrength": 0.502144365267881,
+  "repelStrength": 10.432831881763,
+  "linkStrength": 0.798726576933228,
+  "linkDistance": 289,
+  "scale": 0.9657540916330751,
   "close": true
 }

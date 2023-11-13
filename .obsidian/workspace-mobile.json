@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "897670a8ec88b15e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81e1e265c0c72bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85d71e0fe8e8e448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Ideias para sessão 3.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "355db2891009d74f"
+          },
+          {
+            "id": "8d1720a8439d92a7",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Cidade/Vale da Serenidade.md",
+                "staged": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "862aa32ca05c0ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8a136446c92de96",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Meta/Ideias para sessão 3.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.78530314757734,
+                  "close": true
+                }
+              }
+            },
+            "group": "355db2891009d74f"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c365f191cfd1dda",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "395ec40ca77a9fdd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "eed6e75dd95e9354",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "688c8fee593499f8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2e1cfeed7cc61a6e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ac657d4ceb840f3f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7e199b4b46b575c6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bd7689b83da3e866",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "be6e5ae25e9b59d6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "e572c3ae8f10ef42",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "fe32e29325b7794c",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d1720a8439d92a7",
+  "lastOpenFiles": [
+    "Ideias para A Faminta.md",
+    "Meta/Ideias para sessão 3.md",
+    "Personagens/Personagens.md",
+    "Meta/Ideias para sessão 4.md",
+    "Cidade/Vale da Serenidade.md",
+    "Personagens/Benjamin Thornton.md",
+    "Personagens/Daniel O'Connor.md",
+    "Personagens/Draculoros.md",
+    "Personagens/Elias Hawthorn.md",
+    "Personagens/Evelyn Whitman.md",
+    "Personagens/Ezekiel Wallace.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Marina Corvina.md",
+    "Personagens/Silvanus Thorne.md",
+    "Personagens/Silas Corbet.md",
+    "Personagens/São Sereno.md",
+    "Personagens/Samuel Callan.md",
+    "Personagens/Rufus 'O Sortudo' Wallace.md",
+    "Narrativa/O Culto.md",
+    "Narrativa/O Evento do Sequestro.md",
+    "Narrativa/Pesadelo de Helmut.md",
+    "Narrativa/Pesadelo de Joseph.md",
+    "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
+    "Meta/Arcos/Arco 4 - O Confronto com o Culto.md",
+    "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
+    "Personagens/A Faminta.md",
+    "Untitled.canvas",
+    "/Untitled.canvas"
+  ]
+}
