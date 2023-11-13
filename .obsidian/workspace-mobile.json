@@ -11,12 +11,8 @@
             "id": "85d71e0fe8e8e448",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Ideias para sessão 3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             },
             "group": "355db2891009d74f"
           },
@@ -24,10 +20,11 @@
             "id": "8d1720a8439d92a7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Cidade/Vale da Serenidade.md",
-                "staged": false
+                "file": "Meta/Ideias para A Faminta.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -44,7 +41,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meta/Ideias para sessão 3.md",
+                "file": "Narrativa/Carta para os jogadores - Benjamin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,6 +137,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Meta/Ideias para A Faminta.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,6 +154,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Meta/Ideias para A Faminta.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": false
           }
@@ -166,7 +165,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Meta/Ideias para A Faminta.md"
+          }
         }
       },
       {
@@ -199,20 +200,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d1720a8439d92a7",
+  "active": "395ec40ca77a9fdd",
   "lastOpenFiles": [
-    "Ideias para A Faminta.md",
-    "Meta/Ideias para sessão 3.md",
+    "Narrativa/Carta para os jogadores - Benjamin.md",
     "Personagens/Personagens.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Daniel O'Connor.md",
+    "Personagens/Josephine Carter.md",
+    "Meta/Ideias para sessão 3.md",
+    "Meta/Ideias para A Faminta.md",
+    "Narrativa/Testamento.md",
+    "Canvas.canvas",
     "Meta/Ideias para sessão 4.md",
+    "Personagens/Emily.md",
+    "Meta/Relatório de Sessões.md",
     "Cidade/Vale da Serenidade.md",
     "Personagens/Benjamin Thornton.md",
-    "Personagens/Daniel O'Connor.md",
     "Personagens/Draculoros.md",
     "Personagens/Elias Hawthorn.md",
     "Personagens/Evelyn Whitman.md",
     "Personagens/Ezekiel Wallace.md",
-    "Personagens/Henry Holloway.md",
     "Personagens/Marina Corvina.md",
     "Personagens/Silvanus Thorne.md",
     "Personagens/Silas Corbet.md",
@@ -222,11 +229,6 @@
     "Narrativa/O Culto.md",
     "Narrativa/O Evento do Sequestro.md",
     "Narrativa/Pesadelo de Helmut.md",
-    "Narrativa/Pesadelo de Joseph.md",
-    "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
-    "Meta/Arcos/Arco 4 - O Confronto com o Culto.md",
-    "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
-    "Personagens/A Faminta.md",
     "Untitled.canvas",
     "/Untitled.canvas"
   ]

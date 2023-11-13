@@ -6,11 +6,9 @@
     
 4. **Leitura do Diário de Henry:** Os personagens continuam a decifrar o diário de Henry, desvendando mapas e símbolos que revelam locais importantes na cidade.
     
-5. **Visão de Emily:** Um encontro sobrenatural leva os personagens a terem visões da menina desaparecida, Emily, fornecendo pistas sobre sua ligação com os eventos atuais.
+5. **Visão de Emily:** Um encontro sobrenatural leva os personagens a terem visões da menina desaparecida, [[Emily]], fornecendo pistas sobre sua ligação com os eventos atuais.
     
 6. **Cerimônia Sazonal:** Os personagens participam de uma festividade sazonal na cidade, descobrindo rituais estranhos e testemunhando eventos que desafiam a lógica.
-    
-7. **Envolvimento com a Família de Henry:** Os personagens buscam membros da família de Henry para obter mais informações sobre seu passado e possíveis conexões com o sobrenatural.
     
 8. **Confronto com Criaturas Sobrenaturais:** Durante uma busca em locais marcados no diário, os personagens enfrentam criaturas sobrenaturais ligadas aos eventos estranhos na cidade.
     

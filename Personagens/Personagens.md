@@ -9,8 +9,10 @@ Aqui estão os principais personagens:
 - Dona da casa de chás / pousada [[Marina Corvina]]
 - Padre da cidade [[Samuel Callan]]
 - Coveiro do cemitério [[Silas Corbet]]
+- Prefeita [[Josephine Carter]]
 - **Crianças Desaparecidas:** As crianças desaparecidas são personagens-chave na história, embora possam estar catatônicas ou em um estado mentalmente alterado devido a sua experiência na dimensão sombria. Os investigadores precisam interagir com essas crianças, descobrir o que aconteceu com elas e tentar resgatá-las.
 	- [[Isabella Reynolds]]
+	- [[Emily]]
 - **Família das Criança Desaparecida:** 
 	- **Pai - [[Robert Reynolds]]** um dos pais pode desempenhar um papel ativo na investigação. Ele está cheios de angústia e determinação para recuperar sua filha.
 - **Entidade Cósmica ([[A Faminta]]):** A entidade cósmica conhecida como "A Faminta" é a principal antagonista da história. Ela habita a dimensão sombria e se alimenta das almas das crianças. Sua presença é indescritível e aterrorizante. Os investigadores podem precisar enfrentar ou selar essa entidade para resolver o mistério e salvar as crianças.
@@ -22,6 +24,7 @@ Aqui estão os principais personagens:
 - **Antigo arqueólogo residente da cidade**: [[Ezekiel Wallace]]
 # Personagens secundários
 - Bibliotecária [[Evelyn Whitman]]
+- Advogado [[Benjamin Thornton]]
 - **Historiador Local:** Um estudioso que pesquisa a história de Vale da Serenidade e da Floresta Eterna. Ele possui manuscritos antigos e documentos que podem conter pistas sobre o passado da cidade e sobre a entidade cósmica.
 - **Padeiro da Cidade:** O padeiro é afirma ter visto algo estranho na Floresta Eterna. Ele pode fornecer testemunhos perturbadores sobre o que acontece quando o sol se põe nas imediações da floresta.
 - **Médico da Cidade [[Cornelius Blackwood]]:** Ele é cético quanto a elementos sobrenaturais, mas sua perícia médica pode ser vital para entender o estado físico e mental das crianças e o que aconteceu com elas.
