@@ -13,7 +13,7 @@ Sabe o último local em que uma das crianças foi vista antes do desaparecimento
 
 # **Seu passado traumático**
 
-1. **Desconfiança e Paranoia**: O xerife, devido às suas experiências de guerra, desenvolveu uma desconfiança natural em relação ao desconhecido. Ele pode ser cauteloso e até mesmo paranoico em relação aos estrangeiros e a qualquer evento que pareça misterioso. Isso pode fazer com que ele seja relutante em compartilhar informações delicadas com os jogadores, a menos que confie plenamente neles.
+1. **[[A desconfiança na cidade|Desconfiança]] e Paranoia**: O xerife, devido às suas experiências de guerra, desenvolveu uma desconfiança natural em relação ao desconhecido. Ele pode ser cauteloso e até mesmo paranoico em relação aos estrangeiros e a qualquer evento que pareça misterioso. Isso pode fazer com que ele seja relutante em compartilhar informações delicadas com os jogadores, a menos que confie plenamente neles.
     
 2. **Sensibilidade às Ameaças Ocultas**: O xerife, devido ao seu passado, tem uma sensibilidade aguçada para perceber ameaças ocultas e anormalidades. Ele pode ser capaz de identificar padrões ou sinais que escapariam à maioria das pessoas, o que o torna um aliado valioso na investigação, desde que os jogadores saibam como ganhar sua confiança.
     

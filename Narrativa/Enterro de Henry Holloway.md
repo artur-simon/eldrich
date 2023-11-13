@@ -80,7 +80,7 @@ Ele pausa por um momento antes de prosseguir:
 
 O xerife olha ao redor, certificando-se de que não estão sendo ouvidos por outros habitantes.
 
-"É uma situação delicada. Não descartamos nenhuma possibilidade, mas existe uma desconfiança crescente em relação a estrangeiros na cidade, especialmente depois desses desaparecimentos. Alguns aqui acreditam que um deles pode ser o responsável."
+"É uma situação delicada. Não descartamos nenhuma possibilidade, mas existe uma [[A desconfiança na cidade|desconfiança]] crescente em relação a estrangeiros na cidade, especialmente depois desses desaparecimentos. Alguns aqui acreditam que um deles pode ser o responsável."
 
 Ele suspira e continua:
 
