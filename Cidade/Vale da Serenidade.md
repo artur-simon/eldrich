@@ -29,6 +29,7 @@ A principal praça da cidade é dominada por uma antiga [[Igreja de São Sereno|
 4. Escritório de advocacia
 5. Correios
 6. Casa de Henry Holloway
+7. [[Creche Arco-Íris Encantado]]
    
 # História
 

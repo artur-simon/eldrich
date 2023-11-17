@@ -42,6 +42,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Ideias para a Sessão 4.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -96,11 +97,15 @@
             "dimension": 60.501193317422434,
             "children": [
               {
-                "id": "111d22d9dcc2c39d",
+                "id": "177971fc6da80f99",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ideias para a Sessão 4.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -152,8 +157,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ideias para a Sessão 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ideias para a Sessão 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ideias para a Sessão 4.md"
+              }
             }
           },
           {
@@ -239,35 +247,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "111d22d9dcc2c39d",
+  "active": "177971fc6da80f99",
   "lastOpenFiles": [
+    "Cidade/A Floresta Eterna.md",
     "Meta/Ideias para sessão 3.md",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Personagens/Daniel O'Connor.md",
-    "Narrativa/Desconfiança dos moradores.md",
+    "Ideias para a Sessão 4.md",
     "Meta/Desafios/A desconfiança na cidade.md",
+    "Meta/Ideias para sessão 2.md",
+    "Meta/Arcos/Arco 2 - Os Segredos da Floresta Eterna.md",
+    "Meta/Relatório de Sessões.md",
+    "Meta/Prompt.md",
+    "Meta/Meta.md",
+    "Meta/Ideias para A Faminta.md",
+    "Cidade/Refúgio das Ervas.md",
+    "Cidade/Vale da Serenidade.md",
+    "Cidade/Creche Arco-Íris Encantado.md",
+    "Cidade/Igreja de São Sereno.md",
+    "Cidade/Biblioteca Municipal.md",
+    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
+    "Meta/Transformação.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Narrativa/Desconfiança dos moradores.md",
+    "Personagens/Daniel O'Connor.md",
     "Meta/Desafios/Desafios Adicionais.md",
     "Personagens/Emily.md",
     "Narrativa/Pesadelo de Joseph.md",
     "Narrativa/Testamento.md",
     "Narrativa/Pesadelo de Helmut.md",
-    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
-    "Meta/Transformação.md",
-    "Meta/Relatório de Sessões.md",
-    "Meta/Meta.md",
-    "Meta/Ideias para sessão 2.md",
     "Personagens/Benjamin Thornton.md",
-    "Personagens/Evelyn Whitman.md",
-    "Personagens/Elias Hawthorn.md",
-    "Narrativa/Introdução.md",
-    "Personagens/A Faminta.md",
-    "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
-    "Narrativa/O Culto.md",
-    "Narrativa/Narrativa.md",
-    "Narrativa/Carta para os jogadores - Benjamin.md",
-    "Meta/Ideias para A Faminta.md",
     "Untitled.canvas",
-    "Ideias para esta sessão.md",
     "Canvas.canvas",
     "Recording 20231107002617.webm",
     "Recording 20231107002628.webm",
