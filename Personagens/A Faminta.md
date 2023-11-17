@@ -11,8 +11,6 @@ Seu principal desejo é alimentar-se de almas humanas. Ela atrai cultistas que o
 A Faminta age principalmente por meio de cultistas devotos que a adoram como uma divindade. Esses cultistas, como [[Silvanus Thorne]], realizam rituais para abrir os portais e fornecer almas como tributo. Em troca, eles podem receber dons sobrenaturais, mas frequentemente pagam um preço terrível em termos de sanidade.
 ## **Influência:** 
 A mera proximidade de "A Faminta" ou de seus portais pode corromper a realidade e perturbar a sanidade daqueles que se aventuram muito perto dela. Sussurros, visões perturbadoras e distorções na realidade são sinais de sua presença.
-## **Motivação:** 
-Os verdadeiros objetivos de "A Faminta" permanecem obscuros. Alguns acreditam que ela busca aumentar sua própria consciência e conhecimento cósmico, enquanto outros acreditam que ela simplesmente age por instinto, consumindo almas para saciar sua fome insaciável.
 
 
 # Folclore e lenda
@@ -22,6 +20,7 @@ Certos rituais eram associados à lenda, como tocar sinos à meia-noite para afa
 
 Alguns moradores podem sugerir que desaparecimentos passados foram erroneamente atribuídos à Faminta quando, na verdade, eram travessuras ou fugas de crianças. Essa explicação pode ser usada para desacreditar as alegações sobrenaturais.
 
+Na cidade os sinos bradam à meia noite, formalmente esta é uma tradição da Evocação de [[São Sereno]]. O padre [[Samuel Callan]] pode contar aos jogadores que o toque dos sinos à meia-noite é uma homenagem a São Sereno, o padroeiro da cidade. Que a igreja acredita que esse ato reforça a conexão com o santo, buscando sua proteção e bênçãos para a comunidade.
 ## A lenda oral
 	Numa noite silenciosa, meu filho, quando as estrelas cintilam acima de nós e a lua joga sua luz pálida sobre as colinas de Vale da Serenidade, é hora de contar uma história que os mais velhos passaram para os mais jovens, como uma tradição que se enrola nos fios do tempo.
 	

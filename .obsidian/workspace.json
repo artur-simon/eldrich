@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Personagens/Emily.md",
+                        "file": "Narrativa/Narrativa.md",
                         "mode": "source",
                         "source": false
                       }
@@ -42,7 +42,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Personagens/A Faminta.md",
+                        "file": "Narrativa/Narrativa.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -112,24 +112,16 @@
                 "id": "f9d55c9f0b89278b",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "a67c13dbf10c8c79",
-                "type": "leaf",
-                "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Personagens/A Faminta.md",
+                    "file": "Personagens/Samuel Callan.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -198,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/A Faminta.md",
+                "file": "Narrativa/Narrativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/A Faminta.md",
+                "file": "Narrativa/Narrativa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/A Faminta.md"
+                "file": "Narrativa/Narrativa.md"
               }
             }
           },
@@ -250,8 +242,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,37 +259,37 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a67c13dbf10c8c79",
+  "active": "3626bb70d14bd7f0",
   "lastOpenFiles": [
+    "Narrativa/O Culto.md",
+    "Narrativa/O Evento do Sequestro.md",
+    "Narrativa/Pesadelo de Helmut.md",
+    "Narrativa/Pesadelo de Joseph.md",
+    "Narrativa/Testamento.md",
+    "Personagens/A Faminta.md",
+    "Personagens/Emily.md",
+    "Personagens/Samuel Callan.md",
+    "Cidade/Igreja de São Sereno.md",
+    "Personagens/São Sereno.md",
+    "Home.md",
+    "Cidade/Vale da Serenidade.md",
+    "Meta/Ideias para sessão 3.md",
+    "Canvas.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Personagens/Ezekiel Wallace.md",
     "Personagens/Rufus 'O Sortudo' Wallace.md",
     "Meta/Desafios/Desafios Adicionais.md",
-    "Personagens/Emily.md",
     "Personagens/Henry Holloway.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Meta/Desafios/A desconfiança na cidade.md",
-    "Narrativa/O Evento do Sequestro.md",
     "Meta/Ideias para a Sessão 4.md",
     "Perseguição.md",
     "Meta/Ideias para sessão 2.md",
     "Meta/Ideias para A Faminta.md",
-    "Meta/Ideias para sessão 3.md",
     "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
     "Meta/Arcos/Arco 2 - Os Segredos da Floresta Eterna.md",
     "Meta/Arcos/Arco 1 - A chegada ao Vale da Serenidade.md",
     "Cidade/A Floresta Eterna.md",
-    "Meta/Relatório de Sessões.md",
-    "Meta/Prompt.md",
-    "Meta/Meta.md",
-    "Cidade/Refúgio das Ervas.md",
-    "Cidade/Vale da Serenidade.md",
-    "Cidade/Creche Arco-Íris Encantado.md",
-    "Cidade/Igreja de São Sereno.md",
-    "Cidade/Biblioteca Municipal.md",
-    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
-    "Meta/Transformação.md",
-    "Canvas.canvas",
     "Recording 20231107002617.webm",
     "Recording 20231107002628.webm",
     "Cidade/Mídia",
