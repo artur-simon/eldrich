@@ -18,12 +18,12 @@
                 "dimension": 68.17307692307692,
                 "children": [
                   {
-                    "id": "d415df929748abd7",
+                    "id": "3626bb70d14bd7f0",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Meta/Desafios/A desconfiança na cidade.md",
+                        "file": "Personagens/Emily.md",
                         "mode": "source",
                         "source": false
                       }
@@ -42,7 +42,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Ideias para a Sessão 4.md",
+                        "file": "Personagens/A Faminta.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -102,13 +102,34 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ideias para a Sessão 4.md",
+                    "file": "Meta/Ideias para sessão 3.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f9d55c9f0b89278b",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a67c13dbf10c8c79",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Personagens/A Faminta.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -140,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Desconfiança ",
+                "query": "Diário",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -177,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideias para a Sessão 4.md",
+                "file": "Personagens/A Faminta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideias para a Sessão 4.md",
+                "file": "Personagens/A Faminta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideias para a Sessão 4.md"
+                "file": "Personagens/A Faminta.md"
               }
             }
           },
@@ -247,18 +268,29 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "177971fc6da80f99",
+  "active": "a67c13dbf10c8c79",
   "lastOpenFiles": [
-    "Cidade/A Floresta Eterna.md",
-    "Meta/Ideias para sessão 3.md",
-    "Ideias para a Sessão 4.md",
+    "Personagens/Ezekiel Wallace.md",
+    "Personagens/Rufus 'O Sortudo' Wallace.md",
+    "Meta/Desafios/Desafios Adicionais.md",
+    "Personagens/Emily.md",
+    "Personagens/Henry Holloway.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Meta/Desafios/A desconfiança na cidade.md",
+    "Narrativa/O Evento do Sequestro.md",
+    "Meta/Ideias para a Sessão 4.md",
+    "Perseguição.md",
     "Meta/Ideias para sessão 2.md",
+    "Meta/Ideias para A Faminta.md",
+    "Meta/Ideias para sessão 3.md",
+    "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
     "Meta/Arcos/Arco 2 - Os Segredos da Floresta Eterna.md",
+    "Meta/Arcos/Arco 1 - A chegada ao Vale da Serenidade.md",
+    "Cidade/A Floresta Eterna.md",
     "Meta/Relatório de Sessões.md",
     "Meta/Prompt.md",
     "Meta/Meta.md",
-    "Meta/Ideias para A Faminta.md",
     "Cidade/Refúgio das Ervas.md",
     "Cidade/Vale da Serenidade.md",
     "Cidade/Creche Arco-Íris Encantado.md",
@@ -266,16 +298,6 @@
     "Cidade/Biblioteca Municipal.md",
     "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
     "Meta/Transformação.md",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Narrativa/Desconfiança dos moradores.md",
-    "Personagens/Daniel O'Connor.md",
-    "Meta/Desafios/Desafios Adicionais.md",
-    "Personagens/Emily.md",
-    "Narrativa/Pesadelo de Joseph.md",
-    "Narrativa/Testamento.md",
-    "Narrativa/Pesadelo de Helmut.md",
-    "Personagens/Benjamin Thornton.md",
-    "Untitled.canvas",
     "Canvas.canvas",
     "Recording 20231107002617.webm",
     "Recording 20231107002628.webm",
@@ -288,7 +310,6 @@
     "Cidade",
     "Assets/Simbolo na lápide.jpeg",
     "Assets/output.jpg",
-    "Assets",
-    "Untitled 1.canvas"
+    "Assets"
   ]
 }

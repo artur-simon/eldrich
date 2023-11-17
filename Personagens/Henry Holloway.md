@@ -1,12 +1,9 @@
-63 anos
 
-**História da Relação:**
+Henry Holloway, 63 anos. Um explorador e pesquisador famoso na família. Henry sempre foi uma figura misteriosa, conhecida por suas aventuras em busca de artefatos antigos e segredos ocultos.
 
-Henry Holloway, um explorador e pesquisador famoso na família. Henry sempre foi uma figura misteriosa, conhecida por suas aventuras em busca de artefatos antigos e segredos ocultos.
+O primo Henry desapareceu abruptamente em Vale da Serenidade, enquanto investigava "algo de misterioso na organização da cidade". A investigação oficial não encontrou pistas sobre o seu paradeiro. Acreditava-se que ele havia se perdido na obscura Floresta Eterna ou caído vítima dos segredos sombrios da cidade.
 
-O primo Henry desapareceu abruptamente há vários anos durante uma expedição em Vale da Serenidade, enquanto investigava os cultos antigos que adoravam A Faminta. O desaparecimento de Henry deixou uma cicatriz profunda na família Holloway, e a investigação oficial não encontrou pistas sobre o seu paradeiro. A família acreditava que ele havia se perdido na obscura Floresta Eterna ou caído vítima dos segredos sombrios da cidade.
-
-Os personagens receberam uma convocação misteriosa para o enterro de Henry em Vale da Serenidade. Eles mal podiam acreditar que, após tantos anos de incerteza, finalmente teriam a chance de prestar suas homenagens e talvez descobrir o que aconteceu com o primo. A sombra do desaparecimento de Henry paira sobre eles, e eles sentem que o mistério de Vale da Serenidade pode finalmente fornecer respostas há muito procuradas.
+Os personagens receberam uma convocação misteriosa para o enterro de Henry em Vale da Serenidade. Para prestar suas homenagens e talvez descobrir o que aconteceu com o primo. A sombra do desaparecimento de Henry paira sobre eles, e eles sentem que o mistério de Vale da Serenidade pode finalmente fornecer respostas há muito procuradas.
 
 # Falecimento
 
@@ -21,7 +18,7 @@ O corpo de Henry Holloway foi encontrado sob circunstâncias misteriosas e pertu
 **Ausência de Ferimentos Óbvios:** Surpreendentemente, o corpo não apresentava ferimentos óbvios, como cortes ou contusões que indicassem uma causa direta de morte. No entanto, o estado de decomposição tornava difícil determinar qualquer lesão interna.
 
 
-### Carta para Albert
+# Carta para Albert
 
 Querido Albert,
 
@@ -45,3 +42,10 @@ Henry Holloway
 
 
 ---
+
+# Diário
+
+Henry deixou aos jogadores um diário com suas notas que vão gradativamente de uma desconfiança sempre presente à organização da cidade até a investigação da relação sombria de um [[O Culto]] com a cidade, ele anota tudo, mas sua letra não é muito legível e da metade para a frente o diário se torna simplesmente indecifrável, na medida que Henry começa a entender o funcionamento da organização, da história sombria da cidade e da verdade oculta sobre a entidade que permeia a floresta.
+
+# O ídolo
+Em suas investigações ele consegue se esgueirar entre os ritos da organização secreta e com muita sorte consegue tomar um dos ícones que são de extrema importância para a execução dos rituais sazonais de sacrifício, [[O Ídolo da Penúria]]. Isso acontece em um momento crítico onde ele é desmascarado pela organização e precisa então agir com muita avidez, ele toma o artefato e se esconde, momento que ele é tomado como desaparecido.

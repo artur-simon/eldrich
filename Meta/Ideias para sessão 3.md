@@ -1,5 +1,4 @@
 1. **Exploração Noturna:** Os personagens decidem desafiar o aviso do coveiro e explorar a floresta à noite, descobrindo segredos ocultos e enfrentando criaturas sobrenaturais.
-1. **Exploração Noturna:** Os personagens decidem desafiar o aviso do coveiro e explorar a floresta à noite, descobrindo segredos ocultos e enfrentando criaturas sobrenaturais.
     
 2. **Investigação dos Desaparecimentos:** Os personagens se aprofundam na investigação dos desaparecimentos, entrevistando moradores e descobrindo padrões estranhos que podem estar relacionados a eventos passados.
     

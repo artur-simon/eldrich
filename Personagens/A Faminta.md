@@ -1,4 +1,4 @@
-# **Hagrath, a Devoradora de Almas:**
+# Hagrath, a Devoradora de Almas:
 
 O verdadeiro nome de "A Faminta" é um segredo profundo e antigo, conhecido apenas pelos cultistas mais devotos. Para os investigadores e habitantes de Vale da Serenidade, a entidade é conhecida apenas como "A Faminta" devido à sua insaciável fome por almas.
 
@@ -14,7 +14,27 @@ A mera proximidade de "A Faminta" ou de seus portais pode corromper a realidade 
 ## **Motivação:** 
 Os verdadeiros objetivos de "A Faminta" permanecem obscuros. Alguns acreditam que ela busca aumentar sua própria consciência e conhecimento cósmico, enquanto outros acreditam que ela simplesmente age por instinto, consumindo almas para saciar sua fome insaciável.
 
-# **As Origens d"A Faminta":**
+
+# Folclore e lenda
+
+A história da Faminta foi transmitida ao longo de gerações por meio de histórias orais. Moradores mais antigos podem afirmar que a lenda era inicialmente uma ferramenta para manter as crianças em casa após o anoitecer.
+Certos rituais eram associados à lenda, como tocar sinos à meia-noite para afastar a Faminta. Os pais poderiam ter adotado esses rituais como uma forma de controle, mesmo que originalmente fossem apenas parte da narrativa folclórica.
+
+Alguns moradores podem sugerir que desaparecimentos passados foram erroneamente atribuídos à Faminta quando, na verdade, eram travessuras ou fugas de crianças. Essa explicação pode ser usada para desacreditar as alegações sobrenaturais.
+
+## A lenda oral
+	Numa noite silenciosa, meu filho, quando as estrelas cintilam acima de nós e a lua joga sua luz pálida sobre as colinas de Vale da Serenidade, é hora de contar uma história que os mais velhos passaram para os mais jovens, como uma tradição que se enrola nos fios do tempo.
+	
+	Senta aqui, perto do calor desta lareira, e escuta com atenção. Nossos ancestrais, há muito tempo, teceram uma narrativa sombria chamada Faminta. Uma história que não é apenas contada, mas carregada no sussurro do vento que dança entre as árvores antigas.
+	
+	Há muitos anos, quando as ruas eram mais estreitas e as casas mais próximas, os pais de Vale da Serenidade contavam sobre a Faminta para que os pequenos pudessem entender o valor de casa e obediência. A Faminta, diziam eles, era uma sombra noturna, uma guardiã das noites escuras, observando as crianças travessas.
+	
+	À meia-noite, quando os sinos da igreja ecoavam, era um aviso gentil para todos que a Faminta começava sua ronda. Nada bom aconteceria se os pequenos não estivessem nos braços de seus pais antes que o último sino se apagasse. A Faminta, você vê, levava consigo aqueles que desafiavam a voz do sino.
+	
+	A lenda cresceu, meu filho, mas não tema, pois é apenas uma história, como o Homem do Saco ou a Maria Sangrenta. Uma maneira antiga de lembrar que o escuro deve ser respeitado, que a obediência é uma luz contra a escuridão da noite.
+	
+	Então, à medida que a brisa noturna acaricia as janelas e as sombras dançam nas paredes, lembre-se da Faminta como um lembrete de que há poder na tradição e sabedoria em ouvir as histórias que ecoam pelos séculos. Boa noite, meu filho, que seus sonhos sejam tão serenos quanto o vale que nos abraça.
+# As Origens d"A Faminta":
 
 ## **A Antiguidade Obscura:** 
 A história de "A Faminta" remonta a tempos imemoriais, muito antes da fundação de Vale da Serenidade. Ela é uma das entidades cósmicas mais antigas e obscuras, cujas origens estão envoltas em mistério. Seu nome verdadeiro não pode ser pronunciado por língua humana, e é conhecida apenas por seu apetites insaciáveis.
@@ -31,7 +51,7 @@ Não era apenas uma questão de superstição. A Faminta tinha provado seu poder
 
 E assim, à medida que os investigadores desvendavam esses fragmentos de verdades esquecidas, eles compreendiam que o culto à Faminta não era um fenômeno novo. Era uma sombra que pairava sobre a história, um segredo profundo que o tempo tentara apagar, mas que agora ressurgia para atormentar Vale da Serenidade mais uma vez.
 
-# **O Despertar e a Corrupção:**
+# O Despertar e a Corrupção:
 
 
 - **A Corrupção na Cidade:** Conforme a influência de Hagrath crescia, a cidade de Vale da Serenidade começou a sentir os efeitos da corrupção cósmica. Distúrbios na realidade, pesadelos coletivos e o desaparecimento inexplicável de crianças começaram a assolar a comunidade, mas os verdadeiros responsáveis permaneceram ocultos.
@@ -46,7 +66,7 @@ E assim, à medida que os investigadores desvendavam esses fragmentos de verdade
 
 - **Rituais Perigosos:** O culto continuou a realizar rituais perigosos na Floresta Eterna, abrindo portais para dimensões desconhecidas e arriscando a estabilidade da realidade. Cada ato ritualístico aumentava a influência de Hagrath e aprofundava a crise na cidade.
 
-# **A Luta Contra a Devoradora de Almas:**
+# A Luta Contra a Devoradora de Almas:
 
 - **A Descoberta do Diário Perdido:** Durante as investigações, os investigadores podem tropeçar em um diário antigo escondido nos arquivos da biblioteca municipal. O diário pertencia a um dos fundadores da cidade que estava ciente das atividades do culto e da influência de Hagrath. Ele escreveu sobre rituais, observações estranhas na Floresta Eterna e seu próprio medo crescente da entidade.
     
