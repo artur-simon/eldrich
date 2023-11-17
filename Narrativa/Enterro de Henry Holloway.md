@@ -32,7 +32,7 @@ Rufus, observando a cena com seu olhar misterioso e calmo. Sua presença adicion
 
 ## [[Samuel Callan]]
 
-O padre Samuel Callan, com sua figura solene vestida com paramentos sagrados, fica diante do caixão simples de Henry Holloway. Seus olhos castanhos expressam tanto compaixão quanto uma sutil inquietação, como se ele também sentisse que algo está profundamente errado com a situação.
+O padre [[Samuel Callan]], com sua figura solene vestida com paramentos sagrados, fica diante do caixão simples de Henry Holloway. Seus olhos castanhos expressam tanto compaixão quanto uma sutil inquietação, como se ele também sentisse que algo está profundamente errado com a situação.
 
 Ele ergue uma mão trêmula para ajustar os óculos de aros de ouro. A multidão se cala, seus murmúrios de conversa e especulação extinguindo-se enquanto aguardam suas palavras.
 

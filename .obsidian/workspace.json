@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Narrativa/Narrativa.md",
+                        "file": "Meta/A Faminta - Idéias.md",
                         "mode": "source",
                         "source": false
                       }
@@ -42,7 +42,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Narrativa/Narrativa.md",
+                        "file": "Meta/A Faminta - Idéias.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Diário",
+                "query": "yog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrativa/Narrativa.md",
+                "file": "Meta/A Faminta - Idéias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrativa/Narrativa.md",
+                "file": "Meta/A Faminta - Idéias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrativa/Narrativa.md"
+                "file": "Meta/A Faminta - Idéias.md"
               }
             }
           },
@@ -242,7 +242,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -261,14 +262,27 @@
   },
   "active": "3626bb70d14bd7f0",
   "lastOpenFiles": [
+    "Personagens/Samuel Callan.md",
+    "Meta/A Faminta - Idéias.md",
+    "Meta/Desafios/Desafios Adicionais.md",
+    "Meta/Desafios/A desconfiança na cidade.md",
+    "Meta/Transformação.md",
+    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
+    "Meta/Relatório de Sessões.md",
+    "Meta/Prompt.md",
+    "Meta/Meta.md",
+    "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
+    "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
+    "Personagens/A Faminta.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Narrativa/Carta para os jogadores - Benjamin.md",
+    "Narrativa/Narrativa.md",
     "Narrativa/O Culto.md",
     "Narrativa/O Evento do Sequestro.md",
     "Narrativa/Pesadelo de Helmut.md",
     "Narrativa/Pesadelo de Joseph.md",
     "Narrativa/Testamento.md",
-    "Personagens/A Faminta.md",
     "Personagens/Emily.md",
-    "Personagens/Samuel Callan.md",
     "Cidade/Igreja de São Sereno.md",
     "Personagens/São Sereno.md",
     "Home.md",
@@ -277,19 +291,6 @@
     "Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Personagens/Ezekiel Wallace.md",
-    "Personagens/Rufus 'O Sortudo' Wallace.md",
-    "Meta/Desafios/Desafios Adicionais.md",
-    "Personagens/Henry Holloway.md",
-    "Meta/Desafios/A desconfiança na cidade.md",
-    "Meta/Ideias para a Sessão 4.md",
-    "Perseguição.md",
-    "Meta/Ideias para sessão 2.md",
-    "Meta/Ideias para A Faminta.md",
-    "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
-    "Meta/Arcos/Arco 2 - Os Segredos da Floresta Eterna.md",
-    "Meta/Arcos/Arco 1 - A chegada ao Vale da Serenidade.md",
-    "Cidade/A Floresta Eterna.md",
     "Recording 20231107002617.webm",
     "Recording 20231107002628.webm",
     "Cidade/Mídia",

@@ -1,12 +1,8 @@
 
-- **Um Culto Secreto**: Os desaparecimentos estão relacionados a um culto secreto que adora uma entidade cósmica. À medida que os jogadores investigam, eles descobrem que alguns moradores estão envolvidos e tentarão impedi-los.
 - **A Criança Misteriosa**: Uma criança que sobreviveu a um dos desaparecimentos aparece, mas ela parece ter mudado de alguma forma. Ela é uma chave para entender o que está acontecendo.
 - **Fenômenos Sobrenaturais**: Eventos sobrenaturais começam a ocorrer na localidade rural à medida que a investigação avança. Sonhos assustadores, objetos que se movem sozinhos, e vozes sussurrantes podem aumentar a tensão.
-- **Um Antigo Diário**: Os investigadores encontram um diário antigo que pertencia a um morador do passado que enfrentou uma situação semelhante. As anotações no diário oferecem dicas e pistas, mas também revelam o quão sombria a situação pode se tornar.
 - **O Xamã da Aldeia**: Um xamã local acredita que os desaparecimentos estão relacionados a uma maldição ancestral. Ele pode ajudar os investigadores, mas exige um serviço perigoso em troca.
-- **Revelações na Biblioteca**: Uma biblioteca abandonada na cidade contém textos antigos e obscuros que revelam a verdade sobre o que está acontecendo, mas ela está protegida por armadilhas e criaturas sobrenaturais.
 - **A Realidade em Colapso**: À medida que a investigação avança, a linha entre a realidade e o sobrenatural começa a se desfazer. Os jogadores podem ser confrontados com ilusões e pesadelos que desafiam sua sanidade.
-- **Um Conflito de Interesses**: Um dos investigadores pode ter um motivo oculto para estar na localidade rural, e seus interesses podem entrar em conflito com o grupo.
 - **A Revelação Final**: A verdade por trás dos desaparecimentos está diretamente ligada a uma criatura cósmica adormecida sob a terra. Os jogadores devem decidir como lidar com essa ameaça, sabendo que pode desencadear consequências terríveis.
 - **O Pântano Proibido**: A localidade rural tem um pântano obscuro e proibido, que os habitantes evitam a todo custo. Os investigadores podem descobrir que os desaparecimentos estão ligados a criaturas que habitam o pântano.
 - **O Relógio do Juízo Final**: Um relojoeiro excêntrico na cidade está construindo um relógio que ele acredita ser capaz de prever eventos catastróficos. Os investigadores podem precisar da ajuda dele para entender o que está acontecendo.
