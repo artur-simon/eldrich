@@ -42,7 +42,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Personagens/Henry Holloway.md",
+                        "file": "Personagens/Emily Carter.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Henry Holloway.md",
+                "file": "Personagens/Emily Carter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Henry Holloway.md",
+                "file": "Personagens/Emily Carter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Henry Holloway.md"
+                "file": "Personagens/Emily Carter.md"
               }
             }
           },
@@ -260,21 +260,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3626bb70d14bd7f0",
+  "active": "f9d55c9f0b89278b",
   "lastOpenFiles": [
-    "Personagens/Emily Carter.md",
-    "Meta/Relatório de Sessões.md",
-    "Meta/Ideias para a Sessão 4.md",
-    "Meta/Ideias para sessão 3.md",
-    "Narrativa/O Culto.md",
-    "Personagens/Henry Holloway.md",
     "Narrativa/A Faminta.md",
     "Home.md",
+    "Personagens/São Sereno.md",
+    "Cidade/Igreja de São Sereno.md",
+    "Personagens/Samuel Callan.md",
+    "Narrativa/O Culto.md",
+    "Meta/Ideias para a Sessão 4.md",
+    "Personagens/Emily Carter.md",
+    "Meta/Relatório de Sessões.md",
+    "Personagens/Henry Holloway.md",
+    "Meta/Ideias para sessão 3.md",
     "Cidade/Vale da Serenidade.md",
     "Personagens/Personagens.md",
     "Meta/Transformação.md",
     "Meta/TODO.md",
-    "Personagens/Samuel Callan.md",
     "Meta/Prompt.md",
     "Meta/A Faminta - Idéias.md",
     "Meta/Desafios/Desafios Adicionais.md",
@@ -286,8 +288,6 @@
     "Narrativa/Enterro de Henry Holloway.md",
     "Narrativa/Carta para os jogadores - Benjamin.md",
     "Narrativa/Narrativa.md",
-    "Narrativa/O Evento do Sequestro.md",
-    "Narrativa/Pesadelo de Helmut.md",
     "Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

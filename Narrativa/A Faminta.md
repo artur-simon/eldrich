@@ -22,7 +22,7 @@ Certos rituais eram associados à lenda, como tocar sinos à meia-noite para afa
 Alguns moradores podem sugerir que desaparecimentos passados foram erroneamente atribuídos à Faminta quando, na verdade, eram travessuras ou fugas de crianças. Essa explicação pode ser usada para desacreditar as alegações sobrenaturais.
 
 Na cidade os sinos bradam à meia noite, formalmente esta é uma tradição da Evocação de [[São Sereno]]. O padre [[Samuel Callan]] pode contar aos jogadores que o toque dos sinos à meia-noite é uma homenagem a São Sereno, o padroeiro da cidade. Que a igreja acredita que esse ato reforça a conexão com o santo, buscando sua proteção e bênçãos para a comunidade.
-## A lenda oral
+## A lenda
 	Numa noite silenciosa, meu filho, quando as estrelas cintilam acima de nós e a lua joga sua luz pálida sobre as colinas de Vale da Serenidade, é hora de contar uma história que os mais velhos passaram para os mais jovens, como uma tradição que se enrola nos fios do tempo.
 	
 	Senta aqui, perto do calor desta lareira, e escuta com atenção. Nossos ancestrais, há muito tempo, teceram uma narrativa sombria chamada Faminta. Uma história que não é apenas contada, mas carregada no sussurro do vento que dança entre as árvores antigas.
@@ -34,6 +34,12 @@ Na cidade os sinos bradam à meia noite, formalmente esta é uma tradição da E
 	A lenda cresceu, meu filho, mas não tema, pois é apenas uma história, como o Homem do Saco ou a Maria Sangrenta. Uma maneira antiga de lembrar que o escuro deve ser respeitado, que a obediência é uma luz contra a escuridão da noite.
 	
 	Então, à medida que a brisa noturna acaricia as janelas e as sombras dançam nas paredes, lembre-se da Faminta como um lembrete de que há poder na tradição e sabedoria em ouvir as histórias que ecoam pelos séculos. Boa noite, meu filho, que seus sonhos sejam tão serenos quanto o vale que nos abraça.
+
+## Cantiga
+	Na cidade encantada, sob o luar, 
+	A Faminta vem, pronta pra caçar, 
+	Os sinos tocam, a nos alertar,
+	Vamos para casa, sem demorar.
 # As Origens d"A Faminta":
 
 ## **A Antiguidade Obscura:** 
