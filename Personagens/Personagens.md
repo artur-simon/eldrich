@@ -12,7 +12,7 @@ Aqui estão os principais personagens:
 - Prefeita [[Josephine Carter]]
 - **Crianças Desaparecidas:** As crianças desaparecidas são personagens-chave na história, embora possam estar catatônicas ou em um estado mentalmente alterado devido a sua experiência na dimensão sombria. Os investigadores precisam interagir com essas crianças, descobrir o que aconteceu com elas e tentar resgatá-las.
 	- [[Isabella Reynolds]]
-	- [[Emily]]
+	- [[Emily Carter]]
 - **Família das Criança Desaparecida:** 
 	- **Pai - [[Robert Reynolds]]** um dos pais pode desempenhar um papel ativo na investigação. Ele está cheios de angústia e determinação para recuperar sua filha.
 - **Entidade Cósmica ([[A Faminta]]):** A entidade cósmica conhecida como "A Faminta" é a principal antagonista da história. Ela habita a dimensão sombria e se alimenta das almas das crianças. Sua presença é indescritível e aterrorizante. Os investigadores podem precisar enfrentar ou selar essa entidade para resolver o mistério e salvar as crianças.

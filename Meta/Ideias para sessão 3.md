@@ -6,7 +6,6 @@
     
 4. **Leitura do Diário de Henry:** Os personagens continuam a decifrar o diário de Henry, desvendando mapas e símbolos que revelam locais importantes na cidade.
     
-5. **Visão de Emily:** Um encontro sobrenatural leva os personagens a terem visões da menina desaparecida, [[Emily]], fornecendo pistas sobre sua ligação com os eventos atuais.
     
 6. **Cerimônia Sazonal:** Os personagens participam de uma festividade sazonal na cidade, descobrindo rituais estranhos e testemunhando eventos que desafiam a lógica.
     

@@ -55,7 +55,7 @@ A economia de Vale da Serenidade é baseada em atividades tradicionais que refle
 Essas atividades econômicas sustentam a vida da cidade e contribuem para a sensação de isolamento e autossuficiência de Vale da Serenidade.
 
 # [[O Culto]]
-O culto secreto opera internamente controlando a cidade desde sua fundação. Elaborar:
+O culto secreto opera internamente controlando a cidade desde sua fundação.
 
 ## A HISTORIA REAL (SPOILERS)
 

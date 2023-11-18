@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Narrativa/A Faminta.md",
+                        "file": "Personagens/Henry Holloway.md",
                         "mode": "source",
                         "source": false
                       }
@@ -42,7 +42,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Meta/TODO.md",
+                        "file": "Personagens/Henry Holloway.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -114,26 +114,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Meta/Transformação.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "93a81989bff72b45",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Meta/TODO.md",
+                    "file": "Personagens/Emily Carter.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -202,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/TODO.md",
+                "file": "Personagens/Henry Holloway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/TODO.md",
+                "file": "Personagens/Henry Holloway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/TODO.md"
+                "file": "Personagens/Henry Holloway.md"
               }
             }
           },
@@ -255,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -272,19 +260,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "93a81989bff72b45",
+  "active": "3626bb70d14bd7f0",
   "lastOpenFiles": [
+    "Personagens/Emily Carter.md",
+    "Meta/Relatório de Sessões.md",
+    "Meta/Ideias para a Sessão 4.md",
+    "Meta/Ideias para sessão 3.md",
+    "Narrativa/O Culto.md",
+    "Personagens/Henry Holloway.md",
+    "Narrativa/A Faminta.md",
+    "Home.md",
+    "Cidade/Vale da Serenidade.md",
+    "Personagens/Personagens.md",
     "Meta/Transformação.md",
     "Meta/TODO.md",
-    "Narrativa/O Culto.md",
     "Personagens/Samuel Callan.md",
-    "Narrativa/A Faminta.md",
     "Meta/Prompt.md",
     "Meta/A Faminta - Idéias.md",
     "Meta/Desafios/Desafios Adicionais.md",
     "Meta/Desafios/A desconfiança na cidade.md",
     "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
-    "Meta/Relatório de Sessões.md",
     "Meta/Meta.md",
     "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
     "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
@@ -293,13 +288,6 @@
     "Narrativa/Narrativa.md",
     "Narrativa/O Evento do Sequestro.md",
     "Narrativa/Pesadelo de Helmut.md",
-    "Narrativa/Pesadelo de Joseph.md",
-    "Narrativa/Testamento.md",
-    "Personagens/Emily.md",
-    "Cidade/Igreja de São Sereno.md",
-    "Personagens/São Sereno.md",
-    "Home.md",
-    "Cidade/Vale da Serenidade.md",
     "Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

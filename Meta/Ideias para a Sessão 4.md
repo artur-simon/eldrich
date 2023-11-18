@@ -2,8 +2,9 @@
 # Sonhos
 
 Eles vão dormir após o evento estranho de Rufus convulsionando e desmaiando,
-tem mais sonhos estranhos já que a insanidade está crescendo e o poder da faminta se torna mais presenta na cidade, já que está perto do momento do sacrifício, as portas entre as dimensões vem se afinando
+tem mais sonhos estranhos já que a insanidade está crescendo e o poder da faminta se torna mais presente na cidade, já que está perto do momento do sacrifício, as portas entre as dimensões vem se afinando
 
+Eles podem sonhar com uma antiga menina desaparecida, [[Emily Carter]], fornecendo pistas sobre sua ligação com os eventos atuais.
 # Diário de Henry
 # Perseguição:
 Os personagens começam a seguir a trilha indicada por Rufus. A floresta silenciosa parece engolir os sons, aumentando a sensação de isolamento. O cultista está à frente, e o eco de seus passos apressados ressoa entre as árvores.

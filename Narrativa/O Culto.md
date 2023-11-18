@@ -14,7 +14,7 @@ Eventualmente, os cultistas perceberam que [[A Floresta Eterna]], com suas densa
 
 # Hierarquia
 
-## Lider
+## Líder
 O enigmático líder máximo da sociedade, [[Draculoros]], cuja palavra é inquestionável. Ele guia a sociedade em direção aos desígnios do Grande Antigo
 ## Conselho
 O conselho das sombras
@@ -25,7 +25,7 @@ Arquiteto das Sombras: Encarregado de rituais e encantamentos avançados, além 
 ### Emissário
 Emissário Sombrio: Responsável por contatos externos e alianças secretas.
 ### Mestre das chaves
-[[Samuel Callan]]. O padre, como Mestre das Chaves, desempenha um papel crucial ao influenciar esses crentes benevolentes e ao mesmo tempo mantendo a fachada de uma liderança religiosa respeitável na comunidade. Essa dinâmica sutil permite ao culto exercer maior controle sobre Vale da Serenidade, mantendo seus verdadeiros objetivos nas sombras.
+[[Samuel Callan]]. O padre, como Mestre das Chaves, desempenha um papel crucial ao influenciar crentes benevolentes e ao mesmo tempo mantendo a fachada de uma liderança religiosa respeitável na comunidade. Essa dinâmica sutil permite ao culto exercer maior controle sobre Vale da Serenidade, mantendo seus verdadeiros objetivos nas sombras.
 ## Guardiões dos portões
 [[Silvanus Thorne]]?
 ### Guardiões internos

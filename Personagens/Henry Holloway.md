@@ -46,6 +46,61 @@ Henry Holloway
 # Diário
 
 Henry deixou aos jogadores um diário com suas notas que vão gradativamente de uma desconfiança sempre presente à organização da cidade até a investigação da relação sombria de um [[O Culto]] com a cidade, ele anota tudo, mas sua letra não é muito legível e da metade para a frente o diário se torna simplesmente indecifrável, na medida que Henry começa a entender o funcionamento da organização, da história sombria da cidade e da verdade oculta sobre a entidade que permeia a floresta.
+## Início
+Data
+_Nestas noites escuras, onde a lua lança sombras distorcidas sobre as colinas que cercam Vale da Serenidade, sinto que algo se movimenta nas sombras. Uma inquietude indescritível, como se o próprio tecido da realidade estivesse desgastado._
+
+_A cidade, outrora tranquila e serena, agora parece envolta em um manto de silêncio. As ruas ecoam com suspiros sussurrantes, e olhares furtivos se encontram em becos estreitos. Os moradores, antes tão acolhedores, agora murmuram palavras desconexas em seus sonhos._
+
+_A biblioteca antiga, que deveria conter os sussurros sábios do passado, parece esconder segredos mais obscuros. As páginas dos livros parecem conter conhecimentos além da compreensão humana, e a poeira que paira no ar carrega o peso de séculos de mistérios insondáveis._
+
+_A igreja de São Sereno, com suas sombras dançantes, abriga segredos entre as orações murmuradas. Cada vela acesa parece lançar sombras que dançam em rituais arcanos, e o órgão ressoa com notas que reverberam em dimensões além da nossa compreensão._
+
+_Há algo no chá especial produzido nesta cidade isolada. As xícaras se entreolham como testemunhas silenciosas de uma conspiração ancestral. O calor do chá parece esconder algo mais, uma essência que se infiltra nos sonhos dos bebedores._
+
+_Não posso explicar completamente, mas sinto a presença de algo antigo, algo que se alimenta do medo e da ignorância. Vale da Serenidade está envolta em uma neblina de mistérios, e meu coração, mesmo enquanto escrevo estas palavras, pulsa com a ansiedade do desconhecido._
+
+_E assim, nesta noite escura e insondável, contemplo as páginas deste diário com uma inquietação que se torna cada vez mais insuportável. Cada palavra escrita é como um vislumbre além do véu, uma pequena luz tremeluzindo na vastidão desconhecida._
+
+_Os sons da cidade ecoam em meus ouvidos como um lamento coletivo, uma sinfonia dissonante de segredos guardados e verdades veladas. Como se o próprio tecido da realidade estivesse em frangalhos, prestes a revelar o abismo que se esconde sob a superfície serena._
+
+_Vale da Serenidade, és tu um portal para o inimaginável? Ou simplesmente uma peça em um jogo cósmico além da minha compreensão? Não sei, mas continuo a caminhar na escuridão, o desconforto cresce a cada sombra que se projeta nas paredes antigas desta cidade._._
+
+## Desconfiança
+
+_Seis meses de busca por respostas, seis meses de caminhar na corda bamba entre a lucidez e a loucura. As páginas deste diário, manchadas com tinta e suor, testemunham a jornada rumo ao desconhecido, onde confiança se desfaz em sombras e verdades se escondem nas entrelinhas._
+
+_A sombra cresce, tornando-se uma presença sufocante nos recantos mais sombrios de Vale da Serenidade. Os moradores, que uma vez conheci como amigos e vizinhos, agora se transformam em figuras enigmáticas, ocultando segredos em cada palavra sussurrada e em cada olhar evitado._
+
+_As colinas, que envolvem a cidade como sentinelas silenciosas, parecem esconder segredos mais profundos do que as raízes das árvores antigas que as adornam. Cada suspiro do vento ecoa como um lamento distante, enquanto a Floresta Eterna sussurra segredos insondáveis._
+
+_A casa de chás, com suas xícaras erguidas em brindes silenciosos, parece ser o epicentro de uma conspiração velada. Cada sorvo do chá especial é como um pacto selado em segredo, e os olhos dos moradores refletem uma cumplicidade obscura._
+
+_Minha desconfiança cresce como uma chama alimentada por uma brisa misteriosa. Onde antes via compaixão nos olhos da prefeita Josephine Carter, agora vejo um véu que esconde intenções obscuras. O xerife Daniel O'Connor, que deveria ser o guardião da lei, parece mergulhado em sombras que não se dissipam._
+
+_A cidade murmura em uma língua que não consigo compreender completamente. Cada pista que sigo parece conduzir a um abismo mais profundo, e os rostos dos moradores se tornam máscaras, escondendo a verdade que sussurra nas correntes de ar gélido._
+
+_Vale da Serenidade, uma cidade que uma vez considerei meu lar, agora se revela como um palco de enganos e traições. Confiança, essa moeda frágil, se desfaz como fumaça sob a influência do desconhecido._
+## Loucura
+
+
+_Data do Diário: [11 de setembro de 1935]_
+
+_..._
+
+_À beira do rio mais sombrio, sob as árvores sem folhas, sinto que estou me afogando. Este sonho está me matando, lentamente corroendo minha mente. A cada passo, a cada pista desvendada, a escuridão parece se intensificar._
+
+_No inverno mais gélido, entre as luzes que desaparecem, tenho a sensação de estar caindo em um céu congelado. A cidade que uma vez conheci parece distante, obscurecida por uma neblina de desconfiança. Os desaparecimentos de crianças ecoam como gritos perdidos no vento cortante._
+
+_Além do céu mais negro, acima das estrelas moribundas, observo a mim mesmo se despedaçando em um milhão de fragmentos. Cada revelação me leva mais fundo na escuridão, até mesmo as estrelas morrem diante da verdade oculta._
+
+_Mas através da hora mais difícil, sob o signo mais cruel, sei que estou despertando dessa mentira maldita. A verdade está à minha frente, mas é uma faca afiada, cortando através da minha sanidade. A sociedade secreta, A Faminta, adoradores do Grande Antigo, tece sua teia ao meu redor._
+
+_Acordo._
+
+_..._
+
+Espero que este trecho acrescente a intensidade e a deterioração gradual da sanidade de Henry à sua narrativa de RPG.
 
 # O ídolo
 Em suas investigações ele consegue se esgueirar entre os ritos da organização secreta e com muita sorte consegue tomar um dos ícones que são de extrema importância para a execução dos rituais sazonais de sacrifício, [[O Ídolo da Penúria]]. Isso acontece em um momento crítico onde ele é desmascarado pela organização e precisa então agir com muita avidez, ele toma o artefato e se esconde, momento que ele é tomado como desaparecido.
