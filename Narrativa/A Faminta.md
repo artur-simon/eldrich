@@ -14,6 +14,7 @@ A mera proximidade de "A Faminta" ou de seus portais pode corromper a realidade 
 
 
 # Folclore e lenda
+A lenda da Faminta é tida popularmente como uma ferramenta simbólica para ensinar valores morais.
 
 A história da Faminta foi transmitida ao longo de gerações por meio de histórias orais. Moradores mais antigos podem afirmar que a lenda era inicialmente uma ferramenta para manter as crianças em casa após o anoitecer.
 Certos rituais eram associados à lenda, como tocar sinos à meia-noite para afastar a Faminta. Os pais poderiam ter adotado esses rituais como uma forma de controle, mesmo que originalmente fossem apenas parte da narrativa folclórica.

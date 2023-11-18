@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Meta/A Faminta - Idéias.md",
+                        "file": "Narrativa/A Faminta.md",
                         "mode": "source",
                         "source": false
                       }
@@ -42,7 +42,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Meta/A Faminta - Idéias.md",
+                        "file": "Meta/TODO.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -114,14 +114,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Personagens/Samuel Callan.md",
+                    "file": "Meta/Transformação.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "93a81989bff72b45",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Meta/TODO.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/A Faminta - Idéias.md",
+                "file": "Meta/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/A Faminta - Idéias.md",
+                "file": "Meta/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/A Faminta - Idéias.md"
+                "file": "Meta/TODO.md"
               }
             }
           },
@@ -243,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -260,24 +272,25 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3626bb70d14bd7f0",
+  "active": "93a81989bff72b45",
   "lastOpenFiles": [
+    "Meta/Transformação.md",
+    "Meta/TODO.md",
+    "Narrativa/O Culto.md",
     "Personagens/Samuel Callan.md",
+    "Narrativa/A Faminta.md",
+    "Meta/Prompt.md",
     "Meta/A Faminta - Idéias.md",
     "Meta/Desafios/Desafios Adicionais.md",
     "Meta/Desafios/A desconfiança na cidade.md",
-    "Meta/Transformação.md",
     "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
     "Meta/Relatório de Sessões.md",
-    "Meta/Prompt.md",
     "Meta/Meta.md",
     "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
     "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
-    "Personagens/A Faminta.md",
     "Narrativa/Enterro de Henry Holloway.md",
     "Narrativa/Carta para os jogadores - Benjamin.md",
     "Narrativa/Narrativa.md",
-    "Narrativa/O Culto.md",
     "Narrativa/O Evento do Sequestro.md",
     "Narrativa/Pesadelo de Helmut.md",
     "Narrativa/Pesadelo de Joseph.md",
@@ -287,7 +300,6 @@
     "Personagens/São Sereno.md",
     "Home.md",
     "Cidade/Vale da Serenidade.md",
-    "Meta/Ideias para sessão 3.md",
     "Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
