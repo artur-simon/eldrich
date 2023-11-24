@@ -10,4 +10,4 @@
 
 **7. "Lago Negro: O Espelho da Alma"** _Um olhar mais profundo sobre o enigmático Lago Negro na Floresta Eterna. Muitos acreditam que ele reflete visões perturbadoras e que aqueles que o encaram podem ver segredos sombrios._
 
-**8. "Mistério Solucionado: Luzes Noturnas Ervas Causadas por Vagalumes Mágicos"** _Uma revelação surpreendente sobre o Claro das Fadas: as luzes misteriosas à noite são, na verdade, provocadas por vagalumes, e não por criaturas míticas._
+**8. "Mistério Solucionado: Luzes Noturnas Eram Causadas por Vagalumes Mágicos"** _Uma revelação surpreendente sobre o Claro das Fadas: as luzes misteriosas à noite são, na verdade, provocadas por vagalumes, e não por criaturas míticas._ 

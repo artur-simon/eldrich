@@ -5,7 +5,7 @@ O verdadeiro nome de "A Faminta" é um segredo profundo e antigo, conhecido apen
 "A Faminta" é uma entidade cósmica de origem desconhecida. Ela não se encaixa nas categorias tradicionais de deuses ou demônios, mas é uma força cósmica além da compreensão humana. Sua natureza é caótica e faminta, ansiosa para consumir tudo o que encontra em seu caminho.
 
 Seu principal desejo é alimentar-se de almas humanas. Ela atrai cultistas que oferecem almas em troca de poder e conhecimento. Quando as almas são consumidas, seus conhecimentos e memórias são absorvidos pela entidade, aumentando ainda mais seu poder.
-## **Através dos Portais:** 
+## Através dos Portais
 "A Faminta" é capaz de abrir portais entre dimensões, permitindo que ela se manifeste em diferentes lugares e épocas. A Floresta Eterna de Vale da Serenidade é um dos locais onde esses portais são mais frágeis, tornando-se uma área propícia para sua influência.
 ## **[[O Culto|Cultistas]]:** 
 A Faminta age principalmente por meio de cultistas devotos que a adoram como uma divindade. Esses cultistas, como [[Silvanus Thorne]], realizam rituais para abrir os portais e fornecer almas como tributo. Em troca, eles podem receber dons sobrenaturais, mas frequentemente pagam um preço terrível em termos de sanidade.
@@ -22,7 +22,7 @@ Certos rituais eram associados à lenda, como tocar sinos à meia-noite para afa
 Alguns moradores podem sugerir que desaparecimentos passados foram erroneamente atribuídos à Faminta quando, na verdade, eram travessuras ou fugas de crianças. Essa explicação pode ser usada para desacreditar as alegações sobrenaturais.
 
 Na cidade os sinos bradam à meia noite, formalmente esta é uma tradição da Evocação de [[São Sereno]]. O padre [[Samuel Callan]] pode contar aos jogadores que o toque dos sinos à meia-noite é uma homenagem a São Sereno, o padroeiro da cidade. Que a igreja acredita que esse ato reforça a conexão com o santo, buscando sua proteção e bênçãos para a comunidade.
-## A lenda
+## Pai conta uma lenda a seu filho
 	Numa noite silenciosa, meu filho, quando as estrelas cintilam acima de nós e a lua joga sua luz pálida sobre as colinas de Vale da Serenidade, é hora de contar uma história que os mais velhos passaram para os mais jovens, como uma tradição que se enrola nos fios do tempo.
 	
 	Senta aqui, perto do calor desta lareira, e escuta com atenção. Nossos ancestrais, há muito tempo, teceram uma narrativa sombria chamada Faminta. Uma história que não é apenas contada, mas carregada no sussurro do vento que dança entre as árvores antigas.

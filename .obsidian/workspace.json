@@ -15,7 +15,7 @@
               {
                 "id": "645b840e1d38bd26",
                 "type": "tabs",
-                "dimension": 68.17307692307692,
+                "dimension": 64.07407407407408,
                 "children": [
                   {
                     "id": "3626bb70d14bd7f0",
@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Personagens/Henry Holloway.md",
+                        "file": "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
                         "mode": "source",
                         "source": false
                       }
@@ -34,7 +34,7 @@
               {
                 "id": "be71c752b41345c6",
                 "type": "tabs",
-                "dimension": 31.826923076923073,
+                "dimension": 35.92592592592593,
                 "children": [
                   {
                     "id": "f4100da6bed96632",
@@ -42,9 +42,9 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Personagens/Emily Carter.md",
+                        "file": "Narrativa/Enterro de Henry Holloway.md",
                         "options": {
-                          "collapse-filter": false,
+                          "collapse-filter": true,
                           "search": "",
                           "localJumps": 1,
                           "localBacklinks": true,
@@ -53,20 +53,34 @@
                           "showTags": false,
                           "showAttachments": true,
                           "hideUnresolved": false,
-                          "collapse-color-groups": false,
+                          "collapse-color-groups": true,
                           "colorGroups": [
                             {
-                              "query": "path:Personagens  ",
+                              "query": "path:Personagens/  ",
                               "color": {
                                 "a": 1,
                                 "rgb": 14701138
                               }
                             },
                             {
-                              "query": "",
+                              "query": "path:Narrativa/",
                               "color": {
                                 "a": 1,
                                 "rgb": 14725458
+                              }
+                            },
+                            {
+                              "query": "path:Meta/ ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 11657298
+                              }
+                            },
+                            {
+                              "query": "path:Cidade/ ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 5431473
                               }
                             }
                           ],
@@ -80,7 +94,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.508761885579264,
+                          "scale": 0.5359795996225937,
                           "close": true
                         }
                       }
@@ -97,24 +111,20 @@
             "dimension": 60.501193317422434,
             "children": [
               {
-                "id": "177971fc6da80f99",
+                "id": "df535251bc7a0efb",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Meta/Ideias para sessão 3.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               },
               {
-                "id": "f9d55c9f0b89278b",
+                "id": "e86edb02e4bde62b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Personagens/Emily Carter.md",
+                    "file": "Narrativa/Enterro de Henry Holloway.md",
                     "mode": "source",
                     "source": false
                   }
@@ -153,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yog",
+                "query": "emi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Emily Carter.md",
+                "file": "Narrativa/Enterro de Henry Holloway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Emily Carter.md",
+                "file": "Narrativa/Enterro de Henry Holloway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Emily Carter.md"
+                "file": "Narrativa/Enterro de Henry Holloway.md"
               }
             }
           },
@@ -243,11 +253,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,35 +270,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f9d55c9f0b89278b",
+  "active": "e86edb02e4bde62b",
   "lastOpenFiles": [
-    "Narrativa/A Faminta.md",
-    "Home.md",
-    "Personagens/São Sereno.md",
-    "Cidade/Igreja de São Sereno.md",
-    "Personagens/Samuel Callan.md",
-    "Narrativa/O Culto.md",
-    "Meta/Ideias para a Sessão 4.md",
-    "Personagens/Emily Carter.md",
-    "Meta/Relatório de Sessões.md",
-    "Personagens/Henry Holloway.md",
-    "Meta/Ideias para sessão 3.md",
+    "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
+    "Cidade/Mídia/Vale da Serenidade - O Encanto da Floresta Eterna.md",
     "Cidade/Vale da Serenidade.md",
-    "Personagens/Personagens.md",
-    "Meta/Transformação.md",
-    "Meta/TODO.md",
-    "Meta/Prompt.md",
-    "Meta/A Faminta - Idéias.md",
-    "Meta/Desafios/Desafios Adicionais.md",
-    "Meta/Desafios/A desconfiança na cidade.md",
-    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
-    "Meta/Meta.md",
-    "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
-    "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Narrativa/Carta para os jogadores - Benjamin.md",
-    "Narrativa/Narrativa.md",
+    "Cidade/Refúgio das Ervas.md",
+    "Cidade/Creche Arco-Íris Encantado.md",
+    "Cidade/A Floresta Eterna.md",
+    "Cidade/Biblioteca Municipal.md",
+    "Home.md",
     "Canvas.canvas",
+    "a.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Evelyn Whitman.md",
+    "Personagens/Emily Carter.md",
+    "Personagens/Elias Hawthorn.md",
+    "Personagens/Personagens.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Narrativa/Introdução.md",
+    "Narrativa/Narrativa.md",
+    "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
+    "Narrativa/A Faminta.md",
+    "Narrativa/O Culto.md",
+    "Narrativa/O Evento do Sequestro.md",
+    "Narrativa/O Ídolo da Penúria.md",
+    "Narrativa/Pesadelo de Helmut.md",
+    "Narrativa/Pesadelo de Joseph.md",
+    "Narrativa/Testamento.md",
+    "Personagens/Joseph Johnston.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Recording 20231107002617.webm",

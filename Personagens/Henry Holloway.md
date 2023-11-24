@@ -5,6 +5,9 @@ O primo Henry desapareceu abruptamente em Vale da Serenidade, enquanto investiga
 
 Os personagens receberam uma convocação misteriosa para o enterro de Henry em Vale da Serenidade. Para prestar suas homenagens e talvez descobrir o que aconteceu com o primo. A sombra do desaparecimento de Henry paira sobre eles, e eles sentem que o mistério de Vale da Serenidade pode finalmente fornecer respostas há muito procuradas.
 
+# [[Enterro de Henry Holloway]]
+## Símbolo na lápide
+Henry pode ter usado magia ou artefatos especiais para ocultar a verdadeira natureza do símbolo para apresentá-lo apenas ao jogadores. Talvez ele tenha empregado um encantamento que só revela seu significado quando ativado por certas condições ou quando visto por alguém com conhecimento específico.
 # Falecimento
 
 O corpo de Henry Holloway foi encontrado sob circunstâncias misteriosas e perturbadoras, que aumentam o enigma em torno de sua morte. Aqui está uma descrição de como o corpo foi encontrado:
@@ -47,10 +50,10 @@ Henry Holloway
 
 Henry deixou aos jogadores um diário com suas notas que vão gradativamente de uma desconfiança sempre presente à organização da cidade até a investigação da relação sombria de um [[O Culto]] com a cidade, ele anota tudo, mas sua letra não é muito legível e da metade para a frente o diário se torna simplesmente indecifrável, na medida que Henry começa a entender o funcionamento da organização, da história sombria da cidade e da verdade oculta sobre a entidade que permeia a floresta.
 ## Início
-Data
+05/01/35
 _Nestas noites escuras, onde a lua lança sombras distorcidas sobre as colinas que cercam Vale da Serenidade, sinto que algo se movimenta nas sombras. Uma inquietude indescritível, como se o próprio tecido da realidade estivesse desgastado._
 
-_A cidade, outrora tranquila e serena, agora parece envolta em um manto de silêncio. As ruas ecoam com suspiros sussurrantes, e olhares furtivos se encontram em becos estreitos. Os moradores, antes tão acolhedores, agora murmuram palavras desconexas em seus sonhos._
+_A cidade, outrora tranquila e serena para mim, agora parece envolta em um manto de silêncio. As ruas ecoam com suspiros sussurrantes, e olhares furtivos se encontram em becos estreitos. Os moradores, antes tão acolhedores, agora murmuram palavras desconexas em seus sonhos._
 
 _A biblioteca antiga, que deveria conter os sussurros sábios do passado, parece esconder segredos mais obscuros. As páginas dos livros parecem conter conhecimentos além da compreensão humana, e a poeira que paira no ar carrega o peso de séculos de mistérios insondáveis._
 
@@ -90,17 +93,30 @@ _..._
 
 _À beira do rio mais sombrio, sob as árvores sem folhas, sinto que estou me afogando. Este sonho está me matando, lentamente corroendo minha mente. A cada passo, a cada pista desvendada, a escuridão parece se intensificar._
 
-_No inverno mais gélido, entre as luzes que desaparecem, tenho a sensação de estar caindo em um céu congelado. A cidade que uma vez conheci parece distante, obscurecida por uma neblina de desconfiança. Os desaparecimentos de crianças ecoam como gritos perdidos no vento cortante._
+_No inverno mais gélido, entre as luzes que desaparecem, tenho a sensação de estar caindo em um céu congelado. A cidade que uma vez conheci parece distante, obscurecida por uma neblina de desconfiança. Os pedidos de ajuda das crianças ecoam eternamente como gritos perdidos no vento cortante._
 
-_Além do céu mais negro, acima das estrelas moribundas, observo a mim mesmo se despedaçando em um milhão de fragmentos. Cada revelação me leva mais fundo na escuridão, até mesmo as estrelas morrem diante da verdade oculta._
+_Então além do céu mais negro, acima das estrelas moribundas, observo a mim mesmo se despedaçando em um milhão de fragmentos. Cada revelação me leva mais fundo na escuridão, até mesmo as estrelas morrem diante da verdade oculta._
 
 _Mas através da hora mais difícil, sob o signo mais cruel, sei que estou despertando dessa mentira maldita. A verdade está à minha frente, mas é uma faca afiada, cortando através da minha sanidade. A sociedade secreta, A Faminta, adoradores do Grande Antigo, tece sua teia ao meu redor._
 
-_Acordo._
+_Acorde._
 
 _..._
 
-Espero que este trecho acrescente a intensidade e a deterioração gradual da sanidade de Henry à sua narrativa de RPG.
 
 # O ídolo
 Em suas investigações ele consegue se esgueirar entre os ritos da organização secreta e com muita sorte consegue tomar um dos ícones que são de extrema importância para a execução dos rituais sazonais de sacrifício, [[O Ídolo da Penúria]]. Isso acontece em um momento crítico onde ele é desmascarado pela organização e precisa então agir com muita avidez, ele toma o artefato e se esconde, momento que ele é tomado como desaparecido.
+
+- Henry Holloway, após roubar o Ídolo da Penúria, sucumbiu gradualmente à influência maligna do artefato.
+- Sua mente foi invadida por visões sinistras, pesadelos perturbadores e manifestações sobrenaturais, corroendo sua sanidade.
+- A desconfiança e paranoia cresceram, levando Henry a acreditar que membros da sociedade secreta o observavam constantemente.
+- À beira da loucura total, Henry teve um lampejo final de sanidade e percebeu os efeitos devastadores do Ídolo em sua mente.
+- Movido pelo desejo de proteger os outros, ele decide se sacrificar e impedir que a sociedade secreta recupere o ídolo.
+- Henry, na luta contra a influência do Ídolo da Penúria, buscou refúgio no Claro das Fadas, um local onde a magia é particularmente forte e os seres sobrenaturais são conhecidos por sua presença.
+- Lá, ele realizou um ritual complexo para esconder o Ídolo, aproveitando a energia do Claro das Fadas para ocultar o artefato de forma mágica e temporária.
+- No entanto, os efeitos colaterais do ritual e a intensa batalha mental levaram Henry a um estado físico debilitado.
+- Desnorteado e frágil após o ritual, Henry deambulou em direção ao rio, talvez buscando água ou simplesmente perdido em sua confusão mental.
+- Às margens do rio, Henry finalmente colapsou e sucumbiu à exaustão, tornando-se vítima das correntezas, que o arrastaram para longe do Claro das Fadas.
+- Seu corpo foi descoberto na beira do rio por Elias Hawthorn, gerando então uma desconexão entre o local onde ele morreu e onde escondeu o Ídolo da Penúria.
+- Ele é encontrado de bruços às margens do rio, suas últimas palavras sussurrando uma mensagem enigmática sobre continuar o que ele começou.
+- A morte de Henry é uma mistura de alívio e tragédia, pois ele se liberta da influência do Ídolo, mas sua mente está irremediavelmente perdida.
