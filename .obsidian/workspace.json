@@ -18,7 +18,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Cidade/A Floresta Eterna.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -87,11 +86,10 @@
                 "id": "df535251bc7a0efb",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "diff-view",
                   "state": {
-                    "file": "Cidade/A Floresta Eterna.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Meta/Relatório de Sessões.md",
+                    "staged": false
                   }
                 }
               }
@@ -164,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cidade/A Floresta Eterna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cidade/A Floresta Eterna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cidade/A Floresta Eterna.md"
-              }
+              "state": {}
             }
           },
           {
@@ -236,18 +230,25 @@
   },
   "active": "df535251bc7a0efb",
   "lastOpenFiles": [
-    "Assets/carta para albert.png",
+    "Meta/Relatório de Sessões.md",
     "Meta/Ideias para a Sessão 4.md",
     "Meta/Ideias para sessão 2.md",
-    "Narrativa/Testamento.md",
+    "Meta/Ideias para sessão 3.md",
     "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
+    "Meta/Meta.md",
+    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
+    "Meta/Transformação.md",
+    "Meta/TODO.md",
+    "Meta/Prompt.md",
+    "Cidade/A Floresta Eterna.md",
+    "Assets/carta para albert.png",
+    "Narrativa/Testamento.md",
     "Narrativa/Enterro de Henry Holloway.md",
     "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
     "Cidade/Mídia/Vale da Serenidade - O Encanto da Floresta Eterna.md",
     "Cidade/Vale da Serenidade.md",
     "Cidade/Refúgio das Ervas.md",
     "Cidade/Creche Arco-Íris Encantado.md",
-    "Cidade/A Floresta Eterna.md",
     "Cidade/Biblioteca Municipal.md",
     "Home.md",
     "Canvas.canvas",
@@ -257,12 +258,6 @@
     "Personagens/Emily Carter.md",
     "Personagens/Elias Hawthorn.md",
     "Personagens/Personagens.md",
-    "Narrativa/Introdução.md",
-    "Narrativa/Narrativa.md",
-    "Narrativa/A Faminta.md",
-    "Narrativa/O Culto.md",
-    "Narrativa/O Evento do Sequestro.md",
-    "Narrativa/O Ídolo da Penúria.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Recording 20231107002617.webm",
