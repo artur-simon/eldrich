@@ -8,74 +8,100 @@
         "type": "split",
         "children": [
           {
-            "id": "be71c752b41345c6",
-            "type": "tabs",
+            "id": "c6762bbdad75d087",
+            "type": "split",
             "dimension": 39.498806682577566,
             "children": [
               {
-                "id": "f4100da6bed96632",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": true,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [
-                        {
-                          "query": "path:Personagens/  ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14701138
-                          }
-                        },
-                        {
-                          "query": "path:Narrativa/",
-                          "color": {
-                            "a": 1,
-                            "rgb": 14725458
-                          }
-                        },
-                        {
-                          "query": "path:Meta/ ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 11657298
-                          }
-                        },
-                        {
-                          "query": "path:Cidade/ ",
-                          "color": {
-                            "a": 1,
-                            "rgb": 5431473
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -1.5,
-                      "nodeSizeMultiplier": 1.80989583333333,
-                      "lineSizeMultiplier": 1.784375,
-                      "collapse-forces": true,
-                      "centerStrength": 1,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.5359795996225937,
-                      "close": true
+                "id": "130dfb410a3076e4",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a09837c42b67f2a9",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Cidade/Biblioteca Municipal.md",
+                        "mode": "source",
+                        "source": false
+                      }
                     }
                   }
-                }
+                ]
+              },
+              {
+                "id": "be71c752b41345c6",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f4100da6bed96632",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Cidade/Biblioteca Municipal.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": false,
+                          "showAttachments": true,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [
+                            {
+                              "query": "path:Personagens/  ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14701138
+                              }
+                            },
+                            {
+                              "query": "path:Narrativa/",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14725458
+                              }
+                            },
+                            {
+                              "query": "path:Meta/ ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 11657298
+                              }
+                            },
+                            {
+                              "query": "path:Cidade/ ",
+                              "color": {
+                                "a": 1,
+                                "rgb": 5431473
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": true,
+                          "textFadeMultiplier": -1.5,
+                          "nodeSizeMultiplier": 1.80989583333333,
+                          "lineSizeMultiplier": 1.784375,
+                          "collapse-forces": true,
+                          "centerStrength": 1,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.5359795996225937,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           },
           {
             "id": "dc0266e3248dffc2",
@@ -86,10 +112,11 @@
                 "id": "df535251bc7a0efb",
                 "type": "leaf",
                 "state": {
-                  "type": "diff-view",
+                  "type": "markdown",
                   "state": {
-                    "file": "Meta/Relatório de Sessões.md",
-                    "staged": false
+                    "file": "Cidade/Biblioteca Municipal.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -162,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cidade/Biblioteca Municipal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cidade/Biblioteca Municipal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +228,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cidade/Biblioteca Municipal.md"
+              }
             }
           },
           {
@@ -228,8 +259,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "df535251bc7a0efb",
+  "active": "a09837c42b67f2a9",
   "lastOpenFiles": [
+    "Cidade/Biblioteca Municipal.md",
     "Meta/Relatório de Sessões.md",
     "Meta/Ideias para a Sessão 4.md",
     "Meta/Ideias para sessão 2.md",
@@ -249,7 +281,6 @@
     "Cidade/Vale da Serenidade.md",
     "Cidade/Refúgio das Ervas.md",
     "Cidade/Creche Arco-Íris Encantado.md",
-    "Cidade/Biblioteca Municipal.md",
     "Home.md",
     "Canvas.canvas",
     "a.md",
