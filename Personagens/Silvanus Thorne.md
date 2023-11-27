@@ -1,4 +1,5 @@
-# História:
+Um comerciante que lida com objetos e artefatos incomuns. Ele pode ter um interesse oculto nos desaparecimentos e pode oferecer itens ou informações valiosas em troca de ajuda.
+# História
 
 Silvanus Thorne é um comerciante de antiguidades que se estabeleceu em Vale da Serenidade há alguns anos. Ele é conhecido na cidade por sua loja sombria e empoeirada, que abriga artefatos e objetos misteriosos de todas as partes do mundo. Embora ele pareça um comerciante comum à primeira vista, Silvanus Thorne é, na verdade, um cultista dedicado a servir a entidade cósmica conhecida como "A Faminta".
 
