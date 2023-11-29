@@ -55,7 +55,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Cidade/A Floresta Eterna.md",
+                        "file": "Personagens/Henry Holloway.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -129,7 +129,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Meta/Ideias para Sessão 4.md",
+                    "file": "Personagens/Henry Holloway.md",
                     "mode": "source",
                     "source": false
                   }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cidade/A Floresta Eterna.md",
+                "file": "Personagens/Henry Holloway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cidade/A Floresta Eterna.md",
+                "file": "Personagens/Henry Holloway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cidade/A Floresta Eterna.md"
+                "file": "Personagens/Henry Holloway.md"
               }
             }
           },
@@ -274,35 +274,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "34f3933f774ce669",
+  "active": "df535251bc7a0efb",
   "lastOpenFiles": [
-    "Personagens/Personagens.md",
-    "Meta/Ideias para Sessão 4.md",
+    "Narrativa/O Ídolo da Penúria.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Benjamin Thornton.md",
+    "Cidade/Refúgio das Ervas.md",
+    "Cidade/Vale da Serenidade.md",
+    "Cidade/Igreja de São Sereno.md",
+    "Narrativa/Carta para os jogadores - Benjamin.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Narrativa/A Faminta.md",
+    "Cidade/Mídia/Vale da Serenidade - O Encanto da Floresta Eterna.md",
+    "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
     "Cidade/A Floresta Eterna.md",
-    "Meta/Prompt.md",
-    "Meta/Ideias para sessão 2.md",
-    "Meta/Ideias para sessão 3.md",
-    "Personagens/Cornelius Blackwood.md",
-    "Personagens/Silvanus Thorne.md",
-    "Personagens/Elias Hawthorn.md",
-    "Personagens/Emily Winchester.md",
-    "Meta/Relatório de Sessões.md",
-    "Narrativa/Introdução.md",
-    "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
-    "Personagens/Isabella Reynolds.md",
     "Cidade/Biblioteca Municipal.md",
     "Cidade/Creche Arco-Íris Encantado.md",
-    "Cidade/Refúgio das Ervas.md",
-    "Meta/Meta.md",
-    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
-    "Meta/Transformação.md",
-    "Meta/TODO.md",
-    "Assets/carta para albert.png",
+    "Personagens/Evelyn Whitman.md",
+    "Personagens/Elias Hawthorn.md",
+    "Personagens/Emily Winchester.md",
+    "Personagens/Ezekiel Wallace.md",
+    "Narrativa/Introdução.md",
+    "Narrativa/Narrativa.md",
+    "Narrativa/O Culto.md",
+    "Narrativa/O Evento do Sequestro.md",
+    "Narrativa/Pesadelo de Joseph.md",
     "Narrativa/Testamento.md",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
-    "Cidade/Mídia/Vale da Serenidade - O Encanto da Floresta Eterna.md",
-    "Cidade/Vale da Serenidade.md",
+    "Narrativa/Pesadelo de Helmut.md",
+    "Personagens/Daniel O'Connor.md",
+    "Assets/carta para albert.png",
     "Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
