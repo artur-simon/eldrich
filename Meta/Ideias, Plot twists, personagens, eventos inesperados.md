@@ -16,10 +16,10 @@
 - **A Escolha Difícil**: No clímax da história, os investigadores podem ser confrontados com uma escolha difícil que envolve sacrificar algo pessoal para derrotar a ameaça sobrenatural.
 - **A Epidemia Silenciosa**: Além dos desaparecimentos, uma estranha doença começou a se espalhar pela localidade rural. Os sintomas são bizarros e parecem estar relacionados ao culto.
 - **A Jornada Subterrânea**: A investigação leva os jogadores a descobrir uma série de túneis subterrâneos sinistros que servem como a base do culto. Navegar por essas passagens escuras é uma tarefa assustadora.
-- **A Visão da Criança**: A criança sobrevivente pode ter visões perturbadoras que revelam detalhes sobre o culto e sua líder. No entanto, essas visões são traumáticas e podem ameaçar a sanidade da criança.
-- **O Pecado Original**: Descubra um segredo sombrio na história da localidade, algo que aconteceu no passado e que está relacionado aos desaparecimentos atuais. Talvez a cidade tenha feito um pacto maligno séculos atrás.
+- **A Visão da Criança**: Uma criança sobrevivente pode ter visões perturbadoras que revelam detalhes sobre o culto e sua líder. No entanto, essas visões são traumáticas e podem ameaçar a sanidade da criança.
+- [x] **O Pecado Original**: Descubra um segredo sombrio na história da localidade, algo que aconteceu no passado e que está relacionado aos desaparecimentos atuais. Talvez a cidade tenha feito um pacto maligno séculos atrás. 
 - **A Noite Eterna**: Um fenômeno sobrenatural causa a escuridão eterna na localidade, tornando a noite interminável. Isso torna a investigação ainda mais assustadora, já que os horrores podem espreitar a qualquer momento.
-- **Os Fantasmas do Passado**: Os fantasmas de vítimas passadas dos rituais do culto assombram a localidade, buscando vingança ou pedindo ajuda para encontrar a paz.
+-
 - **A Corrupção das Autoridades**: Descubra que algumas autoridades locais, como o prefeito ou o médico, estão cientes dos desaparecimentos e estão encobrindo o culto devido a seus próprios interesses escusos.
 - **A Estátua do Horror**: Uma estátua antiga que representa uma das entidades cósmicas é encontrada. Aqueles que a contemplam começam a ser atormentados por visões e pesadelos perturbadores.
 - **A Divisão do Grupo**: Introduza um elemento de paranoia, onde os investigadores começam a suspeitar uns dos outros à medida que o horror da situação se desenrola.
@@ -39,7 +39,9 @@
 À medida que os investigadores se aproximam da verdade, eles enfrentam obstáculos sobrenaturais criados pelas entidades cósmicas invocadas pelo culto, agora com poderes intensificados pelo ritual recente. Isso inclui aparições aterrorizantes e eventos paranormais que testam sua sanidade.
 
 ## **A Corrida contra o Tempo**
-Com a lua cheia se aproximando novamente, os investigadores percebem que o sequestrador pode estar planejando um segundo ritual, colocando mais crianças em risco. Eles enfrentam uma corrida contra o tempo para impedir que isso aconteça.
+- Com a lua cheia se aproximando novamente, os investigadores percebem que o sequestrador pode estar planejando um segundo ritual, colocando mais crianças em risco. Eles enfrentam uma corrida contra o tempo para impedir que isso aconteça.
+
+- Pensei depois que uma boa complicação que traga urgência seria [[Isabella Reynolds]] ainda estar viva, com os cultistas incapazes de completar o ritual por conta de [[Henry Holloway]] ter roubado o [[O Ídolo da Penúria]] antes do momento correto em tempo para eles realizarem um ritual de sacrifício em uma das "épocas de colheita". Os cultistas a sequestram e tentam correr contra o tempo para recuperar o artefato e completar o ritual.
 
 ## **O Fechamento para as Famílias**
 As famílias das crianças desaparecidas finalmente têm algum fechamento, mas a experiência deixou cicatrizes profundas. Os investigadores podem escolher revelar ou não a verdade sobre o culto e as entidades cósmicas aos moradores locais e ao mundo.

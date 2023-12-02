@@ -10,7 +10,7 @@
           {
             "id": "c6762bbdad75d087",
             "type": "split",
-            "dimension": 39.498806682577566,
+            "dimension": 43.911174785100286,
             "children": [
               {
                 "id": "130dfb410a3076e4",
@@ -21,28 +21,14 @@
                     "id": "a09837c42b67f2a9",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
+                      "type": "diff-view",
                       "state": {
-                        "file": "Personagens/Personagens.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "34f3933f774ce669",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Cidade/A Floresta Eterna.md",
-                        "mode": "source",
-                        "source": false
+                        "file": "Meta/Ideias para Sessão 4.md",
+                        "staged": false
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "be71c752b41345c6",
@@ -55,7 +41,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Personagens/Henry Holloway.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -107,7 +92,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.5359795996225937,
+                          "scale": 0.7514342322277584,
                           "close": true
                         }
                       }
@@ -121,7 +106,7 @@
           {
             "id": "dc0266e3248dffc2",
             "type": "tabs",
-            "dimension": 60.501193317422434,
+            "dimension": 56.08882521489972,
             "children": [
               {
                 "id": "df535251bc7a0efb",
@@ -129,13 +114,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Personagens/Henry Holloway.md",
+                    "file": "Meta/Ideias para Sessão 4.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9bfaab078cd95e27",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ideias para sessão 5.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -204,7 +202,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Henry Holloway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Henry Holloway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,9 +239,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personagens/Henry Holloway.md"
-              }
+              "state": {}
             }
           },
           {
@@ -274,34 +268,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "df535251bc7a0efb",
+  "active": "05f2b7c93cb278a6",
   "lastOpenFiles": [
-    "Narrativa/O Ídolo da Penúria.md",
+    "Personagens/Evelyn Whitman.md",
+    "Ideias para sessão 5.md",
+    "Narrativa/O Culto.md",
+    "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
+    "Meta/Ideias para Sessão 4.md",
+    "Personagens/Personagens.md",
+    "Personagens/Elias Hawthorn.md",
     "Personagens/Henry Holloway.md",
+    "Meta/Prompt.md",
+    "Meta/Ideias para sessão 2.md",
+    "Meta/Meta.md",
+    "Meta/TODO.md",
+    "Narrativa/A Faminta.md",
+    "Cidade/Biblioteca Municipal.md",
+    "Cidade/A Floresta Eterna.md",
+    "Cidade/Mídia/Vale da Serenidade - O Encanto da Floresta Eterna.md",
+    "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Narrativa/O Ídolo da Penúria.md",
     "Personagens/Benjamin Thornton.md",
     "Cidade/Refúgio das Ervas.md",
     "Cidade/Vale da Serenidade.md",
     "Cidade/Igreja de São Sereno.md",
     "Narrativa/Carta para os jogadores - Benjamin.md",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Narrativa/A Faminta.md",
-    "Cidade/Mídia/Vale da Serenidade - O Encanto da Floresta Eterna.md",
-    "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
-    "Cidade/A Floresta Eterna.md",
-    "Cidade/Biblioteca Municipal.md",
     "Cidade/Creche Arco-Íris Encantado.md",
-    "Personagens/Evelyn Whitman.md",
-    "Personagens/Elias Hawthorn.md",
     "Personagens/Emily Winchester.md",
-    "Personagens/Ezekiel Wallace.md",
-    "Narrativa/Introdução.md",
-    "Narrativa/Narrativa.md",
-    "Narrativa/O Culto.md",
-    "Narrativa/O Evento do Sequestro.md",
-    "Narrativa/Pesadelo de Joseph.md",
-    "Narrativa/Testamento.md",
-    "Narrativa/Pesadelo de Helmut.md",
-    "Personagens/Daniel O'Connor.md",
     "Assets/carta para albert.png",
     "Canvas.canvas",
     "Untitled 1.canvas",
