@@ -6,4 +6,4 @@ tem mais sonhos estranhos já que a insanidade está crescendo e o poder da fami
 
 Eles podem sonhar com uma antiga menina desaparecida, [[Emily Winchester]], fornecendo pistas sobre sua ligação com os eventos atuais.
 
-(Demais conteúdo migrado para Sessão seguinte)
+Eles ficam sabendo que [[Isabella Reynolds]] ainda está viva, capturada pelos membros d[[O Culto]]

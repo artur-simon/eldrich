@@ -21,10 +21,23 @@
                     "id": "a09837c42b67f2a9",
                     "type": "leaf",
                     "state": {
-                      "type": "diff-view",
+                      "type": "markdown",
                       "state": {
-                        "file": "Meta/Ideias para Sessão 4.md",
-                        "staged": false
+                        "file": "Meta/Ideias para sessão 5.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "3ce48c442aa1ce79",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Meta/Ideias para Sessão 6.md",
+                        "mode": "source",
+                        "source": false
                       }
                     }
                   }
@@ -41,6 +54,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Meta/Ideias para sessão 5.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -114,7 +128,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Meta/Ideias para Sessão 4.md",
+                    "file": "Meta/Ideias para Sessão 6.md",
                     "mode": "source",
                     "source": false
                   }
@@ -126,7 +140,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ideias para sessão 5.md",
+                    "file": "Meta/Ideias para Sessão 6.md",
                     "mode": "source",
                     "source": false
                   }
@@ -202,6 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meta/Ideias para sessão 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,6 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meta/Ideias para sessão 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +255,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Meta/Ideias para sessão 5.md"
+              }
             }
           },
           {
@@ -251,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -268,18 +286,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "05f2b7c93cb278a6",
+  "active": "a09837c42b67f2a9",
   "lastOpenFiles": [
+    "Meta/Ideias para Sessão 6.md",
+    "Meta/Ideias para sessão 2.md",
+    "Meta/Ideias para sessão 3.md",
+    "Meta/Ideias para Sessão 4.md",
+    "Meta/Ideias para sessão 5.md",
     "Personagens/Evelyn Whitman.md",
-    "Ideias para sessão 5.md",
     "Narrativa/O Culto.md",
     "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
-    "Meta/Ideias para Sessão 4.md",
     "Personagens/Personagens.md",
     "Personagens/Elias Hawthorn.md",
     "Personagens/Henry Holloway.md",
     "Meta/Prompt.md",
-    "Meta/Ideias para sessão 2.md",
     "Meta/Meta.md",
     "Meta/TODO.md",
     "Narrativa/A Faminta.md",
@@ -294,8 +314,6 @@
     "Cidade/Vale da Serenidade.md",
     "Cidade/Igreja de São Sereno.md",
     "Narrativa/Carta para os jogadores - Benjamin.md",
-    "Cidade/Creche Arco-Íris Encantado.md",
-    "Personagens/Emily Winchester.md",
     "Assets/carta para albert.png",
     "Canvas.canvas",
     "Untitled 1.canvas",
