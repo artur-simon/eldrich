@@ -1,4 +1,16 @@
-# **Experiência na Guerra** 
+Xerife
+
+# Descrição física
+O xerife Daniel O'Connor é uma figura imponente e robusta, com sua estatura alta e postura firme. Sua presença, embora tranquila, irradia uma mistura de autoridade e, talvez, uma sombra de melancolia. A guerra deixou marcas profundas em seu rosto, marcando-o com cicatrizes que contam histórias silenciosas de batalhas sangrentas e inimagináveis.
+
+Seu cabelo antes castanho escuro agora exibe fios de prata, uma consequência do peso dos anos e das experiências que moldaram sua vida. Os olhos de Daniel, antes cheios de juventude, são agora janelas para a alma de alguém que viu o pior da humanidade e além. Profundos e intensos, esses olhos, de um azul intenso, guardam uma mistura complexa de determinação e pesar.
+
+O rosto do xerife é esculpido pela idade e pelo sofrimento, mas uma mandíbula quadrada e forte sustenta uma expressão que não revela fraqueza. A pele, marcada por rugas que contam a história de anos vividos, mostra que cada linha foi conquistada em um campo de batalha, seja nas trincheiras da guerra ou nas sombras da cidade que agora jurou proteger.
+
+Daniel O'Connor veste o uniforme de xerife com orgulho, mas as insígnias e medalhas que adornam sua farda contam uma história que vai além do dever local. Uma fita de bravura se destaca, indicando um ato heróico em meio ao caos da guerra. Essa fita, desgastada pelo tempo, é uma lembrança constante de sua coragem, mas também de um passado que ele carrega como um fardo.
+
+Ao observar o xerife Daniel O'Connor, os jogadores podem sentir a tensão entre a força que ele exala e a vulnerabilidade que espreita por trás de seus olhos. Este é um homem que enfrentou pesadelos cósmicos e agora enfrenta os mistérios que assombram Vale da Serenidade, buscando redenção em um lugar onde a escuridão parece persistir.
+# Experiência na Guerra 
 
 Além de ter visto amigos morrerem na guerra, o xerife também serviu com distinção e foi condecorado por bravura.
 
@@ -8,10 +20,10 @@ Durante os combates, Daniel teve um encontro aterrorizante com algo que não pod
 
 Sobreviver àquela experiência era algo que Daniel não podia compreender. No entanto, essa provação o marcou de maneira indelével, deixando-o com cicatrizes tanto físicas quanto mentais. Ele havia enfrentado os horrores da guerra, mas aqueles horrores eram apenas uma sombra do que o aguardava em Vale da Serenidade, uma cidade envolta em segredos e cultos profanos que veneravam algo além da compreensão humana.
 
-# **A Pista do Último Paradeiro**
+# A Pista do Último Paradeiro
 Sabe o último local em que uma das crianças foi vista antes do desaparecimento e faz uma reconstituição detalhada dos eventos daquele dia.
 
-# **Seu passado traumático**
+# Seu passado traumático
 
 1. **[[A desconfiança na cidade|Desconfiança]] e Paranoia**: O xerife, devido às suas experiências de guerra, desenvolveu uma desconfiança natural em relação ao desconhecido. Ele pode ser cauteloso e até mesmo paranoico em relação aos estrangeiros e a qualquer evento que pareça misterioso. Isso pode fazer com que ele seja relutante em compartilhar informações delicadas com os jogadores, a menos que confie plenamente neles.
     
@@ -23,7 +35,7 @@ Sabe o último local em que uma das crianças foi vista antes do desaparecimento
     
 5. **Respeito pela Coragem**: O xerife pode desenvolver um respeito especial pelos jogadores se eles demonstrarem coragem e determinação semelhantes às que ele viu em seus companheiros de guerra. Isso poderia ser uma maneira de ganhar sua confiança e obter informações cruciais.
 
-## **Registro de Alistamento de Daniel O'Connor**
+## Registro de Alistamento de Daniel O'Connor
 
 Este é um documento oficial que descreve o alistamento de Daniel O'Connor nas forças armadas durante a Grande Guerra. Ele detalha sua idade na época, local de nascimento, unidade militar à qual estava associado e suas datas de serviço. Os jogadores podem descobrir que ele se alistou jovem, demonstrando sua coragem e compromisso com seu país.
 

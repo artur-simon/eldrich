@@ -10,7 +10,7 @@
           {
             "id": "c6762bbdad75d087",
             "type": "split",
-            "dimension": 43.911174785100286,
+            "dimension": 43.91117478510028,
             "children": [
               {
                 "id": "130dfb410a3076e4",
@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Meta/Ideias para sessão 5.md",
+                        "file": "Personagens/Daniel O'Connor.md",
                         "mode": "source",
                         "source": false
                       }
@@ -54,7 +54,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Meta/Ideias para sessão 5.md",
+                        "file": "Personagens/Daniel O'Connor.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -120,7 +120,7 @@
           {
             "id": "dc0266e3248dffc2",
             "type": "tabs",
-            "dimension": 56.08882521489972,
+            "dimension": 56.088825214899714,
             "children": [
               {
                 "id": "df535251bc7a0efb",
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Ideias para sessão 5.md",
+                "file": "Personagens/Daniel O'Connor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Ideias para sessão 5.md",
+                "file": "Personagens/Daniel O'Connor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Ideias para sessão 5.md"
+                "file": "Personagens/Daniel O'Connor.md"
               }
             }
           },
@@ -269,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -288,12 +288,13 @@
   },
   "active": "a09837c42b67f2a9",
   "lastOpenFiles": [
-    "Meta/Ideias para Sessão 6.md",
+    "Personagens/Benjamin Thornton.md",
     "Meta/Ideias para sessão 2.md",
     "Meta/Ideias para sessão 3.md",
     "Meta/Ideias para Sessão 4.md",
-    "Meta/Ideias para sessão 5.md",
     "Personagens/Evelyn Whitman.md",
+    "Meta/Ideias para sessão 5.md",
+    "Meta/Ideias para Sessão 6.md",
     "Narrativa/O Culto.md",
     "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
     "Personagens/Personagens.md",
@@ -309,7 +310,6 @@
     "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
     "Narrativa/Enterro de Henry Holloway.md",
     "Narrativa/O Ídolo da Penúria.md",
-    "Personagens/Benjamin Thornton.md",
     "Cidade/Refúgio das Ervas.md",
     "Cidade/Vale da Serenidade.md",
     "Cidade/Igreja de São Sereno.md",
