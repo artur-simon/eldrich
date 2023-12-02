@@ -1,5 +1,5 @@
 Xerife
-
+![[daniel.jpeg]]
 # Descrição física
 O xerife Daniel O'Connor é uma figura imponente e robusta, com sua estatura alta e postura firme. Sua presença, embora tranquila, irradia uma mistura de autoridade e, talvez, uma sombra de melancolia. A guerra deixou marcas profundas em seu rosto, marcando-o com cicatrizes que contam histórias silenciosas de batalhas sangrentas e inimagináveis.
 
