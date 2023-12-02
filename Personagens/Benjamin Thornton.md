@@ -1,6 +1,16 @@
 Advogado
 
+![[Benjamin.jpeg]]
+
+# Descrição
+
 Gosta de café
+## Descrição física
+Benjamin Thornton, o advogado de Vale da Serenidade, personifica a elegância em sua aparência e maneirismos. Sua figura esguia e postura ereta revelam a confiança inerente a alguém acostumado a navegar pelo intricado mundo jurídico. Seu cabelo escuro, penteados de maneira impecável, adiciona um toque de sofisticação ao seu semblante.
+
+Os olhos de Benjamin, profundos e penetrantes, refletem a astúcia e a sagacidade necessárias para sua profissão. Vestido com um terno impecável, cada peça parece cuidadosamente escolhida para transmitir uma imagem de profissionalismo e seriedade. Um distintivo de lapela, sutilmente exibindo o emblema de sua associação profissional, evidencia sua dedicação à advocacia.
+
+Sua postura calma e gestos calculados revelam um homem que pondera cuidadosamente suas palavras. Benjamin emana uma aura de polidez, sendo capaz de lidar com situações delicadas com uma calma admirável. A paleta de cores de suas roupas, predominantemente sóbria, destaca-se apenas pela gravata sutil, revelando uma pitada de personalidade por trás da fachada profissional.
 
 
 # Por que da demora da herança?
