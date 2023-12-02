@@ -32,6 +32,7 @@ A floresta é o cenário de muitos dos desaparecimentos misteriosos que afetaram
 # **Pontos de Interesse na Floresta:**
 
 ## **Claro das Fadas** 
+![[claro das fadas.jpg]]
 Um claro especialmente bonito conhecido por suas flores silvestres e luzes misteriosas que brilham à noite. Dizem que as fadas habitam esse local e que ele é um ponto de encontro entre o mundo dos humanos e o mundo mágico.
 ## **Pedra das Visões** 
 Uma grande pedra no coração da floresta que é considerada um local de poder. Dizem que aqueles que passam a noite junto a ela podem receber visões e sonhos proféticos.

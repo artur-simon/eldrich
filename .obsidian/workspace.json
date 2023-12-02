@@ -10,6 +10,7 @@
           {
             "id": "d6331495db0d3544",
             "type": "split",
+            "dimension": 42.97994269340974,
             "children": [
               {
                 "id": "130dfb410a3076e4",
@@ -34,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Meta/Ideias para Sessão 6.md",
+                        "file": "Cidade/A Floresta Eterna.md",
                         "mode": "source",
                         "source": false
                       }
@@ -54,6 +55,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Cidade/A Floresta Eterna.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -119,15 +121,17 @@
           {
             "id": "1f909bde3422a1e0",
             "type": "tabs",
+            "dimension": 57.02005730659025,
             "children": [
               {
                 "id": "e250e541e7465bc8",
                 "type": "leaf",
                 "state": {
-                  "type": "diff-view",
+                  "type": "markdown",
                   "state": {
-                    "file": ".obsidian/workspace.json",
-                    "staged": false
+                    "file": "Personagens/Elias Hawthorn.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -200,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cidade/A Floresta Eterna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cidade/A Floresta Eterna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +243,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cidade/A Floresta Eterna.md"
+              }
             }
           },
           {
@@ -266,26 +274,30 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e250e541e7465bc8",
+  "active": "3ce48c442aa1ce79",
   "lastOpenFiles": [
-    "Personagens/Daniel O'Connor.md",
-    "Meta/Ideias para Sessão 6.md",
-    "Evelyn 1.jpeg.md",
+    "Cidade/assets/claro das fadas.jpg",
+    "Cidade/assets",
     "Personagens/Evelyn Whitman.md",
+    "Personagens/assets/Evelyn 2.jpeg",
+    "Personagens/assets/Evelyn 5.jpeg",
+    "Personagens/assets/Evelyn 4.jpeg",
+    "Personagens/assets/Evelyn 3.jpeg",
+    "Personagens/assets/Evelyn.jpeg",
+    "Personagens/Daniel O'Connor.md",
+    "Personagens/assets/daniel.jpeg",
+    "Meta/Ideias para Sessão 6.md",
+    "Personagens/Elias Hawthorn.md",
+    "Personagens/assets/elias.jpeg",
+    "Personagens/assets",
+    "Personagens/Draculoros.md",
+    "Personagens/Cornelius Blackwood.md",
+    "Personagens/Benjamin Thornton.md",
+    "Assets/daniel.jpeg",
+    "Evelyn 1.jpeg.md",
     "Assets/Evelyn.jpeg",
     "Assets/elias.jpeg",
-    "Assets/Evelyn 2.jpeg",
-    "Assets/Evelyn 5.jpeg",
-    "Assets/Evelyn 4.jpeg",
-    "Assets/Evelyn 3.jpeg",
-    "Assets/daniel 3.jpeg",
-    "Assets/daniel 2.jpeg",
-    "Assets/daniel.jpeg",
     "Home.md",
-    "Pasted image 20231202171211.jpg",
-    "Personagens/Elias Hawthorn.md",
-    "Personagens/Draculoros.md",
-    "Personagens/Benjamin Thornton.md",
     "Meta/Ideias para sessão 2.md",
     "Meta/Ideias para sessão 3.md",
     "Meta/Ideias para Sessão 4.md",
@@ -302,8 +314,6 @@
     "Cidade/A Floresta Eterna.md",
     "Cidade/Mídia/Vale da Serenidade - O Encanto da Floresta Eterna.md",
     "Cidade/Mídia/Matérias sobre Vale da Serenidade.md",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Narrativa/O Ídolo da Penúria.md",
     "Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -314,8 +324,6 @@
     "Narrativa",
     "Meta/Desafios",
     "Meta/Arcos",
-    "Meta",
-    "Cidade",
-    "Assets"
+    "Meta"
   ]
 }
