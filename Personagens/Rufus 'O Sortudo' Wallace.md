@@ -1,5 +1,7 @@
 Neto de [[Ezekiel Wallace]]
 
+![[Rufus.jpeg]]
+
 Mapeando a região e documentando locais importantes, Rufus é um cartógrafo dedicado a preservar a geografia e a história da cidade.
 
 Rufus Wallace cresceu nos arredores de Vale da Serenidade. Seu avô era um aventureiro destemido que liderou expedições arqueológicas em busca de artefatos antigos e segredos ocultos.

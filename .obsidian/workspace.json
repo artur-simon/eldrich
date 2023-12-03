@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Meta/Ideias para Sessão 6.md",
+                        "file": "Personagens/Henry Holloway.md",
                         "mode": "source",
                         "source": false
                       }
@@ -55,7 +55,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Personagens/Daniel O'Connor.md",
+                        "file": "Personagens/São Sereno.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -129,7 +129,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Personagens/Daniel O'Connor.md",
+                    "file": "Personagens/São Sereno.md",
                     "mode": "source",
                     "source": false
                   }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Daniel O'Connor.md",
+                "file": "Personagens/São Sereno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Daniel O'Connor.md",
+                "file": "Personagens/São Sereno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Daniel O'Connor.md"
+                "file": "Personagens/São Sereno.md"
               }
             }
           },
@@ -256,8 +256,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,43 +275,44 @@
   },
   "active": "e250e541e7465bc8",
   "lastOpenFiles": [
-    "Personagens/assets/daniel.jpg",
-    "Personagens/Daniel O'Connor.md",
-    "Evelyn 1.jpeg.md",
-    "Personagens/assets/Pasted image 20231202173815.jpg",
-    "Meta/Ideias para Sessão 6.md",
-    "Personagens/assets/daniel.jpeg",
-    "Personagens/Draculoros.md",
-    "Personagens/Cornelius Blackwood.md",
-    "Personagens/Benjamin Thornton.md",
-    "Personagens/assets/Cornelius.jpeg",
-    "Personagens/assets/Benjamin.jpeg",
+    "Personagens/assets/Sao sereno.jpeg",
+    "Personagens/Samuel Callan.md",
+    "Personagens/assets/samuel.webp",
+    "Personagens/Rufus 'O Sortudo' Wallace.md",
+    "Personagens/Robert Reynolds.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Ezekiel Wallace.md",
+    "Personagens/Evelyn Whitman.md",
+    "Personagens/Emily Winchester.md",
     "Personagens/Elias Hawthorn.md",
+    "Personagens/Draculoros.md",
+    "Personagens/Daniel O'Connor.md",
+    "Personagens/assets/Ezekiel.jpeg",
+    "Personagens/assets/Helmut.jpeg",
+    "Personagens/Cornelius Blackwood.md",
+    "Personagens/assets/Benjamin.jpeg",
+    "Personagens/Benjamin Thornton.md",
+    "Personagens/assets/Rufus.jpeg",
     "Personagens/Personagens.md",
+    "Personagens/Marina Corvina.md",
+    "Personagens/Josephine Carter.md",
+    "Personagens/assets/Josephine.jpeg",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Personagens/Joseph Johnston.md",
+    "Personagens/Isabella Reynolds.md",
+    "Personagens/assets/Henry.jpeg",
+    "Personagens/Helmut Albert Stalone.md",
+    "Personagens/assets/OIG (6).jpeg",
+    "Meta/Ideias para Sessão 6.md",
+    "Personagens/assets/Marina.jpeg",
+    "Personagens/assets/download.jpeg",
+    "Evelyn 1.jpeg.md",
     "Narrativa/Carta para os jogadores - Benjamin.md",
     "Meta/Relatório de Sessões.md",
-    "Personagens/Evelyn Whitman.md",
     "Cidade/A Floresta Eterna.md",
-    "Cidade/assets/claro das fadas.jpg",
     "Cidade/assets",
-    "Personagens/assets/Evelyn 2.jpeg",
-    "Personagens/assets/Evelyn 5.jpeg",
-    "Personagens/assets/Evelyn 4.jpeg",
-    "Personagens/assets/Evelyn 3.jpeg",
     "Personagens/assets",
     "Home.md",
-    "Meta/Ideias para sessão 2.md",
-    "Meta/Ideias para sessão 3.md",
-    "Meta/Ideias para Sessão 4.md",
-    "Meta/Ideias para sessão 5.md",
-    "Narrativa/O Culto.md",
-    "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
-    "Personagens/Henry Holloway.md",
-    "Meta/Prompt.md",
-    "Meta/Meta.md",
-    "Meta/TODO.md",
-    "Narrativa/A Faminta.md",
-    "Cidade/Biblioteca Municipal.md",
     "Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

@@ -1,11 +1,16 @@
 
 11 anos. Desaparecida em 1913.
-
+![[Emily.jpeg]]
 Os personagens encontram uma notícia na biblioteca, em um jornal antigo, sobre seu desaparecimento.
 
 E na mesma noite sonham com ela.
 
+# Descrição
+Emily, a criança de 11 anos desaparecida em 1913, manifesta-se nos sonhos dos personagens como uma figura etérea e delicada. Seu cabelo castanho-claro, trançado com fitas coloridas, cai suavemente sobre os ombros. Os olhos grandes e expressivos transmitem inocência, mas carregam um lampejo de mistério, sugerindo que há mais para descobrir além da superfície.
 
+Vestindo um vestido branco simples, adornado com detalhes florais, Emily projeta uma imagem angelical. Sua pele pálida emite um brilho suave, criando uma aura de serenidade ao seu redor. O tom suave de sua risada ecoa nos sonhos, evocando uma sensação de nostalgia e tristeza pela inocência perdida.
+
+Nos sonhos, Emily carrega consigo uma presença amigável, mas há algo fugaz em seus gestos e olhares, indicando que ela guarda segredos além do entendimento dos personagens. Seu desaparecimento em 1913 paira como uma sombra, uma história não contada que os personagens se esforçam para desvendar.
 # Sonho com Emily
 
 Os jogadores acordam em uma versão desbotada da cidade, com edifícios abandonados, ruas vazias e uma atmosfera densa.

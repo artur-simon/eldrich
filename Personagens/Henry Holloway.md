@@ -1,9 +1,16 @@
-
+![[Henry.jpeg]]
 Henry Holloway, 63 anos. Um explorador e pesquisador famoso na família. Henry sempre foi uma figura misteriosa, conhecida por suas aventuras em busca de artefatos antigos e segredos ocultos.
 
-O primo Henry desapareceu abruptamente em Vale da Serenidade, enquanto investigava "algo de misterioso na organização da cidade". A investigação oficial não encontrou pistas sobre o seu paradeiro. Acreditava-se que ele havia se perdido na obscura Floresta Eterna ou caído vítima dos segredos sombrios da cidade.
+Henry desapareceu abruptamente em Vale da Serenidade, enquanto investigava "algo de misterioso na organização da cidade". A investigação oficial não encontrou pistas sobre o seu paradeiro. Acreditava-se que ele havia se perdido na obscura Floresta Eterna ou caído vítima dos segredos sombrios da cidade.
 
-Os personagens receberam uma convocação misteriosa para o enterro de Henry em Vale da Serenidade. Para prestar suas homenagens e talvez descobrir o que aconteceu com o primo. A sombra do desaparecimento de Henry paira sobre eles, e eles sentem que o mistério de Vale da Serenidade pode finalmente fornecer respostas há muito procuradas.
+Os personagens receberam uma convocação misteriosa para o enterro de Henry em Vale da Serenidade. Para prestar suas homenagens e talvez descobrir o que aconteceu com o parente. A sombra do desaparecimento de Henry paira sobre eles, e eles sentem que o mistério de Vale da Serenidade pode finalmente fornecer respostas há muito procuradas.
+
+# Descrição
+Henry Holloway exibe os sinais de uma vida dedicada à exploração e pesquisa. Seus cabelos grisalhos, desalinhados pelo vento das inúmeras aventuras, adicionam um toque de distinção à sua figura. O olhar penetrante de seus olhos, ainda cheios de curiosidade, revela um espírito inabalável diante do desconhecido.
+
+A estatura de Henry, ligeiramente encurvada pelos anos de jornadas intrépidas, não diminui sua presença imponente. As roupas que veste, marcadas pelas marcas do tempo e do desgaste, contam histórias de terras distantes e segredos descobertos. Sempre envolto em um manto de mistério, Henry carrega consigo o peso das descobertas e experiências que moldaram sua vida.
+
+Seu rosto, entalhado por rugas profundas, é uma narrativa visual das adversidades enfrentadas e dos triunfos conquistados em busca de artefatos antigos e segredos ocultos. Henry Holloway personifica a essência de um explorador destemido, cujo legado é uma tapeçaria intricada de mistério e descoberta.
 
 # [[Enterro de Henry Holloway]]
 ## Símbolo na lápide
