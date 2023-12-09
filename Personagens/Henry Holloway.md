@@ -1,4 +1,4 @@
-![[Henry.jpeg]]
+![[Henry.jpeg]]  
 Henry Holloway, 63 anos. Um explorador e pesquisador famoso na família. Henry sempre foi uma figura misteriosa, conhecida por suas aventuras em busca de artefatos antigos e segredos ocultos.
 
 Henry desapareceu abruptamente em Vale da Serenidade, enquanto investigava "algo de misterioso na organização da cidade". A investigação oficial não encontrou pistas sobre o seu paradeiro. Acreditava-se que ele havia se perdido na obscura Floresta Eterna ou caído vítima dos segredos sombrios da cidade.
@@ -57,7 +57,7 @@ Henry Holloway
 
 Henry deixou aos jogadores um diário com suas notas que vão gradativamente de uma desconfiança sempre presente à organização da cidade até a investigação da relação sombria de um [[O Culto]] com a cidade, ele anota tudo, mas sua letra não é muito legível e da metade para a frente o diário se torna simplesmente indecifrável, na medida que Henry começa a entender o funcionamento da organização, da história sombria da cidade e da verdade oculta sobre a entidade que permeia a floresta.
 ## Início
-05/01/35
+05/01/35  
 _Nestas noites escuras, onde a lua lança sombras distorcidas sobre as colinas que cercam Vale da Serenidade, sinto que algo se movimenta nas sombras. Uma inquietude indescritível, como se o próprio tecido da realidade estivesse desgastado._
 
 _A cidade, outrora tranquila e serena para mim, agora parece envolta em um manto de silêncio. As ruas ecoam com suspiros sussurrantes, e olhares furtivos se encontram em becos estreitos. Os moradores, antes tão acolhedores, agora murmuram palavras desconexas em seus sonhos._
