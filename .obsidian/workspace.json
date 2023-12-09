@@ -10,7 +10,7 @@
           {
             "id": "d6331495db0d3544",
             "type": "split",
-            "dimension": 45.41547277936962,
+            "dimension": 43.98280802292264,
             "children": [
               {
                 "id": "130dfb410a3076e4",
@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Meta/Prompt.md",
+                        "file": "Meta/Arcos.md",
                         "mode": "source",
                         "source": false
                       }
@@ -55,7 +55,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Meta/Prompt.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -121,18 +120,14 @@
           {
             "id": "1f909bde3422a1e0",
             "type": "tabs",
-            "dimension": 54.58452722063038,
+            "dimension": 56.01719197707736,
             "children": [
               {
                 "id": "e250e541e7465bc8",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Personagens/Elias Hawthorn.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -204,7 +199,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +215,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,9 +236,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Meta/Prompt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -274,16 +265,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3ce48c442aa1ce79",
+  "active": "b13887fb6b8f23ce",
   "lastOpenFiles": [
+    "Meta/Arcos/Arco 4 - O Confronto com o Culto.md",
+    "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
+    "Meta/Arcos/Arco 2 - Os Segredos da Floresta Eterna.md",
+    "Meta/Arcos.md",
+    "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
+    "Personagens/Elias Hawthorn.md",
+    "Meta/Arcos/Arco 1 - A chegada ao Vale da Serenidade.md",
+    "Meta/Prompt.md",
     "Cidade/Igreja de São Sereno.md",
     "Cidade/Biblioteca Municipal.md",
     "Cidade/Vale da Serenidade.md",
     "Cidade/Refúgio das Ervas.md",
     "Cidade/Creche Arco-Íris Encantado.md",
     "Cidade/A Floresta Eterna.md",
-    "Meta/Prompt.md",
-    "Personagens/Elias Hawthorn.md",
     "Meta/Meta.md",
     "Personagens/Personagens.md",
     "Personagens/Henry Holloway.md",
@@ -296,13 +293,7 @@
     "Narrativa/A Faminta.md",
     "Personagens/Joseph Johnston.md",
     "Personagens/Josephine Carter.md",
-    "Meta/Ideias para sessão 5.md",
-    "Personagens/Silvanus Thorne.md",
     "Personagens/assets/silvanus.jpeg",
-    "Personagens/Silas Corbet.md",
-    "Personagens/São Sereno.md",
-    "Personagens/Samuel Callan.md",
-    "Personagens/Evelyn Whitman.md",
     "Personagens/assets/Helmut.jpeg",
     "Personagens/assets/Sao sereno.jpeg",
     "Personagens/assets/samuel.webp",
