@@ -1,11 +1,22 @@
 CONTEXTO: 
 A conversa envolve a elaboração de uma campanha de RPG de Call of Cthulhu em Vale da Serenidade, uma cidade em Massachusetts em 1935.
-Os personagens dos jogadores investigam desaparecimentos de crianças e seguem pistas de um testamento. Eles interagem com moradores locais, autoridades, e exploram locais importantes na cidade enquanto desvendam o mistério.
-A cidade possui uma história rica, é descrita como isolada, cercada por colinas e a Floresta Eterna. 
-Existe uma sociedade secreta de cultistas que adoram um Grande Antigo chamada A Faminta. Locais importantes incluem uma casa de chás/pousada, a Igreja de São Sereno, a biblioteca antiga, e um museu local.
-Os personagens procuram respostas sobre os desaparecimentos, o testamento misterioso e um símbolo na lápide de Henry Holloway. Vale da Serenidade é conhecida por sua produção de chás especiais.
-Os desaparecimentos começaram logo antes da chegada de estrangeiros, gerando suspeitas.
-O testamento de Henry Holloway contém pistas que direcionam os personagens para os mistérios da cidade.
+Os personagens dos jogadores investigam desaparecimentos de crianças e seguem pistas de um testamento e um símbolo na lápide de Henry Holloway, que contém pistas que direcionam os personagens para os mistérios da cidade. Eles interagem com moradores locais, autoridades, e exploram locais importantes na cidade enquanto desvendam o mistério.
+A cidade possui uma história rica, é descrita como isolada, cercada por colinas e a Floresta Eterna. A cidade é conhecida por sua produção de chás especiais.
+Existe uma sociedade secreta de cultistas que adoram um Grande Antigo chamada A Faminta.
+LOCAIS:
+- Praça da Cidade
+- Igreja de São Sereno
+- Refúgio das Ervas
+- Biblioteca Municipal
+- A Floresta Eterna
+- Cemitério
+- Delegacia
+- Prefeitura
+- Escritório de Advocacia
+- Correios
+- Casa de Henry Holloway
+- Creche Arco-Íris Encantado
+ - Pontos de Interesse na Floresta: Claro das Fadas, Pedra das Visões, Ponte Quebrada, Lago Negro
 PERSONAGENS:
 - Jogadores: Helmut Albert Stalone, Joseph Johnston
 - O parente morto: Henry Holloway

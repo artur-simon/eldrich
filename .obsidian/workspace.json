@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Cidade/Vale da Serenidade.md",
+                        "file": "Meta/Prompt.md",
                         "mode": "source",
                         "source": false
                       }
@@ -55,7 +55,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Cidade/Vale da Serenidade.md",
+                        "file": "Meta/Prompt.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cidade/Vale da Serenidade.md",
+                "file": "Meta/Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cidade/Vale da Serenidade.md",
+                "file": "Meta/Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cidade/Vale da Serenidade.md"
+                "file": "Meta/Prompt.md"
               }
             }
           },
@@ -276,10 +276,11 @@
   },
   "active": "3ce48c442aa1ce79",
   "lastOpenFiles": [
-    "Cidade/Refúgio das Ervas.md",
     "Cidade/Igreja de São Sereno.md",
-    "Cidade/Creche Arco-Íris Encantado.md",
     "Cidade/Biblioteca Municipal.md",
+    "Cidade/Vale da Serenidade.md",
+    "Cidade/Refúgio das Ervas.md",
+    "Cidade/Creche Arco-Íris Encantado.md",
     "Cidade/A Floresta Eterna.md",
     "Meta/Prompt.md",
     "Personagens/Elias Hawthorn.md",
@@ -302,7 +303,6 @@
     "Personagens/São Sereno.md",
     "Personagens/Samuel Callan.md",
     "Personagens/Evelyn Whitman.md",
-    "Personagens/Ezekiel Wallace.md",
     "Personagens/assets/Helmut.jpeg",
     "Personagens/assets/Sao sereno.jpeg",
     "Personagens/assets/samuel.webp",
