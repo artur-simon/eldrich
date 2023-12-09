@@ -7,15 +7,27 @@ Os personagens procuram respostas sobre os desaparecimentos, o testamento mister
 Os desaparecimentos começaram logo antes da chegada de estrangeiros, gerando suspeitas.
 O testamento de Henry Holloway contém pistas que direcionam os personagens para os mistérios da cidade.
 PERSONAGENS: 
-- Jogadores Helmut Albert Stalone, Joseph Johnston
-- O parente morto Henry Holloway
-- Xerife da cidade Daniel O'Connor
-- Ajudante Rufus 'O Sortudo' Wallace
-- Dona da casa de chás / pousada Marina Corvina
-- Padre da cidade Samuel Callan
-- Coveiro do cemitério Silas Corbet
-- Prefeita Josephine Carter
-- Crianças Desaparecidas Isabella Reynolds, Emily Winchester
+- Jogadores: Helmut Albert Stalone, Joseph Johnston
+- O parente morto: Henry Holloway
+- Xerife da cidade: Daniel O'Connor
+- Ajudante: Rufus 'O Sortudo' Wallace
+- Dona da casa de chás / pousada: Marina Corvina
+- Padre da cidade: Samuel Callan
+- Coveiro do cemitério: Silas Corbet
+- Prefeita: Josephine Carter
+- Crianças Desaparecidas: Isabella Reynolds, Emily Winchester
+- Família das Crianças Desaparecidas: Pai - Robert Reynolds
+- Entidade Cósmica (A Faminta)
+- Cultistas Locais: Draculoros, Comerciante Misterioso Silvanus Thorne
+- Antigo padre que lutou a Faminta: São Sereno
+- Antigo arqueólogo: Ezekiel Wallace
+- Bibliotecária Evelyn Whitman
+- Advogado Benjamin Thornton
+- Médico da Cidade Cornelius Blackwood
+- Historiador Local
+- Padeiro da Cidade
+- Eremita Local
+- Erudito de Livros Raros
 FORMATO:
 Obsidian Markdown
 RESTRIÇÕES/PREFERÊNCIAS: null

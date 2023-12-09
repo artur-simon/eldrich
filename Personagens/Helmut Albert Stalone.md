@@ -1,1 +1,1 @@
-![[OIG (6).jpeg]]
+![[Helmut.jpeg]]

@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Personagens/Henry Holloway.md",
+                        "file": "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
                         "mode": "source",
                         "source": false
                       }
@@ -55,7 +55,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Personagens/Draculoros.md",
+                        "file": "Personagens/Elias Hawthorn.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -107,7 +107,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.7514342322277584,
+                          "scale": 0.382301096876997,
                           "close": true
                         }
                       }
@@ -129,7 +129,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Personagens/Draculoros.md",
+                    "file": "Personagens/Elias Hawthorn.md",
                     "mode": "source",
                     "source": false
                   }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Draculoros.md",
+                "file": "Personagens/Elias Hawthorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Draculoros.md",
+                "file": "Personagens/Elias Hawthorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Draculoros.md"
+                "file": "Personagens/Elias Hawthorn.md"
               }
             }
           },
@@ -274,46 +274,46 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "05f2b7c93cb278a6",
+  "active": "e250e541e7465bc8",
   "lastOpenFiles": [
-    "Personagens/Daniel O'Connor.md",
+    "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
+    "Personagens/Elias Hawthorn.md",
+    "Personagens/Emily Winchester.md",
     "Personagens/Benjamin Thornton.md",
     "Personagens/Cornelius Blackwood.md",
-    "Personagens/São Sereno.md",
-    "Personagens/assets/Sao sereno.jpeg",
-    "Personagens/Samuel Callan.md",
-    "Personagens/assets/samuel.webp",
-    "Personagens/Rufus 'O Sortudo' Wallace.md",
-    "Personagens/Robert Reynolds.md",
-    "Personagens/Henry Holloway.md",
-    "Personagens/Ezekiel Wallace.md",
-    "Personagens/Evelyn Whitman.md",
-    "Personagens/Emily Winchester.md",
-    "Personagens/Elias Hawthorn.md",
+    "Personagens/Daniel O'Connor.md",
     "Personagens/Draculoros.md",
-    "Personagens/assets/Ezekiel.jpeg",
+    "Narrativa/A Faminta.md",
+    "Personagens/Joseph Johnston.md",
+    "Personagens/Josephine Carter.md",
+    "Meta/Ideias para sessão 5.md",
+    "Personagens/Silvanus Thorne.md",
+    "Personagens/assets/silvanus.jpeg",
+    "Personagens/Personagens.md",
+    "Meta/Prompt.md",
+    "Personagens/Silas Corbet.md",
+    "Personagens/São Sereno.md",
+    "Personagens/Samuel Callan.md",
+    "Personagens/Evelyn Whitman.md",
+    "Personagens/Ezekiel Wallace.md",
+    "Personagens/Helmut Albert Stalone.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Isabella Reynolds.md",
+    "Personagens/Robert Reynolds.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Personagens/Marina Corvina.md",
     "Personagens/assets/Helmut.jpeg",
+    "Cidade/A Floresta Eterna.md",
+    "Personagens/assets/Sao sereno.jpeg",
+    "Personagens/assets/samuel.webp",
+    "Personagens/assets/Ezekiel.jpeg",
     "Personagens/assets/Benjamin.jpeg",
     "Personagens/assets/Rufus.jpeg",
-    "Personagens/Personagens.md",
-    "Personagens/Marina Corvina.md",
-    "Personagens/Josephine Carter.md",
     "Personagens/assets/Josephine.jpeg",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Personagens/Joseph Johnston.md",
-    "Personagens/Isabella Reynolds.md",
     "Personagens/assets/Henry.jpeg",
-    "Personagens/Helmut Albert Stalone.md",
     "Personagens/assets/OIG (6).jpeg",
-    "Meta/Ideias para Sessão 6.md",
-    "Personagens/assets/Marina.jpeg",
-    "Evelyn 1.jpeg.md",
-    "Narrativa/Carta para os jogadores - Benjamin.md",
-    "Meta/Relatório de Sessões.md",
-    "Cidade/A Floresta Eterna.md",
     "Cidade/assets",
     "Personagens/assets",
-    "Home.md",
     "Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
