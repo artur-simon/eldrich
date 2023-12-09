@@ -1,4 +1,4 @@
-![[elias.jpeg]]
+![[elias.jpeg]]  
 Elias Hawthorn é um habitante idoso e recluso de Vale da Serenidade. Ele é conhecido por sua ligação com a natureza e por ter habilidades de rastreamento e conhecimento da floresta. Ele costumava ser um guia para exploradores e pesquisadores que visitavam a região, incluindo Henry Holloway em uma de suas expedições anteriores à cidade.
 # Descrição física
 Elias Hawthorn, um idoso recluso de Vale da Serenidade, possui uma figura magra e encurvada, testemunha do peso dos anos e da solidão. Seus cabelos prateados, longos e desgrenhados, caem até os ombros, emoldurando um rosto marcado por rugas profundas que contam histórias de experiências vividas.
