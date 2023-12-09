@@ -16,20 +16,20 @@ A principal praça da cidade é dominada por uma antiga [[Igreja de São Sereno|
 
 ## Principais locais
 
-1. **Praça da Cidade:** O centro da cidade abriga uma praça pitoresca com uma fonte antiga e uma estátua de um fundador da cidade. É o local onde os habitantes se reúnem durante eventos comunitários e onde os investigadores podem obter informações e interagir com os moradores locais.
-2. [[Igreja de São Sereno]]: Uma igreja de pedra centenária com vitrais coloridos que iluminam o interior durante o dia. O reverendo local oferece conforto à comunidade.
-3. **[[Refúgio das Ervas]]:** Um lugar aconchegante e misterioso, onde os habitantes da cidade se reúnem para desfrutar de chá e conversa. É um local onde rumores e lendas são compartilhados.
-4. **[[Biblioteca Municipal]]:** Uma biblioteca modesta que abriga uma coleção de livros e manuscritos antigos. O historiador local costuma passar seu tempo aqui e pode ser um recurso importante para interessados na literatura única desta região isolada.
-5. [[A Floresta Eterna]]
+- **Praça da Cidade:** O centro da cidade abriga uma praça pitoresca com uma fonte antiga e uma estátua de um fundador da cidade. É o local onde os habitantes se reúnem durante eventos comunitários e onde os investigadores podem obter informações e interagir com os moradores locais.
+- [[Igreja de São Sereno]]: Uma igreja de pedra centenária com vitrais coloridos que iluminam o interior durante o dia. O reverendo local oferece conforto à comunidade.
+- **[[Refúgio das Ervas]]:** Um lugar aconchegante e misterioso, onde os habitantes da cidade se reúnem para desfrutar de chá e conversa. É um local onde rumores e lendas são compartilhados.
+- **[[Biblioteca Municipal]]:** Uma biblioteca modesta que abriga uma coleção de livros e manuscritos antigos. O historiador local costuma passar seu tempo aqui e pode ser um recurso importante para interessados na literatura única desta região isolada.
+- [[A Floresta Eterna]]
 ## Locais secundários
 
-1. Cemitério
-2. Delegacia
-3. Prefeitura
-4. Escritório de advocacia
-5. Correios
-6. Casa de Henry Holloway
-7. [[Creche Arco-Íris Encantado]]
+- Cemitério
+- Delegacia
+- Prefeitura
+- Escritório de advocacia
+- Correios
+- Casa de Henry Holloway
+- [[Creche Arco-Íris Encantado]] 
    
 # História
 
@@ -38,7 +38,7 @@ A principal praça da cidade é dominada por uma antiga [[Igreja de São Sereno|
 - **Mistérios Obscuros:** Ao longo dos anos, a cidade testemunhou eventos inexplicáveis e desaparecimentos esporádicos. A Floresta Eterna sempre foi vista como um local misterioso, e lendas locais falam de criaturas sobrenaturais espreitando nas sombras da floresta.
 - **A Fundação da [[Igreja de São Sereno]]:** A igreja foi construída no final do século XIX e se tornou um ponto focal da comunidade. O fundador da igreja alegava ter visões sagradas para guiar o povo em seu desenvolvimento.
 
-[[Matérias sobre Vale da Serenidade]]
+## [[Matérias sobre Vale da Serenidade]]
 
 # Economia
   

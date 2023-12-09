@@ -16,7 +16,7 @@ PERSONAGENS:
 - Coveiro do cemitério: Silas Corbet
 - Prefeita: Josephine Carter
 - Crianças Desaparecidas: Isabella Reynolds, Emily Winchester
-- Família das Crianças Desaparecidas: Pai - Robert Reynolds
+- Família das Crianças Desaparecidas: Pai Robert Reynolds
 - Entidade Cósmica (A Faminta)
 - Cultistas Locais: Draculoros, Comerciante Misterioso Silvanus Thorne
 - Antigo padre que lutou a Faminta: São Sereno
