@@ -19,4 +19,4 @@ Vestindo roupas que lembram aventuras passadas, Ezekiel carrega consigo uma pres
 
 # A expedição que mudou sua visão sobre a cidade
 
-Ezekiel sempre ouviu histórias de sua familia e de outros moradores da cidade sobre o folclore local
+Ezekiel sempre ouviu histórias de sua familia e de outros moradores da cidade sobre o folclore local...

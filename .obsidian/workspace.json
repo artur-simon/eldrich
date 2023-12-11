@@ -10,7 +10,7 @@
           {
             "id": "d6331495db0d3544",
             "type": "split",
-            "dimension": 43.98280802292264,
+            "dimension": 43.98280802292263,
             "children": [
               {
                 "id": "130dfb410a3076e4",
@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Meta/Arcos.md",
+                        "file": "Meta/Ideias para sessão 2.md",
                         "mode": "source",
                         "source": false
                       }
@@ -55,6 +55,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "Meta/Relatório de Sessões.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -120,14 +121,18 @@
           {
             "id": "1f909bde3422a1e0",
             "type": "tabs",
-            "dimension": 56.01719197707736,
+            "dimension": 56.01719197707737,
             "children": [
               {
                 "id": "e250e541e7465bc8",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Meta/Relatório de Sessões.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -199,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meta/Relatório de Sessões.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meta/Relatório de Sessões.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +243,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Meta/Relatório de Sessões.md"
+              }
             }
           },
           {
@@ -265,34 +274,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b13887fb6b8f23ce",
+  "active": "e250e541e7465bc8",
   "lastOpenFiles": [
+    "Meta/Desafios/Desafios Adicionais.md",
+    "Meta/Arcos.md",
+    "Personagens/Ezekiel Wallace.md",
+    "Personagens/Rufus 'O Sortudo' Wallace.md",
+    "Meta/Ideias para sessão 2.md",
+    "Meta/Meta.md",
+    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
+    "Meta/Prompt.md",
     "Meta/Arcos/Arco 4 - O Confronto com o Culto.md",
     "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
     "Meta/Arcos/Arco 2 - Os Segredos da Floresta Eterna.md",
-    "Meta/Arcos.md",
     "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
     "Personagens/Elias Hawthorn.md",
     "Meta/Arcos/Arco 1 - A chegada ao Vale da Serenidade.md",
-    "Meta/Prompt.md",
     "Cidade/Igreja de São Sereno.md",
     "Cidade/Biblioteca Municipal.md",
     "Cidade/Vale da Serenidade.md",
     "Cidade/Refúgio das Ervas.md",
     "Cidade/Creche Arco-Íris Encantado.md",
     "Cidade/A Floresta Eterna.md",
-    "Meta/Meta.md",
     "Personagens/Personagens.md",
     "Personagens/Henry Holloway.md",
     "Meta/Ideias, Plot twists, personagens, eventos inesperados.md",
     "Personagens/Emily Winchester.md",
     "Personagens/Benjamin Thornton.md",
     "Personagens/Cornelius Blackwood.md",
-    "Personagens/Daniel O'Connor.md",
-    "Personagens/Draculoros.md",
-    "Narrativa/A Faminta.md",
-    "Personagens/Joseph Johnston.md",
-    "Personagens/Josephine Carter.md",
     "Personagens/assets/silvanus.jpeg",
     "Personagens/assets/Helmut.jpeg",
     "Personagens/assets/Sao sereno.jpeg",
