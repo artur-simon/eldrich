@@ -55,7 +55,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Falsa Hidra.md",
+                        "file": "a.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -153,7 +153,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Falsa Hidra.md",
+                    "file": "a.md",
                     "mode": "source",
                     "source": false
                   }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Falsa Hidra.md",
+                "file": "a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Falsa Hidra.md",
+                "file": "a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Falsa Hidra.md"
+                "file": "a.md"
               }
             }
           },
@@ -301,22 +301,27 @@
   },
   "active": "30b33628b959fabe",
   "lastOpenFiles": [
+    "Canvas.canvas",
+    "Untitled.md",
     "Home.md",
+    "Meta/Ideias/Ideias para Sessão 6.md",
+    "Meta/Ideias/Ideias, Plot twists, personagens, eventos inesperados.md",
+    "Meta/Ideias",
+    "Meta/Ideias/Falsa Hidra.md",
+    "a.md",
     "Meta/Relatório de Sessões.md",
     "Meta/Meta.md",
-    "Falsa Hidra.md",
     "Cidade/A Floresta Eterna.md",
     "Meta/Prompt.md",
     "Personagens/Daniel O'Connor.md",
     "Cidade/assets/claro das fadas.jpg",
-    "Untitled.md",
     "Personagens/São Sereno.md",
     "Personagens/Silvanus Thorne.md",
-    "Meta/Desafios/Desafios Adicionais.md",
+    "Meta/Ideias/Desafios/Desafios Adicionais.md",
     "Meta/Arcos.md",
     "Personagens/Ezekiel Wallace.md",
     "Personagens/Rufus 'O Sortudo' Wallace.md",
-    "Meta/Ideias para sessão 2.md",
+    "Meta/Ideias/Ideias para sessão 2.md",
     "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
     "Meta/Arcos/Arco 4 - O Confronto com o Culto.md",
     "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
@@ -324,10 +329,6 @@
     "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
     "Personagens/Elias Hawthorn.md",
     "Meta/Arcos/Arco 1 - A chegada ao Vale da Serenidade.md",
-    "Cidade/Igreja de São Sereno.md",
-    "Cidade/Biblioteca Municipal.md",
-    "Cidade/Vale da Serenidade.md",
-    "Cidade/Refúgio das Ervas.md",
     "Personagens/assets/silvanus.jpeg",
     "Personagens/assets/Helmut.jpeg",
     "Personagens/assets/Sao sereno.jpeg",
@@ -339,7 +340,6 @@
     "Personagens/assets/Henry.jpeg",
     "Cidade/assets",
     "Personagens/assets",
-    "Canvas.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Recording 20231107002617.webm",
@@ -347,8 +347,7 @@
     "Cidade/Mídia",
     "Personagens",
     "Narrativa",
-    "Meta/Desafios",
-    "Meta/Arcos",
-    "Meta"
+    "Meta/Ideias/Desafios",
+    "Meta/Arcos"
   ]
 }
