@@ -1,4 +1,4 @@
-
+A Igreja de São Sereno, antiga e imponente, esconde segredos ligados à maldição na cidade. O padre local é [[Samuel Callan]]. A igreja serve como palco para eventos importantes na resolução da maldição, revelando a complexa conexão entre [[São Sereno]], [[A Floresta Eterna]] e o mal que assola a cidade.
 # Visual
 
 - A Igreja de São Sereno é uma construção antiga e imponente, com uma arquitetura gótica que remonta a séculos atrás. Sua fachada apresenta vitrais coloridos que representam cenas religiosas e figuras santas, incluindo uma grande imagem de São Sereno em seu ápice.

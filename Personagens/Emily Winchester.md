@@ -16,12 +16,11 @@ Nos sonhos, Emily carrega consigo uma presença amigável, mas há algo fugaz em
 Os jogadores acordam em uma versão desbotada da cidade, com edifícios abandonados, ruas vazias e uma atmosfera densa.
 Enquanto exploram os arredores, veem de relance a figura de Emily e tem a opção de segui-la.
 
-Enquanto a seguem eles podem testemunhar fragmentos de memórias, como crianças brincando nas ruas
-cantarolando a cantiga da faminta.
+- Enquanto a seguem eles podem testemunhar fragmentos de memórias, como crianças brincando nas ruas cantarolando a cantiga da faminta.
 
-Emily revela que não apenas desapareceu mas foi sequestrada por um motivo sinistro.
+- Emily revela que não apenas desapareceu mas foi sequestrada por um motivo sinistro.
 
-Emily se comunica de maneira enigmática, misturando fragmentos de seu passado com premonições sobre o presente. Ela avisa que [[Isabella Reynolds]], a menina desaparecida, ainda está viva e que o grupo deve se apressar caso queira fazer algo a respeito.
+- Emily se comunica de maneira enigmática, misturando fragmentos de seu passado com premonições sobre o presente. Ela avisa que [[Isabella Reynolds]], a menina desaparecida, ainda está viva e que o grupo deve se apressar caso queira fazer algo a respeito.
 ## Fragmentos
 
 ### Risadas no parque

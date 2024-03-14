@@ -10,44 +10,31 @@
           {
             "id": "d6331495db0d3544",
             "type": "split",
-            "dimension": 43.98280802292263,
+            "dimension": 28.518746158574064,
             "children": [
               {
                 "id": "130dfb410a3076e4",
                 "type": "tabs",
-                "dimension": 61.44230769230769,
+                "dimension": 66.15384615384615,
                 "children": [
-                  {
-                    "id": "a09837c42b67f2a9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Personagens/Daniel O'Connor.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
                   {
                     "id": "3ce48c442aa1ce79",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Meta/Prompt.md",
+                        "file": "Personagens/Personagens.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "896490a747b8a387",
                 "type": "tabs",
-                "dimension": 38.55769230769231,
+                "dimension": 33.84615384615385,
                 "children": [
                   {
                     "id": "f4100da6bed96632",
@@ -55,7 +42,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "a.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -107,7 +93,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.7514342322277588,
+                          "scale": 1.4769860980686538,
                           "close": true
                         }
                       }
@@ -121,46 +107,20 @@
           {
             "id": "1f909bde3422a1e0",
             "type": "tabs",
-            "dimension": 56.01719197707737,
+            "dimension": 71.48125384142594,
             "children": [
               {
-                "id": "e250e541e7465bc8",
+                "id": "754e903ab3b3aad9",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "diff-view",
                   "state": {
-                    "file": "Personagens/São Sereno.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "826b2af0befbd60d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Cidade/A Floresta Eterna.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "30b33628b959fabe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "a.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Locais/A Floresta Eterna.md",
+                    "staged": false
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical"
@@ -229,7 +189,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +205,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,9 +226,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "a.md"
-              }
+              "state": {}
             }
           },
           {
@@ -286,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,52 +255,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "30b33628b959fabe",
+  "active": "05f2b7c93cb278a6",
   "lastOpenFiles": [
-    "Canvas.canvas",
-    "Untitled.md",
-    "Home.md",
-    "Meta/Ideias/Ideias para Sessão 6.md",
-    "Meta/Ideias/Ideias, Plot twists, personagens, eventos inesperados.md",
-    "Meta/Ideias",
-    "Meta/Ideias/Falsa Hidra.md",
-    "a.md",
+    "Personagens/Evelyn Whitman.md",
+    "Meta/TODO.md",
     "Meta/Relatório de Sessões.md",
-    "Meta/Meta.md",
-    "Cidade/A Floresta Eterna.md",
     "Meta/Prompt.md",
-    "Personagens/Daniel O'Connor.md",
-    "Cidade/assets/claro das fadas.jpg",
-    "Personagens/São Sereno.md",
-    "Personagens/Silvanus Thorne.md",
-    "Meta/Ideias/Desafios/Desafios Adicionais.md",
+    "Meta/Meta.md",
     "Meta/Arcos.md",
-    "Personagens/Ezekiel Wallace.md",
+    "Meta/Ideias/Ideias para Sessão 7.md",
+    "Personagens/Silvanus Thorne.md",
+    "Personagens/Personagens.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Helmut Albert Stalone.md",
     "Personagens/Rufus 'O Sortudo' Wallace.md",
-    "Meta/Ideias/Ideias para sessão 2.md",
-    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
-    "Meta/Arcos/Arco 4 - O Confronto com o Culto.md",
-    "Meta/Arcos/Arco 5 - A Revelação do Horror.md",
-    "Meta/Arcos/Arco 2 - Os Segredos da Floresta Eterna.md",
-    "Meta/Arcos/Arco 3 - As Profundezas da Investigação.md",
+    "Personagens/Samuel Callan.md",
+    "Personagens/Ezekiel Wallace.md",
+    "Personagens/Emily Winchester.md",
     "Personagens/Elias Hawthorn.md",
-    "Meta/Arcos/Arco 1 - A chegada ao Vale da Serenidade.md",
-    "Personagens/assets/silvanus.jpeg",
-    "Personagens/assets/Helmut.jpeg",
-    "Personagens/assets/Sao sereno.jpeg",
+    "Personagens/Draculoros.md",
+    "Personagens/Daniel O'Connor.md",
+    "Personagens/Cornelius Blackwood.md",
+    "Personagens/Benjamin Thornton.md",
+    "Personagens/Joseph Johnston.md",
+    "Locais/Vale da Serenidade.md",
+    "Home.md",
+    "Untitled.md",
+    "Narrativa/Carta para os jogadores - Benjamin.md",
+    "Narrativa/A Faminta.md",
+    "Assets/output.jpg",
+    "Assets/carta para albert.png",
+    "Canvas.canvas",
+    "Locais/assets/claro das fadas.jpg",
     "Personagens/assets/samuel.webp",
-    "Personagens/assets/Ezekiel.jpeg",
-    "Personagens/assets/Benjamin.jpeg",
     "Personagens/assets/Rufus.jpeg",
+    "Personagens/assets/Marina.jpeg",
     "Personagens/assets/Josephine.jpeg",
     "Personagens/assets/Henry.jpeg",
-    "Cidade/assets",
+    "Personagens/assets/Helmut.jpeg",
+    "Personagens/assets/Ezekiel.jpeg",
+    "Meta/Ideias",
+    "Locais/assets",
     "Personagens/assets",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Recording 20231107002617.webm",
     "Recording 20231107002628.webm",
-    "Cidade/Mídia",
+    "Locais/Mídia",
     "Personagens",
     "Narrativa",
     "Meta/Ideias/Desafios",

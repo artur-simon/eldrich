@@ -29,7 +29,7 @@ PERSONAGENS:
 - Crianças Desaparecidas: Isabella Reynolds, Emily Winchester
 - Família das Crianças Desaparecidas: Pai Robert Reynolds
 - Entidade Cósmica (A Faminta)
-- Cultistas Locais: Draculoros, Comerciante Misterioso Silvanus Thorne
+- Cultistas Locais: (Lider) Draculoros, (Comerciante Misterioso) Silvanus Thorne
 - Antigo padre que lutou a Faminta: São Sereno
 - Antigo arqueólogo: Ezekiel Wallace
 - Bibliotecária Evelyn Whitman
