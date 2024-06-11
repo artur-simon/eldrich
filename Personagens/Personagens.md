@@ -22,10 +22,11 @@ Aqui estão os principais personagens:
 	- Comerciante Misterioso [[Silvanus Thorne]]
 - Antigo padre que lutou a Faminta [[São Sereno]]
 - Antigo arqueólogo [[Ezekiel Wallace]]
-# Personagens secundários
 - Bibliotecária [[Evelyn Whitman]]
+# Personagens secundários
 - Advogado [[Benjamin Thornton]]
 - Médico da Cidade [[Cornelius Blackwood]]
+
 - **Historiador Local:** Um estudioso que pesquisa a história de Vale da Serenidade e da Floresta Eterna. Ele possui manuscritos antigos e documentos que podem conter pistas sobre o passado da cidade e sobre a entidade cósmica.
 - **Padeiro da Cidade:** O padeiro é afirma ter visto algo estranho na Floresta Eterna. Ele pode fornecer testemunhos perturbadores sobre o que acontece quando o sol se põe nas imediações da floresta.
 - **Eremita Local:** Um eremita solitário e excêntrico que reside nos limites da Floresta Eterna. Ele possui conhecimentos sobre a história obscura da floresta e pode ser uma fonte valiosa de informações e orientações para os investigadores. No entanto, sua ajuda pode não ser totalmente desinteressada.
