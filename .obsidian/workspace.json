@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Narrativa/O Ídolo da Penúria.md",
+                        "file": "Narrativa/Narrativa.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -114,7 +114,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Narrativa/O Ídolo da Penúria.md",
+                    "file": "Narrativa/A Faminta.md",
                     "mode": "source",
                     "source": false
                   }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrativa/O Ídolo da Penúria.md",
+                "file": "Narrativa/Narrativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrativa/O Ídolo da Penúria.md",
+                "file": "Narrativa/Narrativa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrativa/O Ídolo da Penúria.md"
+                "file": "Narrativa/Narrativa.md"
               }
             }
           },
@@ -259,23 +259,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "05f2b7c93cb278a6",
+  "active": "3ce48c442aa1ce79",
   "lastOpenFiles": [
     "Narrativa/A Faminta.md",
-    "Narrativa/Narrativa.md",
-    "Narrativa/O Culto.md",
-    "Narrativa/Introdução.md",
-    "Personagens/Silvanus Thorne.md",
-    "Personagens/Robert Reynolds.md",
-    "Meta/Prompt.md",
-    "Personagens/Silas Corbet.md",
-    "Personagens/São Sereno.md",
-    "Personagens/Samuel Callan.md",
-    "Personagens/Rufus 'O Sortudo' Wallace.md",
-    "Personagens/Marina Corvina.md",
-    "Personagens/Josephine Carter.md",
-    "Personagens/Joseph Johnston.md",
     "Personagens/Isabella Reynolds.md",
+    "Personagens/Joseph Johnston.md",
     "Personagens/Henry Holloway.md",
     "Personagens/Helmut Albert Stalone.md",
     "Personagens/Ezekiel Wallace.md",
@@ -286,7 +274,19 @@
     "Personagens/Daniel O'Connor.md",
     "Personagens/Cornelius Blackwood.md",
     "Personagens/Benjamin Thornton.md",
-    "Locais/Vale da Serenidade.md",
+    "Narrativa/O Culto.md",
+    "Narrativa/Narrativa.md",
+    "Narrativa/Introdução.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Narrativa/Carta para os jogadores - Benjamin.md",
+    "Narrativa/O Evento do Sequestro.md",
+    "Narrativa/O Ídolo da Penúria.md",
+    "Narrativa/Pesadelo de Helmut.md",
+    "Narrativa/Testamento.md",
+    "Narrativa/Pesadelo de Joseph.md",
+    "Personagens/Silvanus Thorne.md",
+    "Personagens/Robert Reynolds.md",
+    "Meta/Prompt.md",
     "Assets/output.jpg",
     "Assets/carta para albert.png",
     "Assets/Simbolo na lápide.jpeg",
