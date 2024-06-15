@@ -45,11 +45,16 @@ Na cidade os sinos bradam à meia noite, formalmente esta é uma tradição da E
 ## **A Antiguidade Obscura:** 
 A história de "A Faminta" remonta a tempos imemoriais, muito antes da fundação de Vale da Serenidade. Ela é uma das entidades cósmicas mais antigas e obscuras, cujas origens estão envoltas em mistério. Seu nome verdadeiro não pode ser pronunciado por língua humana, e é conhecida apenas por seu apetites insaciáveis.
 
+Nas profundezas da pré-história, quando os primeiros raios de luz cósmica cortaram a escuridão primordial, existiam forças antigas e terríveis. A Faminta, como a conhecemos, era uma dessas forças, uma entidade cósmica surgida das trevas abissais. Ela não tinha forma física, mas sua essência era de pura fome, um vazio que ansiava por consumir toda a vida e energia ao seu alcance.
+
+A primeira aparição de A Faminta em nossa realidade foi precedida por cataclismas cósmicos e distúrbios interdimensionais. Em um tempo antes do tempo, civilizações antigas de seres agora esquecidos começaram a registrar a presença de uma força invisível que trazia consigo desespero e destruição. Em pergaminhos de pele de criaturas antigas, essas civilizações relataram como suas próprias estrelas murcharam e morreram, sugadas pela insaciável fome dessa entidade.
+
+Com o passar dos milênios, a influência de A Faminta começou a se espalhar por diferentes planos de existência. Algumas civilizações, desesperadas por poder ou por um entendimento maior do cosmos, começaram a adorá-la. Esses cultos antediluvianos acreditavam que, ao satisfazer a fome da entidade, poderiam obter favores sobrenaturais ou visões do futuro. Assim, os primeiros rituais foram realizados, utilizando sacrifícios de vidas para apaziguar a fome insaciável de A Faminta.
 ### **Fragmentos de Verdades Esquecidas:**
 
-Nos cantos sombrios e esquecidos da região que viria a ser conhecida como Vale da Serenidade, a presença da Faminta já se fazia sentir muito antes da luz da civilização moderna iluminar essas colinas enevoadas. Ela era venerada por povos antigos, cujas línguas e culturas se perderam nas brumas do tempo. Para aqueles que arriscavam sondar os segredos proibidos das escrituras arcaicas e dos artefatos enterrados em túmulos antigos, o nome da entidade era uma palavra que nunca deveria ser pronunciada.
+Quando finalmente A Faminta direcionou seu olhar para nosso planeta, a Terra ainda era jovem e selvagem. Através de portais interdimensionais, fragmentos de sua essência começaram a se infiltrar nas florestas antigas, particularmente na área que viria a ser conhecida como a Floresta Eterna, nos arredores do Vale da Serenidade. Era um local onde os véus entre as dimensões eram especialmente finos, permitindo que a influência da entidade se manifestasse de maneira mais poderosa.
 
-Eram tempos em que o culto à Faminta era uma prática amplamente difundida, onde os altares eram manchados de sangue e os gritos dos sacrifícios ecoavam nas profundezas da floresta. Aos olhos dos antigos, a entidade insaciável não era apenas uma deusa, mas uma força cósmica insondável, tão antiga quanto o próprio universo. Sua fome não conhecia limites, e em troca de almas humanas, ela prometia poderes além da compreensão humana.
+Eram tempos em que o culto à Faminta era uma prática amplamente difundida, onde os altares eram manchados de sangue e os gritos dos sacrifícios ecoavam nas profundezas da floresta. Aos olhos dos antigos, a entidade insaciável não era apenas uma deusa, mas uma força cósmica insondável, tão antiga quanto o próprio universo. Sua fome não conhecia limites, e em troca de almas humanas, ela entregava poderes além da compreensão humana para os que a saciarem.
 
 As escrituras enigmáticas gravadas em tabuletas de argila ou esculpidas nas paredes de cavernas escuras, todas enterradas nas profundezas da Floresta Eterna, revelavam a adoração ancestral a essa entidade. Nas pinturas e símbolos que adornavam esses achados, os investigadores modernos encontravam imagens perturbadoras: figuras humanas ajoelhadas diante de uma sombra monstruosa, olhos vazios e ocos, enquanto ofereciam suas próprias almas.
 
@@ -60,15 +65,14 @@ E assim, à medida que os investigadores desvendavam esses fragmentos de verdade
 # O Despertar e a Corrupção:
 
 
-- **A Corrupção na Cidade:** Conforme a influência de Hagrath crescia, a cidade de Vale da Serenidade começou a sentir os efeitos da corrupção cósmica. Distúrbios na realidade, pesadelos coletivos e o desaparecimento inexplicável de crianças começaram a assolar a comunidade, mas os verdadeiros responsáveis permaneceram ocultos.
+Conforme a influência de Hagrath crescia, a cidade de Vale da Serenidade começou a sentir os efeitos da corrupção cósmica. Distúrbios na realidade, pesadelos coletivos e o desaparecimento inexplicável de crianças começaram a assolar a comunidade, mas os verdadeiros responsáveis permaneceram ocultos.
 
-- **A Fundação da [[Igreja de São Sereno]]:** Em um esforço para combater a crescente escuridão que envolvia a cidade, um [[São Sereno|líder espiritual]] local fundou a Igreja. Eles pregavam contra as práticas do culto e a influência de Hagrath, oferecendo uma alternativa à adoração da entidade cósmica.
+- **A Fundação da [[Igreja de São Sereno]]:** 
+	- Em um esforço para combater a crescente escuridão que envolvia a cidade, um [[São Sereno|líder espiritual]] local fundou a Igreja. Eles pregavam contra as práticas do culto e a influência de Hagrath, oferecendo uma alternativa à adoração da entidade cósmica.
 
-- **O Conflito Entre Fé e Obscuridade:** A cidade ficou dividida entre aqueles que adoravam Hagrath em busca de poder e aqueles que buscavam proteção espiritual na Igreja de São Sereno. Conflitos e tensões surgiram, aprofundando ainda mais o mistério e o medo que pairavam sobre Vale da Serenidade.
+A cidade ficou dividida entre aqueles que adoravam Hagrath em busca de poder e aqueles que buscavam proteção espiritual na Igreja de São Sereno. Conflitos e tensões surgiram, aprofundando ainda mais o mistério e o medo que pairavam sobre Vale da Serenidade.  O segredo do culto e a verdadeira natureza de Hagrath eram guardados com ferocidade pelos cultistas, tornando difícil para os investigadores e para aqueles que desejavam detê-los descobrir a extensão de seus atos malignos.
 
-- **A Persistência do Mistério:** O segredo do culto e a verdadeira natureza de Hagrath eram guardados com ferocidade pelos cultistas, tornando difícil para os investigadores e para aqueles que desejavam detê-los descobrir a extensão de seus atos malignos.
-
-- **O Desaparecimento de [[Isabella Reynolds]]:** Um dos momentos mais sombrios da história recente da cidade foi o desaparecimento de Isabella Reynolds, uma adolescente que estava envolvida com os cultistas. Seu desaparecimento levou a investigações mais intensas por parte das autoridades locais, mas a verdade sobre seu destino permaneceu obscura.
+- **O Desaparecimento de [[Isabella Reynolds]]:** Um dos momentos mais notáveis da história recente da cidade foi o desaparecimento de Isabella Reynolds, uma adolescente que estava envolvida com os cultistas. Seu desaparecimento levou a investigações mais intensas por parte das autoridades locais, mas a verdade sobre seu destino permaneceu obscura.
 
 - **Rituais Perigosos:** O culto continuou a realizar rituais perigosos na Floresta Eterna, abrindo portais para dimensões desconhecidas e arriscando a estabilidade da realidade. Cada ato ritualístico aumentava a influência de Hagrath e aprofundava a crise na cidade.
 

@@ -5,7 +5,7 @@ A cidade se estende ao longo das margens do rio Bravo, cujas águas límpidas re
 
 As ruas de paralelepípedos, gastas pela passagem silenciosa dos anos, serpenteiam as colinas suaves. As janelas das casas, cada uma com sua própria coleção de histórias não contadas, brilham suavemente na penumbra, como sentinelas vigilantes observando a noite.
 
-Ao cair da noite, uma atmosfera única toma conta da cidade. Os grilos começam sua sinfonia noturna, e sob o céu estrelado, o rio Sereno murmura suas canções ancestrais.
+Ao cair da noite, uma atmosfera única toma conta da cidade. Os grilos começam sua sinfonia noturna, e sob o céu estrelado, o rio Bravo murmura suas canções ancestrais.
 
 A principal praça da cidade é dominada por uma antiga [[Igreja de São Sereno|igreja de pedra]] , com vitrais misteriosos e relíquias esculpidas que invocam uma reverência profunda. A igreja serve como o centro espiritual da comunidade, onde os habitantes se reúnem nas manhãs tranquilas de domingo, enquanto o sol se ergue com uma suavidade sagrada.
 

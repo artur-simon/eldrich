@@ -22,7 +22,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Locais/Vale da Serenidade.md",
+                        "file": "Narrativa/Narrativa.md",
                         "mode": "source",
                         "source": false
                       }
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Narrativa/A Faminta.md",
+                        "file": "Narrativa/O Ídolo da Penúria.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -114,7 +114,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Narrativa/A Faminta.md",
+                    "file": "Narrativa/O Ídolo da Penúria.md",
                     "mode": "source",
                     "source": false
                   }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrativa/A Faminta.md",
+                "file": "Narrativa/O Ídolo da Penúria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrativa/A Faminta.md",
+                "file": "Narrativa/O Ídolo da Penúria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrativa/A Faminta.md"
+                "file": "Narrativa/O Ídolo da Penúria.md"
               }
             }
           },
@@ -261,32 +261,35 @@
   },
   "active": "05f2b7c93cb278a6",
   "lastOpenFiles": [
-    "Narrativa/Testamento.md",
-    "Narrativa/Pesadelo de Joseph.md",
-    "Narrativa/Pesadelo de Helmut.md",
+    "Narrativa/A Faminta.md",
     "Narrativa/Narrativa.md",
     "Narrativa/O Culto.md",
-    "Narrativa/O Evento do Sequestro.md",
     "Narrativa/Introdução.md",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Meta/Relatório de Sessões.md",
-    "Meta/Ideias/Ideias para sessão 5.md",
-    "Meta/Ideias/Ideias, Plot twists, personagens, eventos inesperados.md",
-    "Meta/Ideias/Ideias para Sessão 7.md",
-    "Meta/Ideias/Ideias para Sessão 6.md",
-    "Meta/Ideias/Ideias para Sessão 4.md",
-    "Meta/Ideias/Ideias para sessão 2.md",
-    "Locais/Mídia/Matérias sobre Vale da Serenidade.md",
-    "Locais/Igreja de São Sereno.md",
-    "Personagens/Ezekiel Wallace.md",
-    "Personagens/Henry Holloway.md",
-    "Personagens/Personagens.md",
+    "Personagens/Silvanus Thorne.md",
+    "Personagens/Robert Reynolds.md",
+    "Meta/Prompt.md",
+    "Personagens/Silas Corbet.md",
+    "Personagens/São Sereno.md",
+    "Personagens/Samuel Callan.md",
     "Personagens/Rufus 'O Sortudo' Wallace.md",
+    "Personagens/Marina Corvina.md",
+    "Personagens/Josephine Carter.md",
+    "Personagens/Joseph Johnston.md",
+    "Personagens/Isabella Reynolds.md",
+    "Personagens/Henry Holloway.md",
+    "Personagens/Helmut Albert Stalone.md",
+    "Personagens/Ezekiel Wallace.md",
+    "Personagens/Evelyn Whitman.md",
+    "Personagens/Emily Winchester.md",
+    "Personagens/Elias Hawthorn.md",
+    "Personagens/Draculoros.md",
+    "Personagens/Daniel O'Connor.md",
+    "Personagens/Cornelius Blackwood.md",
+    "Personagens/Benjamin Thornton.md",
     "Locais/Vale da Serenidade.md",
-    "Locais/Refúgio das Ervas.md",
-    "Locais/Creche Arco-Íris Encantado.md",
-    "Locais/A Floresta Eterna.md",
-    "Locais/Biblioteca Municipal.md",
+    "Assets/output.jpg",
+    "Assets/carta para albert.png",
+    "Assets/Simbolo na lápide.jpeg",
     "Canvas.canvas",
     "Personagens/assets/Evelyn 2.jpeg",
     "Personagens/assets/Evelyn.jpeg",
@@ -294,10 +297,7 @@
     "Personagens/assets/elias.jpeg",
     "Personagens/assets/Cornelius.jpeg",
     "Personagens/assets/Benjamin.jpeg",
-    "Assets/output.jpg",
-    "Assets/carta para albert.png",
     "Locais/assets/claro das fadas.jpg",
-    "Personagens/assets/samuel.webp",
     "Meta/Ideias",
     "Locais/assets",
     "Personagens/assets",
