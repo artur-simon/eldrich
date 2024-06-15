@@ -22,7 +22,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Narrativa/Narrativa.md",
+                        "file": "Narrativa/O Culto.md",
                         "mode": "source",
                         "source": false
                       }
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Narrativa/Narrativa.md",
+                        "file": "Locais/A Floresta Eterna.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -114,7 +114,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Narrativa/A Faminta.md",
+                    "file": "Locais/A Floresta Eterna.md",
                     "mode": "source",
                     "source": false
                   }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Narrativa/Narrativa.md",
+                "file": "Locais/A Floresta Eterna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Narrativa/Narrativa.md",
+                "file": "Locais/A Floresta Eterna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Narrativa/Narrativa.md"
+                "file": "Locais/A Floresta Eterna.md"
               }
             }
           },
@@ -259,9 +259,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3ce48c442aa1ce79",
+  "active": "4dc10b5f3a065da1",
   "lastOpenFiles": [
+    "Narrativa/Introdução.md",
     "Narrativa/A Faminta.md",
+    "Meta/Meta.md",
+    "Meta/Prompt.md",
+    "Meta/Relatório de Sessões.md",
+    "Meta/Transformação.md",
+    "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
+    "Narrativa/Narrativa.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Narrativa/Carta para os jogadores - Benjamin.md",
+    "Meta/Ideias/Ideias para Sessão 7.md",
+    "Meta/Ideias/Ideias, Plot twists, personagens, eventos inesperados.md",
+    "Narrativa/O Ídolo da Penúria.md",
+    "Narrativa/O Culto.md",
     "Personagens/Isabella Reynolds.md",
     "Personagens/Joseph Johnston.md",
     "Personagens/Henry Holloway.md",
@@ -274,19 +287,6 @@
     "Personagens/Daniel O'Connor.md",
     "Personagens/Cornelius Blackwood.md",
     "Personagens/Benjamin Thornton.md",
-    "Narrativa/O Culto.md",
-    "Narrativa/Narrativa.md",
-    "Narrativa/Introdução.md",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Narrativa/Carta para os jogadores - Benjamin.md",
-    "Narrativa/O Evento do Sequestro.md",
-    "Narrativa/O Ídolo da Penúria.md",
-    "Narrativa/Pesadelo de Helmut.md",
-    "Narrativa/Testamento.md",
-    "Narrativa/Pesadelo de Joseph.md",
-    "Personagens/Silvanus Thorne.md",
-    "Personagens/Robert Reynolds.md",
-    "Meta/Prompt.md",
     "Assets/output.jpg",
     "Assets/carta para albert.png",
     "Assets/Simbolo na lápide.jpeg",

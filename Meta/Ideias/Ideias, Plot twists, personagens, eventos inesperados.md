@@ -17,7 +17,6 @@
 - **A Epidemia Silenciosa**: Além dos desaparecimentos, uma estranha doença começou a se espalhar pela localidade rural. Os sintomas são bizarros e parecem estar relacionados ao culto.
 - **A Jornada Subterrânea**: A investigação leva os jogadores a descobrir uma série de túneis subterrâneos sinistros que servem como a base do culto. Navegar por essas passagens escuras é uma tarefa assustadora.
 - **A Visão da Criança**: Uma criança sobrevivente pode ter visões perturbadoras que revelam detalhes sobre o culto e sua líder. No entanto, essas visões são traumáticas e podem ameaçar a sanidade da criança.
-- [x] **O Pecado Original**: Descubra um segredo sombrio na história da localidade, algo que aconteceu no passado e que está relacionado aos desaparecimentos atuais. Talvez a cidade tenha feito um pacto maligno séculos atrás. 
 - **A Noite Eterna**: Um fenômeno sobrenatural causa a escuridão eterna na localidade, tornando a noite interminável. Isso torna a investigação ainda mais assustadora, já que os horrores podem espreitar a qualquer momento.
 - **A Corrupção das Autoridades**: Descubra que algumas autoridades locais, como o prefeito ou o médico, estão cientes dos desaparecimentos e estão encobrindo o culto devido a seus próprios interesses escusos.
 - **A Estátua do Horror**: Uma estátua antiga que representa uma das entidades cósmicas é encontrada. Aqueles que a contemplam começam a ser atormentados por visões e pesadelos perturbadores.
