@@ -23,7 +23,7 @@ O corpo de Henry Holloway foi encontrado sob circunstâncias misteriosas e pertu
 
 **Estado do Corpo:** O corpo estava em um estado avançado de decomposição, sugerindo que ele estivera desaparecido por um longo período de tempo. A pele estava pálida e inchada, com sinais evidentes de putrefação. A roupa que Henry usava estava rasgada e encharcada, e havia sinais de lama e folhas grudadas em seu corpo.
 
-**Posição das Mãos:** As mãos de Henry estavam estendidas à frente dele, com os dedos enterrados na terra úmida, como se tivesse estado em uma tentativa desesperada de se arrastar para fora da água ou da floresta. Seus olhos, que foram preservados devido à decomposição avançada, parecem fixos em um ponto distante, como se ele tivesse visto algo terrível antes de sua morte.
+**Posição das Mãos:** As mãos de Henry estavam estendidas à frente dele, com os dedos enterrados na terra úmida, como se tivesse estado em uma tentativa desesperada de se arrastar para fora da água ou da floresta. Seus olhos, que foram preservados apesar da decomposição avançada, parecem fixos em um ponto distante, como se ele tivesse visto algo terrível antes de sua morte.
 
 **Ausência de Ferimentos Óbvios:** Surpreendentemente, o corpo não apresentava ferimentos óbvios, como cortes ou contusões que indicassem uma causa direta de morte. No entanto, o estado de decomposição tornava difícil determinar qualquer lesão interna.
 

@@ -108,3 +108,7 @@ Mesmo com a resolução, a sombra do culto e das entidades cósmicas permanece. 
 - **Os Dossiês Fabricados**: Encontre dossiês que parecem detalhar a conspiração do culto, mas eles foram cuidadosamente forjados para criar confusão.
 - **O Testemunho do Sobrenatural**: Uma testemunha afirma ter visto uma entidade sobrenatural associada aos desaparecimentos, mas sua história é tão extraordinária que pode ser descartada como delírio.
 - **O Informante Traiçoeiro**: Um informante supostamente confiável compartilha informações que levam os investigadores em uma direção falsa, sendo ele próprio um membro do culto.    
+
+
+# Zombie w/ backstory
+The first monster I set my PCs against in ravenloft campaign was a ghoul. not a hoard of ghouls, just one. they defeated it easily--it just ran away from them. but when they defeated him they found out his name, his family, something of who he was before he became a ghoul. The only treasure on the ghoul was a doll made out of hair that he used as a substitute for his child. a horde of zombies is threatening, one zombie is scary, a zombie with a backstory is horror.

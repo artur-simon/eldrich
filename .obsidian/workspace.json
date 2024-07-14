@@ -10,6 +10,7 @@
           {
             "id": "291d0ee16467e3c7",
             "type": "split",
+            "dimension": 41.50702426564495,
             "children": [
               {
                 "id": "130dfb410a3076e4",
@@ -20,12 +21,8 @@
                     "id": "3ce48c442aa1ce79",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Narrativa/O Culto.md",
-                        "mode": "source",
-                        "source": false
-                      }
+                      "type": "graph",
+                      "state": {}
                     }
                   }
                 ]
@@ -41,7 +38,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Locais/A Floresta Eterna.md",
+                        "file": "Narrativa/Players/Pesadelo de Helmut.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -107,14 +104,15 @@
           {
             "id": "cab578fc3f5398df",
             "type": "tabs",
+            "dimension": 58.49297573435505,
             "children": [
               {
-                "id": "4dc10b5f3a065da1",
+                "id": "945d12c1640af499",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Locais/A Floresta Eterna.md",
+                    "file": "Narrativa/Players/Pesadelo de Helmut.md",
                     "mode": "source",
                     "source": false
                   }
@@ -152,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locais/A Floresta Eterna.md",
+                "file": "Narrativa/Players/Pesadelo de Helmut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locais/A Floresta Eterna.md",
+                "file": "Narrativa/Players/Pesadelo de Helmut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locais/A Floresta Eterna.md"
+                "file": "Narrativa/Players/Pesadelo de Helmut.md"
               }
             }
           },
@@ -259,34 +257,37 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4dc10b5f3a065da1",
+  "active": "05f2b7c93cb278a6",
   "lastOpenFiles": [
-    "Narrativa/Introdução.md",
-    "Narrativa/A Faminta.md",
-    "Meta/Meta.md",
-    "Meta/Prompt.md",
-    "Meta/Relatório de Sessões.md",
+    "Narrativa/Players/As visões de Helmut.md",
     "Meta/Transformação.md",
     "Meta/Sombras na Serenidade - O pacto com o Desconhecido.md",
-    "Narrativa/Narrativa.md",
-    "Narrativa/Enterro de Henry Holloway.md",
-    "Narrativa/Carta para os jogadores - Benjamin.md",
-    "Meta/Ideias/Ideias para Sessão 7.md",
+    "Meta/Resumo.md",
+    "Meta/Relatório de Sessões.md",
+    "Meta/Prompt.md",
+    "Meta/Meta.md",
+    "Meta/Arcos.md",
     "Meta/Ideias/Ideias, Plot twists, personagens, eventos inesperados.md",
-    "Narrativa/O Ídolo da Penúria.md",
-    "Narrativa/O Culto.md",
-    "Personagens/Isabella Reynolds.md",
-    "Personagens/Joseph Johnston.md",
+    "Narrativa/A Faminta.md",
     "Personagens/Henry Holloway.md",
+    "Personagens/Isabella Reynolds.md",
     "Personagens/Helmut Albert Stalone.md",
-    "Personagens/Ezekiel Wallace.md",
-    "Personagens/Evelyn Whitman.md",
-    "Personagens/Emily Winchester.md",
-    "Personagens/Elias Hawthorn.md",
-    "Personagens/Draculoros.md",
-    "Personagens/Daniel O'Connor.md",
-    "Personagens/Cornelius Blackwood.md",
     "Personagens/Benjamin Thornton.md",
+    "Narrativa/O Culto.md",
+    "Narrativa/Players/Pesadelo de Helmut.md",
+    "Narrativa/Carta para os jogadores - Benjamin.md",
+    "Narrativa/Enterro de Henry Holloway.md",
+    "Narrativa/Players/Pesadelo de Joseph.md",
+    "Personagens/Elias Hawthorn.md",
+    "Narrativa/Testamento.md",
+    "Personagens/Silvanus Thorne.md",
+    "Personagens/Samuel Callan.md",
+    "Personagens/Marina Corvina.md",
+    "Personagens/Personagens.md",
+    "Personagens/Josephine Carter.md",
+    "Narrativa/Players",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Assets/output.jpg",
     "Assets/carta para albert.png",
     "Assets/Simbolo na lápide.jpeg",
@@ -301,14 +302,11 @@
     "Meta/Ideias",
     "Locais/assets",
     "Personagens/assets",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Recording 20231107002617.webm",
     "Recording 20231107002628.webm",
     "Locais/Mídia",
     "Personagens",
     "Narrativa",
-    "Meta/Ideias/Desafios",
-    "Meta/Arcos"
+    "Meta/Ideias/Desafios"
   ]
 }
